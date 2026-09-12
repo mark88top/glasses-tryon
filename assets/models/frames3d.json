@@ -1,0 +1,21 @@
+{
+  "note": "Monturas 3D reales usadas para el probador. Las de BeeAR low-poly (216-616 vertices) quedaron fuera a proposito: se ven como bloques. Cada catalogo se mapea a la montura de su forma; el TAMANO se escala a los milimetros reales del modelo, asi que el chequeo de talle sigue siendo valido aunque la montura sea representativa.",
+  "frames": [
+    { "id": "aviator-metal",   "path": "assets/models/bensonruan-05/scene.gltf", "title": "Aviator sunglasses", "author": "Kimppo", "license": "CC-BY-4.0", "shapes": ["aviator"], "lensMat": "auto" },
+    { "id": "wayfarer-acetato","path": "assets/models/bensonruan-04/scene.gltf", "title": "Plastic Sunglasses", "author": "Incg5764", "license": "CC-BY-4.0", "shapes": ["wayfarer", "square", "browline", "geometric"], "lensMat": "auto" },
+    { "id": "cateye-acetato",  "path": "assets/models/bensonruan-07/scene.gltf", "title": "3D frames", "author": "VReeAI", "license": "CC-BY-4.0", "shapes": ["cat_eye", "oversized"], "lensMat": "auto" },
+    { "id": "round-metal",     "path": "assets/models/bensonruan-02/scene.gltf", "title": "Glasses 07", "author": "Dokono Kinokoda", "license": "CC-BY-4.0", "shapes": ["round", "oval"], "lensMat": "auto" },
+    { "id": "sport-wrap",      "path": "assets/models/bensonruan-01/scene.gltf", "title": "Sport Glasses B307", "author": "hanchiahui", "license": "CC-BY-4.0", "shapes": ["shield"], "lensMat": "auto" },
+    { "id": "optica-fina",     "path": "assets/models/bensonruan-06/scene.gltf", "title": "EyeGlasses", "author": "thelegendofwolf", "license": "CC-BY-4.0", "shapes": ["rectangle"], "lensMat": "auto" },
+    { "id": "optica-cuadrada", "path": "assets/models/bensonruan-03/scene.gltf", "title": "Cartoon Glasses", "author": "Lucas_Bartolomeo", "license": "CC-BY-4.0", "shapes": [], "lensMat": "auto" },
+    { "id": "optica-panto",    "path": "assets/models/beear/glasses_meshy_studio.glb", "title": "BeeAR x Meshy Studio", "author": "MergeOS", "license": "MIT", "shapes": ["panto"], "lensMat": "auto" },
+    { "id": "optica-angular",  "path": "assets/models/beear/glasses_meshy_ellipse.glb", "title": "BeeAR x Meshy Ellipse", "author": "MergeOS", "license": "MIT", "shapes": ["hexagonal", "octagonal"], "lensMat": "auto" }
+  ],
+  "fallbackByShape": {
+    "aviator": "aviator-metal", "wayfarer": "wayfarer-acetato", "square": "wayfarer-acetato",
+    "rectangle": "optica-fina", "round": "round-metal", "oval": "round-metal",
+    "panto": "optica-panto", "cat_eye": "cateye-acetato", "oversized": "cateye-acetato",
+    "browline": "wayfarer-acetato", "hexagonal": "optica-angular", "octagonal": "optica-angular",
+    "geometric": "wayfarer-acetato", "shield": "sport-wrap"
+  }
+}

@@ -1,0 +1,1593 @@
+{
+  "models": [
+    {
+      "brand": "Carrera",
+      "model": "CHAMPION",
+      "category": "sunglasses",
+      "shape": "aviator",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Brown Havana",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Black Gold",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Matte Black",
+          "hex": "#1f1f1f"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Brown Shaded",
+          "hex": "#6b4a33",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Dark Grey Shaded",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Grey",
+          "hex": "#6e7378",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Polyamide (injected)",
+      "lens_width_mm": 62,
+      "bridge_mm": 12,
+      "temple_mm": 130,
+      "face_shapes_recommended": [
+        "oval",
+        "square",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 180,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://us.carreraworld.com/products/champion",
+      "iconic": true,
+      "notes": "Ficha oficial Carrera US: pilot full-rim, base 6 esferica, sin flex hinge. Una variante lista temple 125 mm en vez de 130. La grilla de la coleccion muestra 'CHAMPION $135+' (precio promocional); la ficha del producto marca $180. Sin precio ARS oficial: en Argentina entra por revendedores (SmartBuyGlasses AR, Duty Free Buenos Aires, MercadoLibre).",
+      "sources": [
+        "https://us.carreraworld.com/products/champion",
+        "https://us.carreraworld.com/collections/sunglasses",
+        "https://www.smartbuyglasses.com.ar/lentes-de-sol-de-diseno/Carrera/"
+      ]
+    },
+    {
+      "brand": "Carrera",
+      "model": "CARRERA 1001/S",
+      "category": "sunglasses",
+      "shape": "aviator",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Matte Black Red",
+          "hex": "#2a1a1a"
+        },
+        {
+          "name": "Black White",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Dark Grey SF Gradient",
+          "hex": "#45484d",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Polyamide Grilamid (front frame and temples)",
+      "lens_width_mm": 62,
+      "bridge_mm": 11,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "oval",
+        "square",
+        "heart"
+      ],
+      "price_usd": 180,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://us.carreraworld.com/products/carrera-1001-s",
+      "iconic": true,
+      "notes": "Ficha oficial: 'Navigator Full Rim Frame Shape', lentes no polarizadas con proteccion UV, apto para Rx. Solo dos colorways publicados al 11-sep-2026.",
+      "sources": [
+        "https://us.carreraworld.com/products/carrera-1001-s"
+      ]
+    },
+    {
+      "brand": "Police",
+      "model": "Origins Lite 40 Man Sunglasses Police SPLU66",
+      "category": "sunglasses",
+      "shape": "geometric",
+      "gender": "male",
+      "frame_colors": [
+        {
+          "name": "Shiny rose gold",
+          "hex": "#b76e79"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke",
+          "hex": "#4f5359",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Metal",
+      "lens_width_mm": 58,
+      "bridge_mm": 18,
+      "temple_mm": 150,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": null,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://policelifestyle.com/ww-en/origins-lite-40-man-sunglasses-police-splu66-splu66580300-p",
+      "iconic": false,
+      "notes": "La tienda oficial ROW de Police cotiza en EUR: 125 EUR (no publica USD, por eso price_usd = null). Coleccion Origins (doble puente, aguila esmaltada en las varillas). En Argentina no hay tienda oficial: entra por SmartBuyGlasses AR / MC Optica / MercadoLibre. La coleccion Lewis Hamilton ya no figura en el listado de hombre de policelifestyle.com (212 productos revisados, aparecen Zac Efron X Police, Unlocked, Origins, Nerve, Roadie, Champ, Invictus).",
+      "sources": [
+        "https://policelifestyle.com/ww-en/origins-lite-40-man-sunglasses-police-splu66-splu66580300-p",
+        "https://policelifestyle.com/ww-en/sunglasses-men-c",
+        "https://www.smartbuyglasses.com.ar/lentes-de-sol-de-diseno/Police/"
+      ]
+    },
+    {
+      "brand": "Police",
+      "model": "Champ 8 Man Sunglasses Police SPLN21",
+      "category": "sunglasses",
+      "shape": "square",
+      "gender": "male",
+      "frame_colors": [
+        {
+          "name": "Shiny black",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Blue gradient smoke",
+          "hex": "#3b4a63",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 56,
+      "bridge_mm": 16,
+      "temple_mm": 145,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": null,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://policelifestyle.com/ww-en/champ-8-man-sunglasses-police-spln21-spln21560700-p",
+      "iconic": false,
+      "notes": "Precio oficial 145 EUR en policelifestyle.com (ROW). No publica USD ni ARS. La ficha describe la forma como 'squared'. Polarizacion no declarada en la ficha.",
+      "sources": [
+        "https://policelifestyle.com/ww-en/champ-8-man-sunglasses-police-spln21-spln21560700-p"
+      ]
+    },
+    {
+      "brand": "Vuarnet",
+      "model": "LEGEND 06 ORIGINALS",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Dark Havana",
+          "hex": "#5a3a22"
+        },
+        {
+          "name": "Tortoise",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Transparent Green",
+          "hex": "#7fa08a"
+        },
+        {
+          "name": "Green",
+          "hex": "#2f4f3a"
+        },
+        {
+          "name": "Brown",
+          "hex": "#5b3a1e"
+        },
+        {
+          "name": "Blue",
+          "hex": "#26456b"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Skilynx",
+          "hex": "#b07a3c",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Greylynx",
+          "hex": "#55585c",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Brownlynx",
+          "hex": "#6b4a2e",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Grey Bluelynx",
+          "hex": "#4a5566",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Grey Polar",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": true
+        }
+      ],
+      "material": "Nylon (exclusive Vuarnet frame material), mineral glass lenses",
+      "lens_width_mm": 58,
+      "bridge_mm": 17,
+      "temple_mm": 138,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 275,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://us.vuarnet.com/products/legend-06-originals",
+      "iconic": true,
+      "notes": "Medidas exactas de la ficha EU: 58.2 / 17.4 / 137.6 mm, altura 43.6 mm (redondeadas al entero). Precio: 240 EUR en eu.vuarnet.com, 275 USD en us.vuarnet.com. Made in France, bisagras monobloc integradas, categoria 3. No se encontro distribuidor oficial en Argentina (marcado false, no verificado que no exista).",
+      "sources": [
+        "https://eu.vuarnet.com/en/products/legend-06-originals",
+        "https://us.vuarnet.com/collections/vintage"
+      ]
+    },
+    {
+      "brand": "Vuarnet",
+      "model": "LEGEND 03 ORIGINALS",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Tortoise",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Transparent Grey",
+          "hex": "#a9adb2"
+        },
+        {
+          "name": "Dark Havana",
+          "hex": "#5a3a22"
+        },
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Brown",
+          "hex": "#5b3a1e"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d8c6a8"
+        },
+        {
+          "name": "Blue",
+          "hex": "#26456b"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Skilynx",
+          "hex": "#b07a3c",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Greylynx",
+          "hex": "#55585c",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Brownlynx",
+          "hex": "#6b4a2e",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Grey Bluelynx",
+          "hex": "#4a5566",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Grey Polar",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": true
+        }
+      ],
+      "material": "Nylon (exclusive Vuarnet frame material), mineral glass lenses",
+      "lens_width_mm": 60,
+      "bridge_mm": 14,
+      "temple_mm": 138,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 320,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://us.vuarnet.com/products/legend-03-originals",
+      "iconic": true,
+      "notes": "Medidas exactas de la ficha EU: 60.5 / 13.6 / 138.2 mm, altura 48.3 mm. Precio 210 EUR (eu) y 320 USD (us.vuarnet.com). Modelo grande, unisex, campo de vision amplio. Sin distribucion oficial verificada en Argentina.",
+      "sources": [
+        "https://eu.vuarnet.com/en/products/legend-03-originals",
+        "https://us.vuarnet.com/collections/vintage"
+      ]
+    },
+    {
+      "brand": "Vuarnet",
+      "model": "GLACIER 02",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Silver",
+          "hex": "#c0c4c8"
+        },
+        {
+          "name": "Amber",
+          "hex": "#c08a3e"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Blue Polarlynx",
+          "hex": "#3c5a78",
+          "mirrored": true,
+          "polarized": true
+        }
+      ],
+      "material": "Bio-acetate and beta-titanium, mineral glass lenses, leather side shields",
+      "lens_width_mm": 52,
+      "bridge_mm": 22,
+      "temple_mm": 145,
+      "face_shapes_recommended": [
+        "square",
+        "oblong",
+        "diamond"
+      ],
+      "price_usd": null,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://eu.vuarnet.com/en/collections/glacier/products/glacier-round-02",
+      "iconic": true,
+      "notes": "Precio oficial 620 EUR en eu.vuarnet.com; no aparece en el listado de us.vuarnet.com, por eso price_usd = null. Visores laterales de acetato de 8 mm removibles, puente de cuero, 52 g, hecho en Japon, categoria 3. Altura de lente 46.7 mm.",
+      "sources": [
+        "https://eu.vuarnet.com/en/collections/glacier/products/glacier-round-02",
+        "https://eu.vuarnet.com/en/collections/glacier"
+      ]
+    },
+    {
+      "brand": "Maui Jim",
+      "model": "RED SANDS",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Matte Greyish-Green",
+          "hex": "#6b7061"
+        },
+        {
+          "name": "Matte Black",
+          "hex": "#1f1f1f"
+        },
+        {
+          "name": "Grey Tortoise",
+          "hex": "#6e6258"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Neutral Grey",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": true
+        }
+      ],
+      "material": null,
+      "lens_width_mm": null,
+      "bridge_mm": null,
+      "temple_mm": null,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 259,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.mauijim.com/US/en_US/shop/sunglasses/rectangular/red-sands",
+      "iconic": true,
+      "notes": "SIN VERIFICAR medidas en mm ni material del armazon: la ficha de Maui Jim ya no publica lens width / bridge / temple, solo 'Face Size: M' y un size guide generico. SKU 432-15 / MJ0432S-005. Material de lente: MauiPure. Todas las lentes son PolarizedPlus2 (polarizadas). En Argentina se consigue por opticas y MercadoLibre, no hay tienda oficial.",
+      "sources": [
+        "https://www.mauijim.com/US/en_US/shop/sunglasses/rectangular/red-sands",
+        "https://opticanaranjo.com.ar/anteojos-maui-jim-en-argentina/"
+      ]
+    },
+    {
+      "brand": "Maui Jim",
+      "model": "PEAHI",
+      "category": "sunglasses",
+      "shape": "sport",
+      "gender": "male",
+      "frame_colors": [
+        {
+          "name": "Gloss Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Matte Solid Dark Grey",
+          "hex": "#4b4e52"
+        },
+        {
+          "name": "Black Matte Rubber",
+          "hex": "#232323"
+        },
+        {
+          "name": "Tortoise",
+          "hex": "#6b4423"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "HCL Bronze",
+          "hex": "#7a5230",
+          "mirrored": false,
+          "polarized": true
+        }
+      ],
+      "material": null,
+      "lens_width_mm": null,
+      "bridge_mm": null,
+      "temple_mm": null,
+      "face_shapes_recommended": [
+        "oval",
+        "square",
+        "oblong"
+      ],
+      "price_usd": 289,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.mauijim.com/US/en_US/shop/sunglasses/wrap/peahi",
+      "iconic": true,
+      "notes": "SIN VERIFICAR medidas en mm ni material del armazon (la ficha solo da 'Face Size: M'). SKU H202-10 / MJ0202S-003, lente SuperThin Glass, PolarizedPlus2. Maui Jim la clasifica como 'wrap' (mapeado a shape sport).",
+      "sources": [
+        "https://www.mauijim.com/US/en_US/shop/sunglasses/wrap/peahi"
+      ]
+    },
+    {
+      "brand": "Maui Jim",
+      "model": "HO'OKIPA",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Gloss Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Shiny Crystal",
+          "hex": "#dfe3e6"
+        },
+        {
+          "name": "Shiny Transparent Blue",
+          "hex": "#6f9ec7"
+        },
+        {
+          "name": "Smoke Grey",
+          "hex": "#5a5f66"
+        },
+        {
+          "name": "Shiny Transparent Light Green",
+          "hex": "#a9c9a2"
+        },
+        {
+          "name": "Shiny Transparent Cyclamen Pink",
+          "hex": "#e8b4b8"
+        },
+        {
+          "name": "Tortoise",
+          "hex": "#6b4423"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "MAUI Sunrise",
+          "hex": "#e6a06a",
+          "mirrored": false,
+          "polarized": true
+        }
+      ],
+      "material": null,
+      "lens_width_mm": null,
+      "bridge_mm": null,
+      "temple_mm": null,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "square",
+        "heart"
+      ],
+      "price_usd": 229,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.mauijim.com/US/en_US/shop/sunglasses/rimless/ho-okipa",
+      "iconic": true,
+      "notes": "SIN VERIFICAR medidas en mm ni material del armazon. Es semi-rimless (Maui Jim la lista bajo 'rimless'); la forma se mapeo a rectangle. SKU P407-09 / MJ0407S-006, lente MauiPure, PolarizedPlus2, plaquetas y terminales de goma ajustables.",
+      "sources": [
+        "https://www.mauijim.com/US/en_US/shop/sunglasses/rimless/ho-okipa"
+      ]
+    },
+    {
+      "brand": "Gentle Monster",
+      "model": "Her 01",
+      "category": "sunglasses",
+      "shape": "oversized",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Black",
+          "hex": "#1f1f1f",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 65,
+      "bridge_mm": 15,
+      "temple_mm": 147,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 255,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://www.gentlemonster.com/us/en/item/1DOVPNEZ3P7MZ/her01",
+      "iconic": true,
+      "notes": "Medidas exactas de la ficha: lente 65.3 x 55.8 mm, puente 15 mm, varilla 147 mm, frente 148.2 mm. Gentle Monster la llama 'Square Sunglasses'; por el tamano (65 mm) se mapeo a oversized. Bloquea 99.9% UV. Existe 'Her 01 Small' (lente 61.4 x 52.4 mm, USD 255) y 'New Her 01' (63.9 x 53.7 mm, USD 265). Sin venta oficial en Argentina.",
+      "sources": [
+        "https://www.gentlemonster.com/us/en/item/1DOVPNEZ3P7MZ/her01",
+        "https://www.gentlemonster.com/us/en/item/1FYXMRWDKV8ZA/her01small",
+        "https://www.gentlemonster.com/us/en/item/1F68QMBJNI7MW/newher01"
+      ]
+    },
+    {
+      "brand": "Gentle Monster",
+      "model": "New Her 01",
+      "category": "sunglasses",
+      "shape": "oversized",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Black",
+          "hex": "#1f1f1f",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 64,
+      "bridge_mm": 15,
+      "temple_mm": 147,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 265,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://www.gentlemonster.com/us/en/item/1F68QMBJNI7MW/newher01",
+      "iconic": true,
+      "notes": "Medidas exactas: lente 63.9 x 53.7 mm, puente 15 mm, varilla 147 mm, frente 148.9 mm. Declarada 'Square' por la marca; oversized por proporciones.",
+      "sources": [
+        "https://www.gentlemonster.com/us/en/item/1F68QMBJNI7MW/newher01"
+      ]
+    },
+    {
+      "brand": "Gentle Monster",
+      "model": "Lang 01",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Black",
+          "hex": "#1f1f1f",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 65,
+      "bridge_mm": 18,
+      "temple_mm": 147,
+      "face_shapes_recommended": [
+        "square",
+        "oblong",
+        "diamond"
+      ],
+      "price_usd": null,
+      "price_ars": null,
+      "price_date": null,
+      "available_in_argentina": false,
+      "buy_url": "https://www.gentlemonster.com/us/shop/item/lang01/1DOVPNEZ3VB8I",
+      "iconic": true,
+      "notes": "SIN PRECIO VERIFICADO: la ficha oficial esta SOLD OUT y no muestra precio. Medidas exactas de la ficha: lente 64.6 x 47.4 mm, puente 18 mm, varilla 147 mm, frente 150.3 mm. Existe variante 'Lang 01(OR)' con lente naranja, tambien agotada.",
+      "sources": [
+        "https://www.gentlemonster.com/us/shop/item/lang01/1DOVPNEZ3VB8I",
+        "https://www.gentlemonster.com/us/en/item/1EG8COWRYVJWO/lang01-or"
+      ]
+    },
+    {
+      "brand": "Le Specs",
+      "model": "THE PRINCE",
+      "category": "sunglasses",
+      "shape": "aviator",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Matte Black",
+          "hex": "#1f1f1f"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke Mono",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Metal frame, polycarbonate lenses",
+      "lens_width_mm": 57,
+      "bridge_mm": 15,
+      "temple_mm": 144,
+      "face_shapes_recommended": [
+        "oval",
+        "square",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 99,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://lespecs.com/products/the-prince-matte-black-smoke-mono-lsp1602147",
+      "iconic": true,
+      "notes": "Ficha oficial: frente 141 mm, alto 52 mm, lentes completamente planas, bisagras spring, plaquetas ajustables, categoria 3. No se encontro retailer oficial en Argentina.",
+      "sources": [
+        "https://lespecs.com/products/the-prince-matte-black-smoke-mono-lsp1602147"
+      ]
+    },
+    {
+      "brand": "Le Specs",
+      "model": "OUTTA LOVE",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke Mono",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Ecozen T110 (10% plant biomass), polycarbonate lenses",
+      "lens_width_mm": 51,
+      "bridge_mm": 17,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "square",
+        "oblong",
+        "diamond",
+        "heart"
+      ],
+      "price_usd": 75,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://lespecs.com/products/outta-love-black-smoke-mono-lsp1802189",
+      "iconic": true,
+      "notes": "La marca la describe como OVAL slimline noventosa de calce petite (frente 136 mm, alto 36 mm); se mapeo a 'round' por no existir oval en el enum. Le Specs la lista como Uni-Sex pero el fit petite y el marketing son femeninos.",
+      "sources": [
+        "https://lespecs.com/products/outta-love-black-smoke-mono-lsp1802189"
+      ]
+    },
+    {
+      "brand": "Le Specs",
+      "model": "AIR HEART",
+      "category": "sunglasses",
+      "shape": "cat_eye",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black Gold",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Khaki Mono",
+          "hex": "#5a5a3c",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Ecozen T110 (10% plant biomass), polycarbonate lenses",
+      "lens_width_mm": 51,
+      "bridge_mm": 22,
+      "temple_mm": 144,
+      "face_shapes_recommended": [
+        "round",
+        "square",
+        "heart",
+        "oblong"
+      ],
+      "price_usd": 90,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://lespecs.com/products/air-heart-black-gold-khaki-mono-lsp1602175",
+      "iconic": true,
+      "notes": "Ficha oficial: frente 147 mm, alto 60 mm, oversized con inlay metalico en la barra superior, lentes flat zero base, categoria 3. Existen variantes Oatmeal, Caramel, Tort y una Black polarizada.",
+      "sources": [
+        "https://lespecs.com/products/air-heart-black-gold-khaki-mono-lsp1602175"
+      ]
+    },
+    {
+      "brand": "Le Specs",
+      "model": "BANDWAGON",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke Gradient",
+          "hex": "#565a60",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Polycarbonate frame and lenses",
+      "lens_width_mm": 51,
+      "bridge_mm": 20,
+      "temple_mm": 146,
+      "face_shapes_recommended": [
+        "square",
+        "oblong",
+        "diamond"
+      ],
+      "price_usd": 39.99,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://lespecs.com/products/bandwagon-black-lsp2002298",
+      "iconic": true,
+      "notes": "Precio de lista 75 USD; al 11-sep-2026 esta en oferta a 39.99 USD (price_usd refleja el precio vigente). Frente 141 mm, alto 51 mm, puente keyhole, remaches metalicos y flagstripe Le Specs.",
+      "sources": [
+        "https://lespecs.com/products/bandwagon-black-lsp2002298"
+      ]
+    },
+    {
+      "brand": "Quay Australia",
+      "model": "HIGH KEY",
+      "category": "sunglasses",
+      "shape": "aviator",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Gold",
+          "hex": "#d4af37"
+        },
+        {
+          "name": "Rose Gold",
+          "hex": "#b76e79"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4b3425"
+        },
+        {
+          "name": "Garnet",
+          "hex": "#7b2130"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Fade",
+          "hex": "#6c7176",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown Fade",
+          "hex": "#7a5a3c",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Dark Brown",
+          "hex": "#4a3323",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Tan Rose",
+          "hex": "#c79a86",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Pistachio Glow",
+          "hex": "#9cc08a",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Teal Glow",
+          "hex": "#3f8f8c",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Copper Fade",
+          "hex": "#a9652f",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Gold",
+          "hex": "#d4af37",
+          "mirrored": true,
+          "polarized": false
+        }
+      ],
+      "material": "Metal arms with adjustable silicone nose pads",
+      "lens_width_mm": null,
+      "bridge_mm": 20,
+      "temple_mm": 146,
+      "face_shapes_recommended": [
+        "oval",
+        "square",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 75,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.quay.com/products/high-key",
+      "iconic": true,
+      "notes": "Quay NO publica lens width: la ficha da frame width 153 mm, lens height 56 mm, bridge 20 mm, arm 146 mm (por eso lens_width_mm = null). Precio 75 USD la version standard y 95 USD la polarizada; hay tallas High Key Mini / Large / Extra Large. SIN VERIFICAR que colorways son mirrored: el 'mirrored' de Pistachio/Teal/Gold Glow es inferencia por el nombre del acabado. quayaustralia.com redirige a quay.com.",
+      "sources": [
+        "https://www.quay.com/products/high-key",
+        "https://www.quay.com/collections/bestsellers"
+      ]
+    },
+    {
+      "brand": "Quay Australia",
+      "model": "AFTER HOURS",
+      "category": "sunglasses",
+      "shape": "square",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Tortoise Black",
+          "hex": "#4a3526"
+        },
+        {
+          "name": "Matte Black",
+          "hex": "#1f1f1f"
+        },
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Sweet Pea",
+          "hex": "#9ab87f"
+        },
+        {
+          "name": "Crystal Doe",
+          "hex": "#dfe3e6"
+        },
+        {
+          "name": "Garnet Ombre",
+          "hex": "#7b2130"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Black Fade",
+          "hex": "#33363a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Tan",
+          "hex": "#b08a63",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown",
+          "hex": "#5b3f28",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": null,
+      "lens_width_mm": null,
+      "bridge_mm": 23,
+      "temple_mm": 150,
+      "face_shapes_recommended": [
+        "round",
+        "oval",
+        "heart"
+      ],
+      "price_usd": 75,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.quay.com/products/after-hours",
+      "iconic": true,
+      "notes": "Quay no publica lens width ni material del armazon (frame width 150 mm, lens height 48 mm). Winged square. Version polarizada a 95 USD (colorway Black/Smoke Polarized).",
+      "sources": [
+        "https://www.quay.com/products/after-hours"
+      ]
+    },
+    {
+      "brand": "Quay Australia",
+      "model": "NIGHTFALL",
+      "category": "sunglasses",
+      "shape": "shield",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Tortoise",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4b3425"
+        },
+        {
+          "name": "Espresso",
+          "hex": "#3a2a20"
+        },
+        {
+          "name": "Doe",
+          "hex": "#c8b49a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown",
+          "hex": "#5b3f28",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Pistachio Glow",
+          "hex": "#9cc08a",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Teal Glow",
+          "hex": "#3f8f8c",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "FutureDusk Poppy",
+          "hex": "#8a7fb5",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Brown Fawn",
+          "hex": "#8a6a4a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Palm Taupe",
+          "hex": "#8b8177",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Copper Fade",
+          "hex": "#a9652f",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Black Aqua",
+          "hex": "#2b5a63",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Iris Glow",
+          "hex": "#7a6fc0",
+          "mirrored": true,
+          "polarized": false
+        }
+      ],
+      "material": null,
+      "lens_width_mm": null,
+      "bridge_mm": 13,
+      "temple_mm": 152,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 80,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.quay.com/products/nightfall",
+      "iconic": true,
+      "notes": "Lente de una pieza, armazon rimless con plaquetas universales integradas. Frame width 140 mm, lens height 52 mm; Quay no publica lens width ni material del armazon. Version polarizada 100 USD. El flag mirrored de los colorways 'Glow' es inferencia por el nombre del acabado.",
+      "sources": [
+        "https://www.quay.com/products/nightfall"
+      ]
+    },
+    {
+      "brand": "Warby Parker",
+      "model": "Haskell",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Crystal",
+          "hex": "#dfe3e6"
+        },
+        {
+          "name": "Chestnut Crystal",
+          "hex": "#8a5a3b"
+        },
+        {
+          "name": "Whiskey Tortoise",
+          "hex": "#6b4423"
+        }
+      ],
+      "lens_colors": [],
+      "material": "Cellulose Acetate",
+      "lens_width_mm": 50,
+      "bridge_mm": 21,
+      "temple_mm": 145,
+      "face_shapes_recommended": [
+        "square",
+        "oblong",
+        "diamond"
+      ],
+      "price_usd": 95,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://www.warbyparker.com/sunglasses/haskell/crystal",
+      "iconic": true,
+      "notes": "Medidas del talle Medium (frame width 133 mm); tambien hay Wide. SIN VERIFICAR nombres de color de lente: Warby Parker vende la lente como opcion de checkout (tints, polarized, flash), no como nombre de colorway, por eso lens_colors queda vacio. La ficha JSON-LD declara suggestedGender: unisex. Warby Parker solo vende en USA y Canada (footer del sitio), no envia a Argentina. Lentes de policarbonato, bloquean 100% UV.",
+      "sources": [
+        "https://www.warbyparker.com/sunglasses/haskell/crystal",
+        "https://www.warbyparker.com/sunglasses/haskell/whiskey-tortoise",
+        "https://www.warbyparker.com/sunglasses/haskell/chestnut-crystal"
+      ]
+    },
+    {
+      "brand": "Warby Parker",
+      "model": "Durand",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Whiskey Tortoise",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Jet Black with Polished Gold",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Crystal",
+          "hex": "#dfe3e6"
+        },
+        {
+          "name": "Rose Water",
+          "hex": "#e8b4b8"
+        },
+        {
+          "name": "Oak Resin Matte",
+          "hex": "#a98c6b"
+        },
+        {
+          "name": "Laguna Crystal Matte",
+          "hex": "#8fa9b5"
+        }
+      ],
+      "lens_colors": [],
+      "material": "Cellulose Acetate",
+      "lens_width_mm": 48,
+      "bridge_mm": 18,
+      "temple_mm": 142,
+      "face_shapes_recommended": [
+        "oval",
+        "square",
+        "heart",
+        "oblong"
+      ],
+      "price_usd": 95,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://www.warbyparker.com/sunglasses/durand/whiskey-tortoise",
+      "iconic": true,
+      "notes": "Medidas del talle Medium (frame width 133 mm); tambien hay Wide. Warby Parker describe la forma como el punto medio entre cuadrada y redonda (shape 'round' es la aproximacion). SIN VERIFICAR nombres de color de lente (se eligen en el checkout). JSON-LD: unisex.",
+      "sources": [
+        "https://www.warbyparker.com/sunglasses/durand/whiskey-tortoise"
+      ]
+    },
+    {
+      "brand": "Warby Parker",
+      "model": "Percey",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Striped Sassafras",
+          "hex": "#7a4a2c"
+        },
+        {
+          "name": "Viridian",
+          "hex": "#3f6b5a"
+        },
+        {
+          "name": "Pacific Crystal",
+          "hex": "#9fc0cf"
+        },
+        {
+          "name": "Petal Tortoise",
+          "hex": "#c9917f"
+        },
+        {
+          "name": "Honeydew with Cider Tortoise",
+          "hex": "#c7cf9a"
+        }
+      ],
+      "lens_colors": [],
+      "material": "Cellulose Acetate",
+      "lens_width_mm": 48,
+      "bridge_mm": 20,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "square",
+        "oblong",
+        "diamond",
+        "heart"
+      ],
+      "price_usd": 95,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": false,
+      "buy_url": "https://www.warbyparker.com/sunglasses/percey/striped-sassafras",
+      "iconic": true,
+      "notes": "Medidas del talle Medium (frame width 132 mm); tambien hay Wide. Lentes redondas con puente keyhole. SIN VERIFICAR nombres de color de lente (se eligen en el checkout). JSON-LD: unisex.",
+      "sources": [
+        "https://www.warbyparker.com/sunglasses/percey/striped-sassafras",
+        "https://www.warbyparker.com/sunglasses/percey/viridian"
+      ]
+    },
+    {
+      "brand": "Izipizi",
+      "model": "SUN #C Black",
+      "category": "sunglasses",
+      "shape": "square",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black - Soft Touch Finish",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": null,
+      "lens_width_mm": null,
+      "bridge_mm": null,
+      "temple_mm": 151,
+      "face_shapes_recommended": [
+        "round",
+        "oval",
+        "heart"
+      ],
+      "price_usd": 60,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.izipizi.com/en-us/products/sun-c-black",
+      "iconic": true,
+      "notes": "Izipizi publica frame width 137 mm, frame height 45 mm y arm length 151 mm (mapeado a temple), pero NO publica lens width ni bridge: quedan null. Material del armazon no declarado en la ficha (solo 'lightweight frame with flex hinges'; otras fuentes hablan de armazon bio-based, sin verificar). Categoria 3, 100% UV. Otros colorways oficiales de la linea SUN #C: Urban Steel, Station Seat, Dark Expresso, Sweet Honey, Old Leather. En Argentina hay revendedores (iziargentina.com.ar, Optica Pagani, Quiero Calma).",
+      "sources": [
+        "https://www.izipizi.com/en-us/products/sun-c-black",
+        "https://www.izipizi.com/us_en/product-selections/c-sun.html",
+        "https://www.izipizi.com/es-us/pages/international-distribution"
+      ]
+    },
+    {
+      "brand": "Izipizi",
+      "model": "SUN #D Blue Tortoise",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Blue Tortoise - Soft Touch Finish",
+          "hex": "#3a4a5c"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Green Mirrored",
+          "hex": "#4f7a5a",
+          "mirrored": true,
+          "polarized": false
+        }
+      ],
+      "material": null,
+      "lens_width_mm": null,
+      "bridge_mm": null,
+      "temple_mm": 149,
+      "face_shapes_recommended": [
+        "square",
+        "oblong",
+        "diamond"
+      ],
+      "price_usd": 60,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.izipizi.com/en-us/products/sun-d-blue-tortoise",
+      "iconic": true,
+      "notes": "Ficha oficial: frame width 138 mm, frame height 48 mm, arm length 149 mm; no publica lens width ni bridge. Forma 'pantos' segun la marca (mapeada a round). Categoria 3, 100% UV, no polarizada en este colorway.",
+      "sources": [
+        "https://www.izipizi.com/en-us/products/sun-d-blue-tortoise"
+      ]
+    },
+    {
+      "brand": "Hawkers",
+      "model": "ONE - POLARIZED HAWKERS",
+      "category": "sunglasses",
+      "shape": "wayfarer",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Black",
+          "hex": "#1f1f1f",
+          "mirrored": false,
+          "polarized": true
+        }
+      ],
+      "material": "TR90 frame, polarized bio TAC lenses",
+      "lens_width_mm": 54,
+      "bridge_mm": 17,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "round",
+        "oval",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 49.95,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.hawkersco.com/us/sunglasses/one---polarized-hawkers-HONE21ABTP.html",
+      "iconic": true,
+      "notes": "La tienda US de Hawkers publica las medidas en PULGADAS: front 5.55 in, temples 5.51 in, bridge 0.67 in, lens 2.13 in, height 1.97 in. Los mm son conversion (front 141 mm, lens 54 mm, bridge 17 mm, temple 140 mm), NO valores oficiales en mm. Hawkers la clasifica solo como 'Classic' (el mapeo a wayfarer es interpretacion). No existe hawkers.com.ar: en Argentina se vende por revendedores (Optima Vision, Visionbox, SmartBuyGlasses AR, MercadoLibre).",
+      "sources": [
+        "https://www.hawkersco.com/us/sunglasses/one---polarized-hawkers-HONE21ABTP.html",
+        "https://optimavision.com.ar/lentes-de-sol/marcas/hawkers/"
+      ]
+    },
+    {
+      "brand": "Hawkers",
+      "model": "WARWICK RAW - POLARIZED BLACK SKY",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black",
+          "hex": "#1f1f1f"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Blue",
+          "hex": "#2f5f9e",
+          "mirrored": true,
+          "polarized": true
+        }
+      ],
+      "material": "TR90 frame, polarized bio TAC lenses",
+      "lens_width_mm": 51,
+      "bridge_mm": 20,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "square",
+        "oblong",
+        "diamond"
+      ],
+      "price_usd": 44.95,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.hawkersco.com/us/sunglasses/warwick-raw---polarized-black-sky-HWRA21BLTP.html",
+      "iconic": true,
+      "notes": "Medidas publicadas en pulgadas (front 5.59 in, temples 5.51 in, bridge 0.79 in, lens 2.01 in, height 2.04 in); los mm son conversion. Lentes redondas con puente keyhole y varillas finas, categoria 3, absorbe 82-92% de la luz.",
+      "sources": [
+        "https://www.hawkersco.com/us/sunglasses/warwick-raw---polarized-black-sky-HWRA21BLTP.html"
+      ]
+    },
+    {
+      "brand": "Hawkers",
+      "model": "SIXGON DRIVE - POLARIZED GOLD GREY",
+      "category": "sunglasses",
+      "shape": "geometric",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Gold",
+          "hex": "#d4af37"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#4a4d52",
+          "mirrored": false,
+          "polarized": true
+        }
+      ],
+      "material": "Metal (stainless steel) frame, polarized bio TAC lenses",
+      "lens_width_mm": 50,
+      "bridge_mm": 22,
+      "temple_mm": 145,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 54.95,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.hawkersco.com/us/sunglasses/sixgon-drive---polarized-gold-grey-HSDR22DGMP.html",
+      "iconic": true,
+      "notes": "Medidas publicadas en pulgadas (temple 5.71 in, bridge 0.87 in, front 5.30 in, height 1.78 in, lens 1.97 in); los mm son conversion. Poligono redondeado de seis lados que reinterpreta el aviador de los 40. Terminales negras.",
+      "sources": [
+        "https://www.hawkersco.com/us/sunglasses/sixgon-drive---polarized-gold-grey-HSDR22DGMP.html"
+      ]
+    }
+  ],
+  "sources": [
+    "https://us.carreraworld.com/products/champion",
+    "https://us.carreraworld.com/products/carrera-1001-s",
+    "https://us.carreraworld.com/products/champion65-n",
+    "https://us.carreraworld.com/collections/sunglasses",
+    "https://policelifestyle.com/ww-en/sunglasses-men-c",
+    "https://policelifestyle.com/ww-en/origins-lite-40-man-sunglasses-police-splu66-splu66580300-p",
+    "https://policelifestyle.com/ww-en/champ-8-man-sunglasses-police-spln21-spln21560700-p",
+    "https://policelifestyle.com/ww-en/invictus-1-sunglasses-police-splr95-splr95580301-p",
+    "https://eu.vuarnet.com/en/products/legend-06-originals",
+    "https://eu.vuarnet.com/en/products/legend-03-originals",
+    "https://eu.vuarnet.com/en/collections/vintage",
+    "https://eu.vuarnet.com/en/collections/glacier",
+    "https://eu.vuarnet.com/en/collections/glacier/products/glacier-round-02",
+    "https://us.vuarnet.com/collections/vintage",
+    "https://www.mauijim.com/US/en_US/shop/sunglasses/rectangular/red-sands",
+    "https://www.mauijim.com/US/en_US/shop/sunglasses/wrap/peahi",
+    "https://www.mauijim.com/US/en_US/shop/sunglasses/rimless/ho-okipa",
+    "https://www.gentlemonster.com/us/en/item/1DOVPNEZ3P7MZ/her01",
+    "https://www.gentlemonster.com/us/en/item/1F68QMBJNI7MW/newher01",
+    "https://www.gentlemonster.com/us/en/item/1FYXMRWDKV8ZA/her01small",
+    "https://www.gentlemonster.com/us/shop/item/lang01/1DOVPNEZ3VB8I",
+    "https://www.gentlemonster.com/us/en/item/1EG8COWRYVJWO/lang01-or",
+    "https://www.gentlemonster.com/us/en/category/sunglasses/view-all",
+    "https://lespecs.com/products/the-prince-matte-black-smoke-mono-lsp1602147",
+    "https://lespecs.com/products/outta-love-black-smoke-mono-lsp1802189",
+    "https://lespecs.com/products/air-heart-black-gold-khaki-mono-lsp1602175",
+    "https://lespecs.com/products/bandwagon-black-lsp2002298",
+    "https://www.quay.com/products/high-key",
+    "https://www.quay.com/products/after-hours",
+    "https://www.quay.com/products/nightfall",
+    "https://www.quay.com/collections/bestsellers",
+    "https://www.warbyparker.com/sunglasses/haskell/crystal",
+    "https://www.warbyparker.com/sunglasses/durand/whiskey-tortoise",
+    "https://www.warbyparker.com/sunglasses/percey/striped-sassafras",
+    "https://www.izipizi.com/en-us/products/sun-c-black",
+    "https://www.izipizi.com/en-us/products/sun-d-blue-tortoise",
+    "https://www.izipizi.com/us_en/product-selections/c-sun.html",
+    "https://www.hawkersco.com/us/sunglasses/one---polarized-hawkers-HONE21ABTP.html",
+    "https://www.hawkersco.com/us/sunglasses/warwick-raw---polarized-black-sky-HWRA21BLTP.html",
+    "https://www.hawkersco.com/us/sunglasses/sixgon-drive---polarized-gold-grey-HSDR22DGMP.html",
+    "https://www.smartbuyglasses.com.ar/lentes-de-sol-de-diseno/Carrera/",
+    "https://www.smartbuyglasses.com.ar/lentes-de-sol-de-diseno/Police/",
+    "https://www.smartbuyglasses.com.ar/lentes-de-sol-de-diseno/Quay/",
+    "https://opticanaranjo.com.ar/anteojos-maui-jim-en-argentina/",
+    "https://optimavision.com.ar/lentes-de-sol/marcas/hawkers/",
+    "https://www.opticapagani.com.ar/anteojos-de-sol/izipizi/"
+  ],
+  "not_verified": [
+    "Maui Jim (Red Sands, Peahi, Ho'okipa): las fichas oficiales ya NO publican lens width / bridge / temple en mm. Solo dan 'Face Size' (M) y un size guide generico por talla. lens_width_mm, bridge_mm y temple_mm quedan null en los tres modelos.",
+    "Maui Jim: material del armazon no declarado en la ficha (solo el material de la lente: MauiPure o SuperThin Glass). material = null.",
+    "Quay Australia (High Key, After Hours, Nightfall): la ficha publica bridge width, arm length, frame width y lens height, pero NUNCA lens width. lens_width_mm = null en los tres. Material del armazon solo declarado parcialmente en High Key ('metal arms'); en After Hours y Nightfall = null.",
+    "Quay: el flag 'mirrored' de los colorways tipo Pistachio Glow, Teal Glow, Iris Glow, FutureDusk Poppy, Black Aqua y Gold es INFERENCIA por el nombre del acabado, no una declaracion explicita de la ficha.",
+    "Warby Parker (Haskell, Durand, Percey): no hay nombres oficiales de color de lente por colorway: el tinte se elige en el checkout (tints, polarized, flash). lens_colors = [] en los tres.",
+    "Izipizi (SUN #C, SUN #D): no publican lens width ni bridge (solo frame width, frame height y arm length). Tampoco declaran el material del armazon en la ficha de producto. material, lens_width_mm y bridge_mm = null.",
+    "Hawkers (ONE, Warwick Raw, Sixgon Drive): la tienda US publica TODAS las medidas en pulgadas. Los valores en mm del JSON son conversion propia, no numeros oficiales.",
+    "Police: policelifestyle.com (ROW) cotiza solo en EUR. No hay precio USD oficial -> price_usd = null en los dos modelos (Origins Lite 40 = 125 EUR, Champ 8 = 145 EUR).",
+    "Police: la coleccion Lewis Hamilton NO aparece en el catalogo actual de hombre de policelifestyle.com (se revisaron los 212 productos del listado: Zac Efron X Police, Unlocked, Origins, Origins Lite, Nerve, Roadie, Champ, Invictus). Se reemplazo por dos modelos Origins/Champ vigentes.",
+    "Vuarnet: el modelo 'District' NO existe en el catalogo oficial actual (ni eu.vuarnet.com ni us.vuarnet.com). Solo aparece como VL 2001 en reventa (eBay). Se reemplazo por Glacier 02 y Legend 03.",
+    "Vuarnet Glacier 02: no figura en us.vuarnet.com, solo en la tienda EU (620 EUR) -> price_usd = null.",
+    "Carrera CHAMPION: el precio de la ficha ($180) no coincide con el de la grilla de coleccion ($135+, promocional). Se tomo el de la ficha.",
+    "Carrera CHAMPION 65/S: NO incluido en el dataset. La ficha da 62/12/130, Optyl, armazon Black, pero el nombre de color de lente que devuelve es 'UV Protect' (no es un nombre de color real). Requiere re-verificacion manual.",
+    "Gentle Monster Lang 01: ficha SOLD OUT, sin precio publicado -> price_usd y price_date = null. Papas 01 ya no figura en el catalogo oficial de gentlemonster.com (solo en Selfridges / reventa), por eso no se incluyo.",
+    "Precios ARS: NINGUNO verificado. No hay tienda oficial en Argentina para ninguna de las 10 marcas (no existe hawkers.com.ar; seicomstore.com.ar aparece en buscadores como 'tienda oficial Hawkers' pero el dominio no resuelve). price_ars = null en los 26 modelos.",
+    "available_in_argentina: 'import' se asigno donde se verifico al menos un revendedor argentino real (Carrera, Police, Maui Jim, Quay, Izipizi, Hawkers). 'false' donde no se encontro ningun canal argentino (Vuarnet, Gentle Monster, Le Specs) y en Warby Parker, donde el propio sitio limita la venta a USA y Canada. Para Vuarnet / Gentle Monster / Le Specs el false es 'no encontrado', no 'confirmado inexistente'.",
+    "face_shapes_recommended: NINGUNA marca publica esta recomendacion en la ficha. Los valores son criterio estandar de optica aplicado a la forma verificada del armazon, no un dato oficial.",
+    "hex de colores: derivados del nombre oficial del color (los NOMBRES si salen del sitio oficial). Son aproximaciones para render, no muestras colorimetricas.",
+    "Shape enum: 'oval' (Le Specs Outta Love) y 'pantos' (Izipizi SUN #D) no existen en el enum y se mapearon a 'round'; 'wrap' (Maui Jim Peahi) se mapeo a 'sport'; el semi-rimless de Ho'okipa se mapeo a 'rectangle'."
+  ]
+}

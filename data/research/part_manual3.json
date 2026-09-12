@@ -1,0 +1,490 @@
+{
+ "models": [
+  {
+   "brand": "Carrera",
+   "model": "Champion",
+   "category": "sunglasses",
+   "shape": "aviator",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Brown Havana",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Black Gold",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Matte Black",
+     "hex": "#2a2a2a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Brown Shaded",
+     "hex": "#6b4a2f",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Dark Grey Shaded",
+     "hex": "#4a4d51",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Grey",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "inyectado",
+   "lens_width_mm": 62,
+   "bridge_mm": 12,
+   "temple_mm": 130,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart",
+    "oval"
+   ],
+   "price_usd": 180.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://us.carreraworld.com/products/champion",
+   "iconic": true,
+   "notes": "Aviador de armazon plastico con inserto metalico en la barra superior y la C entre los lentes. Ficha oficial: alto de lente 55mm, base 6, UV 100%, varilla 125-130mm, opcion polarizada. Carrera se consigue en opticas argentinas pero no hay tienda oficial AR verificada.",
+   "sources": [
+    "https://us.carreraworld.com/products/champion"
+   ]
+  },
+  {
+   "brand": "Carrera",
+   "model": "1001/S",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Matte Black Red",
+     "hex": "#2a2a2a"
+    },
+    {
+     "name": "Blue Red",
+     "hex": "#2f4a7a"
+    },
+    {
+     "name": "Black White",
+     "hex": "#1a1a1a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Dark Grey SF Gradient",
+     "hex": "#4a4d51",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "inyectado",
+   "lens_width_mm": 62,
+   "bridge_mm": 11,
+   "temple_mm": 140,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": 180.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://us.carreraworld.com/products/carrera-1001-s",
+   "iconic": true,
+   "notes": "Navigator oversize, uno de los best sellers historicos de Carrera. Armazon de poliamida Grilamid, monograma C al frente y franja signature. Apto para graduado.",
+   "sources": [
+    "https://us.carreraworld.com/products/carrera-1001-s"
+   ]
+  },
+  {
+   "brand": "Izipizi",
+   "model": "Sun #C",
+   "category": "sunglasses",
+   "shape": "panto",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Tortoise",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Crystal",
+     "hex": "#dfe3e6"
+    },
+    {
+     "name": "Sandstorm",
+     "hex": "#c8a97e"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": null,
+   "lens_width_mm": null,
+   "bridge_mm": null,
+   "temple_mm": 151,
+   "face_shapes_recommended": [
+    "oval",
+    "square",
+    "heart"
+   ],
+   "price_usd": 70.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://www.izipizi.com/en-us/products/sun-c-tortoise-polarized",
+   "iconic": false,
+   "notes": "Izipizi lo describe entre cuadrado y pantos, de estructura gruesa. La ficha publica ancho total 137mm y alto 45mm pero NO ancho de lente ni puente. Lente categoria 3 polarizada, 100% UV, bisagras flex. La version no polarizada arranca en USD 60.",
+   "sources": [
+    "https://www.izipizi.com/en-us/products/sun-c-tortoise-polarized",
+    "https://www.izipizi.com/en-us/collections/sun"
+   ]
+  },
+  {
+   "brand": "Izipizi",
+   "model": "Sun #D",
+   "category": "sunglasses",
+   "shape": "panto",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Tortoise",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Sandstorm",
+     "hex": "#c8a97e"
+    },
+    {
+     "name": "Crystal",
+     "hex": "#dfe3e6"
+    },
+    {
+     "name": "Havane",
+     "hex": "#8b5a2b"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": null,
+   "lens_width_mm": null,
+   "bridge_mm": null,
+   "temple_mm": 149,
+   "face_shapes_recommended": [
+    "oval",
+    "square",
+    "heart",
+    "diamond"
+   ],
+   "price_usd": 70.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://www.izipizi.com/en-us/products/sun-d-tortoise",
+   "iconic": false,
+   "notes": "Pantos circular y discreto. Ficha oficial: ancho total 138mm, alto 48mm, varilla 149mm, bisagras flex; no publica ancho de lente ni puente. Version no polarizada USD 60.",
+   "sources": [
+    "https://www.izipizi.com/en-us/products/sun-d-tortoise",
+    "https://www.izipizi.com/en-us/collections/sun"
+   ]
+  },
+  {
+   "brand": "Quay",
+   "model": "After Hours",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Tortoise Black",
+     "hex": "#4a3226"
+    },
+    {
+     "name": "Matte Black",
+     "hex": "#2a2a2a"
+    },
+    {
+     "name": "Black",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Sweet Pea",
+     "hex": "#9fb8a0"
+    },
+    {
+     "name": "Crystal Doe",
+     "hex": "#d8c3a5"
+    },
+    {
+     "name": "Garnet Ombre",
+     "hex": "#7a3b3b"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Black Fade",
+     "hex": "#3a3a3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Smoke",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Smoke Polarized",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Tan",
+     "hex": "#b08f6a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Brown",
+     "hex": "#5c3a21",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": null,
+   "lens_width_mm": null,
+   "bridge_mm": 23,
+   "temple_mm": 150,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "heart"
+   ],
+   "price_usd": 75.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://www.quay.com/products/after-hours",
+   "iconic": false,
+   "notes": "Cuadrado grande con alita, marketing explicito para mujer. Quay publica alto de lente 48mm, ancho total 150mm, puente 23mm y varilla 150mm, pero NO el ancho de lente. Version polarizada USD 95. quayaustralia.com redirige a quay.com.",
+   "sources": [
+    "https://www.quay.com/products/after-hours",
+    "https://www.quay.com/collections/sunglasses"
+   ]
+  },
+  {
+   "brand": "Prada",
+   "model": "Symbole (SPR 17W)",
+   "category": "sunglasses",
+   "shape": "rectangle",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Transparent bottle green",
+     "hex": "#2f5a4a"
+    },
+    {
+     "name": "Black",
+     "hex": "#1a1a1a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Forest Green",
+     "hex": "#2f4a35",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Slate Gray",
+     "hex": "#5a5f66",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Plum",
+     "hex": "#6b3f5a",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 49,
+   "bridge_mm": 20,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": "import",
+   "buy_url": "https://www.prada.com/us/en/p/prada-symbole-sunglasses/SPR17W_E19Z_F01I0_C_049",
+   "iconic": true,
+   "notes": "PARCIALMENTE VERIFICADO: prada.com dio timeout al leer la ficha; frente de acetato, medidas 49-20-145, UVA/UVB 100% y los nombres de lente (Forest Green, Slate Gray, Plum) salen de los titulos y descripciones oficiales indexados de prada.com. Precio sin verificar (una fuente de retail menciona EUR 390, no confirmado). La variante SPR17W-F es 51-20-145.",
+   "sources": [
+    "https://www.prada.com/us/en/p/prada-symbole-sunglasses/SPR17W_E19Z_F01I0_C_049",
+    "https://www.prada.com/ww/en/p/prada-symbole-sunglasses/SPR17W_E1AB_F05S0_C_049",
+    "https://www.prada.com/ww/en/p/prada-symbole-sunglasses/SPR17W_EVYJ_F06X1_C_049",
+    "https://www.eyeons.com/prada-pr-17ws"
+   ]
+  },
+  {
+   "brand": "Tom Ford",
+   "model": "Snowdon (FT0237)",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "male",
+   "frame_colors": [
+    {
+     "name": "Dark Havana",
+     "hex": "#4a3226"
+    },
+    {
+     "name": "Black",
+     "hex": "#1a1a1a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Green Gradient",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Smoke Gradient",
+     "hex": "#5a5d61",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Grey Gradient",
+     "hex": "#6e747a",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 52,
+   "bridge_mm": 20,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "oblong"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": "import",
+   "buy_url": "https://www.smartbuyglasses.com/designer-sunglasses/Tom-Ford/Tom-Ford-FT0237-SNOWDON-52N-163423.html",
+   "iconic": true,
+   "notes": "NO VERIFICADO EN TOMFORD.COM: el sitio oficial no aparecio en los resultados y smartbuyglasses devolvio 405. Medidas 52-20-145, colores y material salen de fichas de retailers (SmartBuyGlasses, Amazon, Alensa). Es el modelo que uso Daniel Craig como James Bond. Precios de retail entre USD 205 y USD 387: sin precio oficial, queda null.",
+   "sources": [
+    "https://www.smartbuyglasses.com/designer-sunglasses/Tom-Ford/Tom-Ford-FT0237-SNOWDON-52N-163423.html",
+    "https://www.amazon.com/Tom-Ford-Snowdon-FT0237-Sunglasses-52N/dp/B0158F586W",
+    "https://www.alensa.com/tom-ford-snowdon-ft0237-05b"
+   ]
+  },
+  {
+   "brand": "Gucci",
+   "model": "GG Oversized Square (GG0998S)",
+   "category": "sunglasses",
+   "shape": "oversized",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Brown",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Tortoiseshell",
+     "hex": "#8b6f47"
+    },
+    {
+     "name": "Shiny Black",
+     "hex": "#1a1a1a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Green",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 54,
+   "bridge_mm": 20,
+   "temple_mm": 140,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": "import",
+   "buy_url": "https://www.net-a-porter.com/en-us/shop/product/gucci-eyewear/accessories/square-frame/gg-oversized-square-frame-acetate-sunglasses/2499567820127055",
+   "iconic": true,
+   "notes": "NO VERIFICADO EN GUCCI.COM: gucci.com no devolvio fichas en la busqueda. Medidas 54-20-140, material acetato y colores salen de retailers (Net-a-Porter, Bergdorf Goodman, Moda Operandi, eBay). Lleva las GG entrelazadas de archivo en las varillas. Precio oficial sin verificar.",
+   "sources": [
+    "https://www.net-a-porter.com/en-us/shop/product/gucci-eyewear/accessories/square-frame/gg-oversized-square-frame-acetate-sunglasses/2499567820127055",
+    "https://www.bergdorfgoodman.com/p/gucci-gg-oversized-square-acetate-sunglasses-prod175480106"
+   ]
+  }
+ ],
+ "sources": [
+  "https://us.carreraworld.com/products/carrera-1001-s",
+  "https://us.carreraworld.com/products/champion",
+  "https://www.alensa.com/tom-ford-snowdon-ft0237-05b",
+  "https://www.amazon.com/Tom-Ford-Snowdon-FT0237-Sunglasses-52N/dp/B0158F586W",
+  "https://www.bergdorfgoodman.com/p/gucci-gg-oversized-square-acetate-sunglasses-prod175480106",
+  "https://www.eyeons.com/prada-pr-17ws",
+  "https://www.izipizi.com/en-us/collections/sun",
+  "https://www.izipizi.com/en-us/products/sun-c-tortoise-polarized",
+  "https://www.izipizi.com/en-us/products/sun-d-tortoise",
+  "https://www.net-a-porter.com/en-us/shop/product/gucci-eyewear/accessories/square-frame/gg-oversized-square-frame-acetate-sunglasses/2499567820127055",
+  "https://www.prada.com/us/en/p/prada-symbole-sunglasses/SPR17W_E19Z_F01I0_C_049",
+  "https://www.prada.com/ww/en/p/prada-symbole-sunglasses/SPR17W_E1AB_F05S0_C_049",
+  "https://www.prada.com/ww/en/p/prada-symbole-sunglasses/SPR17W_EVYJ_F06X1_C_049",
+  "https://www.quay.com/collections/sunglasses",
+  "https://www.quay.com/products/after-hours",
+  "https://www.smartbuyglasses.com/designer-sunglasses/Tom-Ford/Tom-Ford-FT0237-SNOWDON-52N-163423.html"
+ ],
+ "not_verified": [
+  "Marcas de lujo: gucci.com, ysl.com y tomford.com no se pudieron leer (bloqueo o sin indexar); prada.com dio timeout. Los datos de Prada, Tom Ford y Gucci son parciales y estan marcados modelo por modelo.",
+  "Izipizi y Quay no publican ancho de lente ni (Izipizi) puente en sus fichas.",
+  "Carrera: no hay tienda oficial argentina verificada."
+ ]
+}

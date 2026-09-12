@@ -1,0 +1,65 @@
+{
+ "generated_at": "2026-09-11",
+ "buying_guide": {
+  "tldr": "La evidencia clinica NO sostiene que el filtro de luz azul reduzca la fatiga visual frente a pantallas. Lo que si funciona es el antirreflejo (AR), la ergonomia y parpadear. Comprar anteojos blue-light esta bien como accesorio comodo y como herramienta de sueno si el tinte es ambar y se usan 2-3 h antes de dormir, pero no hay que pagar un premium por el filtro en si.",
+  "what_the_evidence_says": {
+   "eye_strain": "La revision Cochrane de agosto 2023 (Singh et al., CD013244.pub2) junto 17 ensayos randomizados y 619 participantes: los lentes con filtro de luz azul 'probablemente no reducen' la fatiga visual de corto plazo asociada al uso de computadora, comparados con lentes comunes. Certeza de la evidencia: baja.",
+   "visual_acuity": "Probablemente poco o ningun efecto sobre la agudeza visual (certeza moderada segun Cochrane).",
+   "retinal_protection": "Ningun estudio incluido midio salud macular o retiniana a largo plazo, asi que no se puede concluir nada. La AAO (American Academy of Ophthalmology) directamente no recomienda anteojos blue-light porque no hay evidencia de que la luz de las pantallas dane el ojo: la cantidad de luz azul de un monitor es ordenes de magnitud menor que la del sol.",
+   "sleep": "Aca es donde hay algo real, pero es OTRO producto. La supresion de melatonina la disparan los fotorreceptores ipRGC con melanopsina, sensibles a ~460-480 nm. Los ensayos positivos (Burkhart & Phelps 2009; Shechter et al. 2018 en insomnio) usaron lentes AMBAR/NARANJA opacos, puestos 2-3 h antes de dormir. Un lente transparente de oficina que bloquea 15-30% en 415-455 nm no hace eso. Los meta-analisis recientes siguen encontrando resultados mixtos.",
+   "adverse_effects": "Cochrane no encontro efectos adversos consistentes: dolor de cabeza, cambios de animo y molestia con los anteojos aparecieron tanto en el grupo con filtro como en el de control.",
+   "what_actually_causes_the_strain": "Parpadeo reducido (de ~15 a ~5 veces por minuto frente a la pantalla) que seca el ojo, esfuerzo de acomodacion por trabajo de cerca sostenido, ergonomia mala (pantalla muy alta o muy cerca), reflejos y contraste, y graduacion no corregida o mal corregida. Ninguna de esas causas la arregla un filtro de luz azul."
+  },
+  "what_the_blocking_percentage_means": {
+   "the_trap": "El '%' de bloqueo no esta estandarizado: cada marca elige el rango de longitud de onda sobre el que mide. Una puede decir '98%' midiendo solo el pico angosto de 415-435 nm y otra decir '30%' midiendo todo el espectro azul 400-500 nm, y la segunda estar filtrando mas luz en total. Comparar dos numeros de marcas distintas sin el rango al lado no significa nada.",
+   "the_two_bands": {
+    "hev_400_455nm": "Alta energia visible (HEV). Es la banda que se asocia al estres retiniano teorico. Es la que miden casi todos los recubrimientos AR blue-block. Filtrarla no altera mucho el color.",
+    "circadian_455_500nm": "Azul-turquesa. Es la que regula el ritmo circadiano y la que suprime melatonina de noche. Filtrarla SI tine la vision de amarillo/ambar. Es la banda que importa para dormir y la que NO conviene filtrar de dia (te sirve para estar despierto)."
+   },
+   "typical_numbers": {
+    "ar_coating_clear": "Recubrimiento antirreflejo blue-block, lente transparente: tipicamente 10-30% en 415-455 nm. Es lo que vende casi toda optica argentina como 'filtro de luz azul'. Efecto practico sobre la fatiga: marginal. Efecto del AR sobre los reflejos: ese si es real.",
+    "light_amber_tint": "Tinte ambar suave (tipo Gunnar Amber, Felix Gray): 45-70% del azul total, con distorsion de color leve pero perceptible. Sirve para tarde/noche.",
+    "strong_amber_orange": "Ambar/naranja fuerte (Gunnar Amber Max, lentes de sueno): 90-98% del azul total. Distorsiona el color de forma severa, no sirve para trabajo de diseno ni para editar imagenes. Es el unico formato que tiene respaldo en los ensayos de sueno.",
+    "embedded_material": "Pigmento embebido en el material del lente (Shamir Blue Zero, BluTech): hasta 98% en 415-435 nm manteniendo fidelidad de color. Mas caro, se pide en optica."
+   }
+  },
+  "amber_vs_clear": {
+   "recommendation": "Para Marco, que trabaja con creatividades y necesita ver color fiel: lente TRANSPARENTE con buen antirreflejo para el dia, y si quiere el efecto sueno, un segundo par ambar fuerte solo para despues de las 21 h. Un ambar medio es el peor de los dos mundos: te distorsiona el color todo el dia y no llega a la dosis que mueve la melatonina.",
+   "color_distortion_warning": "Cualquier tinte ambar corre el balance de blancos de lo que ves. Si vas a aprobar creatividades, revisar color grading o elegir paletas, un ambar te hace tomar decisiones de color equivocadas. Esto es mas importante que el filtro."
+  },
+  "what_to_ask_at_the_optician": [
+   "Que porcentaje bloquea y EN QUE RANGO de nanometros. Si no saben responder el rango, el numero no vale.",
+   "Es recubrimiento (coating) o esta embebido en el material del lente? El coating se raya y se pela con el tiempo; el material embebido no.",
+   "Incluye antirreflejo de verdad (multicapa, ambas caras) o solo el filtro azul? El AR es lo que realmente te va a cambiar la experiencia frente al monitor.",
+   "Que reflejo residual tiene? Los blue-block baratos dejan un reflejo violeta/azul muy visible en fotos y videollamadas.",
+   "Cristal plano (sin aumento, 0.00) - confirmar que no te vendan una graduacion minima 'de regalo'.",
+   "Indice del material: para plano alcanza 1.50 o 1.56; no pagues 1.67 que solo sirve para graduaciones altas.",
+   "Garantia del recubrimiento (lo normal es 1 ano contra delaminacion).",
+   "Distancia interpupilar (DIP): aunque sea sin aumento, un armazon bien centrado se siente mejor. Que te la midan."
+  ],
+  "price_ranges_ars": {
+   "date": "2026-09-11",
+   "note": "Rangos orientativos de mercado en Argentina al 11-sep-2026, redondeados. Verificar siempre en el link del modelo porque la volatilidad de precios en ARS es alta.",
+   "mercadolibre_generico": "ARS 8.000 - 35.000. Armazon + 'filtro' de origen dudoso. Muchos no filtran nada medible: el truco del vendedor de mostrar un laser azul que no atraviesa el lente no prueba nada.",
+   "dtc_argentina": "ARS 60.000 - 160.000 el par completo con cristal blue-light plano (Infinit y similares, normalmente en cuotas sin interes).",
+   "optica_tradicional_armazon_mas_cristal": "ARS 120.000 - 400.000+. El armazon de marca (Ray-Ban, Vulk) va de ARS 120.000 a 350.000 y el par de cristales planos con filtro azul + AR suele sumar ARS 45.000 - 120.000.",
+   "importado_marca_especializada": "USD 70 - 200 el par (Gunnar, Barner, Felix Gray, Izipizi). Sumar envio internacional (USD 15-40) y tener en cuenta el regimen puerta a puerta: franquicia de USD 400 por envio, hasta 5 envios al ano (Decreto 604/2026); por debajo de USD 400 no paga derechos de importacion.",
+   "sweet_spot": "Si el objetivo es comodidad frente a la pantalla y no una promesa medica: ARS 80.000 - 150.000 en una optica local por un armazon decente con cristal plano y buen AR. El upgrade a 'blue light' encima de eso es un gasto opcional."
+  },
+  "buying_checklist": [
+   "Priorizar el ANTIRREFLEJO sobre el filtro azul. Es el unico componente optico del par con efecto perceptible garantizado.",
+   "Elegir el armazon por calce (ancho total vs ancho de cara) y no por forma de moda. El dato que importa es lens_width + bridge: la suma aproximada tiene que acercarse al ancho de tu cara dividido en dos lentes.",
+   "Para cara ovalada casi todo funciona; cara redonda pide rectangular/cuadrado; cara cuadrada pide redondo/ovalado; cara con menton fino (corazon) pide browline o formas mas anchas abajo.",
+   "Si comprás importado, confirmar que la marca envie a Argentina ANTES de llenar el carrito. Varias (Warby Parker, EyeBuyDirect) solo envian a US/Canada.",
+   "Comprar en local permite probarse y ajustar las patillas gratis toda la vida del anteojo. Importado no.",
+   "Desconfiar de cualquier claim de '99% de bloqueo' en un lente transparente: fisicamente no puede filtrar 99% del azul sin verse amarillo.",
+   "Antes de gastar, probar gratis: modo nocturno del sistema, bajar el brillo al nivel del ambiente, subir el tamano de fuente, poner la pantalla a un brazo de distancia y apenas por debajo de la linea de los ojos, regla 20-20-20, y lagrimas artificiales si hay sequedad."
+  ],
+  "argentina_import_notes": {
+   "regime": "Regimen puerta a puerta unificado (Correo Argentino y couriers) segun Decreto 604/2026: franquicia de USD 400 por envio, 5 envios por ano calendario, maximo 3 unidades de la misma especie por envio. Sobre el excedente de USD 400 se tributa por regimen general (IVA 21% + derechos).",
+   "practical": "Un par de anteojos blue-light de USD 100-200 + envio entra comodo dentro de la franquicia. El riesgo real no es el impuesto sino el tiempo de entrega y que si no calza no hay devolucion practica.",
+   "source": "https://www.infobae.com/economia/2026/07/17/el-gobierno-unifico-el-sistema-para-realizar-compras-en-el-exterior-que-cambia-en-el-regimen-puerta-a-puerta/"
+  }
+ },
+ "models": []
+}

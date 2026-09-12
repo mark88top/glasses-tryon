@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+test/out/
+.DS_Store
+
+# 50 MB de monturas 3D de terceros. Se rebajan con scripts/setup_assets.sh.
+# credits.json NO se ignora: es el registro de atribucion que exigen las licencias.
+assets/models/*
+!assets/models/credits.json
+!assets/models/frames3d.json

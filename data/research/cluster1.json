@@ -1,0 +1,1076 @@
+[
+  {
+    "brand": "GUNNAR Optiks",
+    "model": "Intercept",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Onyx",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Crystal Cobalt",
+        "hex": "#3A5FC0"
+      },
+      {
+        "name": "Crystal",
+        "hex": "#DEDEE2"
+      }
+    ],
+    "lens_tint": "#E2A03F",
+    "material": "nylon",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "heart"
+    ],
+    "lens_width_mm": 58,
+    "bridge_mm": 17,
+    "temple_mm": 135,
+    "price_usd": 69.99,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://gunnar.com/products/intercept",
+    "notes": "Tintes disponibles para este modelo: Amber, Clear, Clear Neutral-Focus, Amber Max, Clear Pro, Sun. GUNNAR describe el Intercept como buena opcion para caras medianas; puente fijo, compatible con low-bridge fit. 33 g. GBLF publicado por GUNNAR (medido a 450 nm, pico de luz azul de pantallas): Clear Pro 20%, Clear 35%, Amber 65%, Sun 90%, Amber Max 98%. Recubrimiento G-Shield antirreflejo en ambas caras. El Amber tine la vision de amarillo (distorsiona color); Amber Max distorsiona mucho mas y GUNNAR lo recomienda solo para fotosensibilidad extrema/sueno; Clear Pro es el que la marca recomienda para trabajo de color (foto, video, diseno). Envia a Argentina: Argentina figura en el selector de paises de la tienda con precios en USD; impuestos y derechos de aduana corren por cuenta del comprador y hay fee de 60 USD si se rechaza el paquete por no pagar aduana."
+  },
+  {
+    "brand": "GUNNAR Optiks",
+    "model": "Vertex",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Onyx",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Gray Crystal",
+        "hex": "#8A8A90"
+      },
+      {
+        "name": "Moss",
+        "hex": "#5A6B4A"
+      }
+    ],
+    "lens_tint": "#E2A03F",
+    "material": "nylon (polimero de ingenieria)",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "heart"
+    ],
+    "lens_width_mm": 55,
+    "bridge_mm": 16,
+    "temple_mm": 133,
+    "price_usd": 49.99,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://gunnar.com/products/vertex",
+    "notes": "Tintes disponibles para este modelo: Amber, Amber Neutral-Focus, Clear, Clear Neutral-Focus, Amber Max, Clear Pro, Sun. Rectangular de perfil bajo, puente fijo, 22 g. El modelo mas barato de la linea rectangular. GBLF publicado por GUNNAR (medido a 450 nm, pico de luz azul de pantallas): Clear Pro 20%, Clear 35%, Amber 65%, Sun 90%, Amber Max 98%. Recubrimiento G-Shield antirreflejo en ambas caras. El Amber tine la vision de amarillo (distorsiona color); Amber Max distorsiona mucho mas y GUNNAR lo recomienda solo para fotosensibilidad extrema/sueno; Clear Pro es el que la marca recomienda para trabajo de color (foto, video, diseno). Envia a Argentina: Argentina figura en el selector de paises de la tienda con precios en USD; impuestos y derechos de aduana corren por cuenta del comprador y hay fee de 60 USD si se rechaza el paquete por no pagar aduana."
+  },
+  {
+    "brand": "GUNNAR Optiks",
+    "model": "Cruz",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Onyx",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1F2A44"
+      },
+      {
+        "name": "Onyx Teal",
+        "hex": "#1A3A3A"
+      }
+    ],
+    "lens_tint": "#E2A03F",
+    "material": "nylon (polimero de ingenieria)",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "heart"
+    ],
+    "lens_width_mm": 55,
+    "bridge_mm": 16,
+    "temple_mm": 133,
+    "price_usd": 44.99,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://gunnar.com/products/cruz",
+    "notes": "Tintes disponibles para este modelo: Amber Neutral-Focus, Amber, Clear, Amber Max, Clear Pro. El mas liviano y barato del catalogo adulto: 16,3 g. Lente wide-format. No ofrece tinte Sun. GBLF publicado por GUNNAR (medido a 450 nm, pico de luz azul de pantallas): Clear Pro 20%, Clear 35%, Amber 65%, Sun 90%, Amber Max 98%. Recubrimiento G-Shield antirreflejo en ambas caras. El Amber tine la vision de amarillo (distorsiona color); Amber Max distorsiona mucho mas y GUNNAR lo recomienda solo para fotosensibilidad extrema/sueno; Clear Pro es el que la marca recomienda para trabajo de color (foto, video, diseno). Envia a Argentina: Argentina figura en el selector de paises de la tienda con precios en USD; impuestos y derechos de aduana corren por cuenta del comprador y hay fee de 60 USD si se rechaza el paquete por no pagar aduana."
+  },
+  {
+    "brand": "GUNNAR Optiks",
+    "model": "Riot",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Onyx",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Crystal Cobalt",
+        "hex": "#3A5FC0"
+      },
+      {
+        "name": "Espresso",
+        "hex": "#4A2F22"
+      }
+    ],
+    "lens_tint": "#E2A03F",
+    "material": "nylon",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "square"
+    ],
+    "lens_width_mm": 58,
+    "bridge_mm": 16,
+    "temple_mm": 143,
+    "price_usd": 49.99,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://gunnar.com/products/riot",
+    "notes": "Tintes disponibles para este modelo: Amber, Clear, Amber Max, Clear Pro, Sun. GUNNAR lo marca como fit ancho (frame width 147 mm), pensado para caras anchas. Compatible low-bridge. GBLF publicado por GUNNAR (medido a 450 nm, pico de luz azul de pantallas): Clear Pro 20%, Clear 35%, Amber 65%, Sun 90%, Amber Max 98%. Recubrimiento G-Shield antirreflejo en ambas caras. El Amber tine la vision de amarillo (distorsiona color); Amber Max distorsiona mucho mas y GUNNAR lo recomienda solo para fotosensibilidad extrema/sueno; Clear Pro es el que la marca recomienda para trabajo de color (foto, video, diseno). Envia a Argentina: Argentina figura en el selector de paises de la tienda con precios en USD; impuestos y derechos de aduana corren por cuenta del comprador y hay fee de 60 USD si se rechaza el paquete por no pagar aduana."
+  },
+  {
+    "brand": "GUNNAR Optiks",
+    "model": "Enigma",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Onyx",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Gray Crystal",
+        "hex": "#8A8A90"
+      }
+    ],
+    "lens_tint": "#E2A03F",
+    "material": "nylon con bisagra de acero de alta tension",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "square"
+    ],
+    "lens_width_mm": 58,
+    "bridge_mm": 18,
+    "temple_mm": 135,
+    "price_usd": 64.99,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://gunnar.com/products/enigma",
+    "notes": "Tintes disponibles para este modelo: Amber, Clear, Amber Max, Clear Pro, Sun. Frame width 147 mm (ancho). Lentes wide-format para campo panoramico; bisagra de 3 barriles. 33 g. GBLF publicado por GUNNAR (medido a 450 nm, pico de luz azul de pantallas): Clear Pro 20%, Clear 35%, Amber 65%, Sun 90%, Amber Max 98%. Recubrimiento G-Shield antirreflejo en ambas caras. El Amber tine la vision de amarillo (distorsiona color); Amber Max distorsiona mucho mas y GUNNAR lo recomienda solo para fotosensibilidad extrema/sueno; Clear Pro es el que la marca recomienda para trabajo de color (foto, video, diseno). Envia a Argentina: Argentina figura en el selector de paises de la tienda con precios en USD; impuestos y derechos de aduana corren por cuenta del comprador y hay fee de 60 USD si se rechaza el paquete por no pagar aduana."
+  },
+  {
+    "brand": "GUNNAR Optiks",
+    "model": "Vayper",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Onyx",
+        "hex": "#1A1A1A"
+      }
+    ],
+    "lens_tint": "#E2A03F",
+    "material": "acero de alta tension bajo carbono + componentes de polimero",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "square"
+    ],
+    "lens_width_mm": 58,
+    "bridge_mm": 15,
+    "temple_mm": 130,
+    "price_usd": 84.99,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://gunnar.com/products/vayper",
+    "notes": "Tintes disponibles para este modelo: Amber, Clear, Amber Max, Clear Pro, Sun. Modelo esports: patillas ultrafinas compatibles con vincha de auriculares, plaquetas de silicona ajustables, 23 g. GBLF publicado por GUNNAR (medido a 450 nm, pico de luz azul de pantallas): Clear Pro 20%, Clear 35%, Amber 65%, Sun 90%, Amber Max 98%. Recubrimiento G-Shield antirreflejo en ambas caras. El Amber tine la vision de amarillo (distorsiona color); Amber Max distorsiona mucho mas y GUNNAR lo recomienda solo para fotosensibilidad extrema/sueno; Clear Pro es el que la marca recomienda para trabajo de color (foto, video, diseno). Envia a Argentina: Argentina figura en el selector de paises de la tienda con precios en USD; impuestos y derechos de aduana corren por cuenta del comprador y hay fee de 60 USD si se rechaza el paquete por no pagar aduana."
+  },
+  {
+    "brand": "GUNNAR Optiks",
+    "model": "Torpedo",
+    "category": "blue_light",
+    "shape": "geometric",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Onyx",
+        "hex": "#1A1A1A"
+      }
+    ],
+    "lens_tint": "#E2A03F",
+    "material": "nylon",
+    "face_shapes_recommended": [
+      "oval",
+      "square",
+      "oblong"
+    ],
+    "lens_width_mm": 73,
+    "bridge_mm": 16,
+    "temple_mm": 118,
+    "price_usd": 64.99,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://gunnar.com/products/torpedo",
+    "notes": "Tintes disponibles para este modelo: Amber. Solo se vende sin graduacion y solo con tinte Amber (65%). Lente envolvente de 73 mm media montura, patillas de perfil bajo para auriculares. 24 g. Hay version Torpedo 360 (USD 120) con lente Amber + Sun intercambiable. GBLF publicado por GUNNAR (medido a 450 nm, pico de luz azul de pantallas): Clear Pro 20%, Clear 35%, Amber 65%, Sun 90%, Amber Max 98%. Recubrimiento G-Shield antirreflejo en ambas caras. El Amber tine la vision de amarillo (distorsiona color); Amber Max distorsiona mucho mas y GUNNAR lo recomienda solo para fotosensibilidad extrema/sueno; Clear Pro es el que la marca recomienda para trabajo de color (foto, video, diseno). Envia a Argentina: Argentina figura en el selector de paises de la tienda con precios en USD; impuestos y derechos de aduana corren por cuenta del comprador y hay fee de 60 USD si se rechaza el paquete por no pagar aduana."
+  },
+  {
+    "brand": "GUNNAR Optiks",
+    "model": "Berkeley",
+    "category": "blue_light",
+    "shape": "square",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Onyx",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Cranberry Crystal Fade",
+        "hex": "#8E2B3F"
+      },
+      {
+        "name": "Onyx Fade",
+        "hex": "#2E2E33"
+      }
+    ],
+    "lens_tint": "#E2A03F",
+    "material": "nylon",
+    "face_shapes_recommended": [
+      "round",
+      "oval",
+      "heart"
+    ],
+    "lens_width_mm": 54,
+    "bridge_mm": 16,
+    "temple_mm": 142,
+    "price_usd": 64.99,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://gunnar.com/products/berkeley",
+    "notes": "Tintes disponibles para este modelo: Amber, Clear, Amber Max, Clear Pro, Sun. Formato wide para campo panoramico, antirreflejo en ambas caras, 28,5 g. GBLF publicado por GUNNAR (medido a 450 nm, pico de luz azul de pantallas): Clear Pro 20%, Clear 35%, Amber 65%, Sun 90%, Amber Max 98%. Recubrimiento G-Shield antirreflejo en ambas caras. El Amber tine la vision de amarillo (distorsiona color); Amber Max distorsiona mucho mas y GUNNAR lo recomienda solo para fotosensibilidad extrema/sueno; Clear Pro es el que la marca recomienda para trabajo de color (foto, video, diseno). Envia a Argentina: Argentina figura en el selector de paises de la tienda con precios en USD; impuestos y derechos de aduana corren por cuenta del comprador y hay fee de 60 USD si se rechaza el paquete por no pagar aduana."
+  },
+  {
+    "brand": "Barner",
+    "model": "Dalston",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black Noir",
+        "hex": "#131313"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#1E2A4A"
+      },
+      {
+        "name": "Light Tortoise",
+        "hex": "#C99A5B"
+      },
+      {
+        "name": "Dark Green",
+        "hex": "#26402E"
+      },
+      {
+        "name": "Tortoise",
+        "hex": "#7A4A21"
+      }
+    ],
+    "lens_tint": null,
+    "material": "TR-90 (montura) / CR-39 (lente)",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "heart"
+    ],
+    "lens_width_mm": 52,
+    "bridge_mm": 18,
+    "temple_mm": 135,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://barnerbrand.com/products/dalston",
+    "notes": "Precio de lista EUR 59,00 (la tienda cotiza en EUR para Argentina; no publica precio en USD ni en ARS). El modelo mas ancho de la linea (frame width 142 mm, alto 47 mm). Version Glossy al mismo precio con otros colores. BARNER (Espana) publica: los lentes bloquean 100% de la luz azul mas danina por debajo de 410 nm y cortan 45% de la luz azul entre 410 y 450 nm, el rango que mas emiten las pantallas. Lente CR-39 practicamente transparente (no amarillea la vision). Envia a Argentina: Argentina figura en el selector de paises/moneda de la tienda, cobrada en EUR; envio gratis a todo el mundo en pedidos de mas de 70 EUR (por debajo, el costo se ve en el checkout); aduana e impuestos de importacion por cuenta del comprador. Garantia 3 anos, devolucion 30 dias."
+  },
+  {
+    "brand": "Barner",
+    "model": "Chamberi",
+    "category": "blue_light",
+    "shape": "hexagonal",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black Noir",
+        "hex": "#131313"
+      },
+      {
+        "name": "Coconut Milk",
+        "hex": "#EDE3D2"
+      },
+      {
+        "name": "Dusty Pink",
+        "hex": "#C99AA0"
+      },
+      {
+        "name": "Tortoise",
+        "hex": "#7A4A21"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#1E2A4A"
+      }
+    ],
+    "lens_tint": null,
+    "material": "TR-90 (montura) / CR-39 (lente)",
+    "face_shapes_recommended": [
+      "oval",
+      "round"
+    ],
+    "lens_width_mm": 46,
+    "bridge_mm": 18,
+    "temple_mm": 135,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://barnerbrand.com/products/chamberi",
+    "notes": "Precio de lista EUR 59,00 (la tienda cotiza en EUR para Argentina; no publica precio en USD ni en ARS). Hexagonal, el de lente mas chico del grupo (46 mm). Frame width 140 mm, alto 48 mm. BARNER (Espana) publica: los lentes bloquean 100% de la luz azul mas danina por debajo de 410 nm y cortan 45% de la luz azul entre 410 y 450 nm, el rango que mas emiten las pantallas. Lente CR-39 practicamente transparente (no amarillea la vision). Envia a Argentina: Argentina figura en el selector de paises/moneda de la tienda, cobrada en EUR; envio gratis a todo el mundo en pedidos de mas de 70 EUR (por debajo, el costo se ve en el checkout); aduana e impuestos de importacion por cuenta del comprador. Garantia 3 anos, devolucion 30 dias."
+  },
+  {
+    "brand": "Barner",
+    "model": "Le Marais",
+    "category": "blue_light",
+    "shape": "round",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black Noir",
+        "hex": "#131313"
+      },
+      {
+        "name": "Tortoise",
+        "hex": "#7A4A21"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#1E2A4A"
+      },
+      {
+        "name": "Dark Green",
+        "hex": "#26402E"
+      },
+      {
+        "name": "Burgundy Red",
+        "hex": "#6B1F2B"
+      }
+    ],
+    "lens_tint": null,
+    "material": "TR-90 (montura) / CR-39 (lente)",
+    "face_shapes_recommended": [
+      "square",
+      "diamond",
+      "heart"
+    ],
+    "lens_width_mm": 50,
+    "bridge_mm": 20,
+    "temple_mm": 145,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://barnerbrand.com/products/le-marais",
+    "notes": "Precio de lista EUR 59,00 (la tienda cotiza en EUR para Argentina; no publica precio en USD ni en ARS). Redondo clasico. Frame width 140 mm, alto 49 mm. La version Glossy suma Cocoa Brown, Laguna, Crystal, Intense Rust y Midnight Plum. BARNER (Espana) publica: los lentes bloquean 100% de la luz azul mas danina por debajo de 410 nm y cortan 45% de la luz azul entre 410 y 450 nm, el rango que mas emiten las pantallas. Lente CR-39 practicamente transparente (no amarillea la vision). Envia a Argentina: Argentina figura en el selector de paises/moneda de la tienda, cobrada en EUR; envio gratis a todo el mundo en pedidos de mas de 70 EUR (por debajo, el costo se ve en el checkout); aduana e impuestos de importacion por cuenta del comprador. Garantia 3 anos, devolucion 30 dias."
+  },
+  {
+    "brand": "Barner",
+    "model": "Osterbro",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black Noir",
+        "hex": "#131313"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#1E2A4A"
+      }
+    ],
+    "lens_tint": null,
+    "material": "TR-90 (montura) / CR-39 (lente)",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "heart"
+    ],
+    "lens_width_mm": 47,
+    "bridge_mm": 20,
+    "temple_mm": 145,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://barnerbrand.com/products/osterbro",
+    "notes": "Precio de lista EUR 47,00 (la tienda cotiza en EUR para Argentina; no publica precio en USD ni en ARS). Fit angosto. Frame width 140 mm, alto 49 mm. Uno de los mas baratos de Barner. BARNER (Espana) publica: los lentes bloquean 100% de la luz azul mas danina por debajo de 410 nm y cortan 45% de la luz azul entre 410 y 450 nm, el rango que mas emiten las pantallas. Lente CR-39 practicamente transparente (no amarillea la vision). Envia a Argentina: Argentina figura en el selector de paises/moneda de la tienda, cobrada en EUR; envio gratis a todo el mundo en pedidos de mas de 70 EUR (por debajo, el costo se ve en el checkout); aduana e impuestos de importacion por cuenta del comprador. Garantia 3 anos, devolucion 30 dias."
+  },
+  {
+    "brand": "Barner",
+    "model": "Shoreditch",
+    "category": "blue_light",
+    "shape": "round",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Light Havana",
+        "hex": "#C99A5B"
+      },
+      {
+        "name": "Blue Havana",
+        "hex": "#3F5A72"
+      }
+    ],
+    "lens_tint": null,
+    "material": "acetato de base biologica (linea Mazzu) / CR-39",
+    "face_shapes_recommended": [
+      "square",
+      "diamond",
+      "heart"
+    ],
+    "lens_width_mm": 50,
+    "bridge_mm": 22,
+    "temple_mm": 145,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://barnerbrand.com/products/shoreditch",
+    "notes": "Precio de lista EUR 79,00 (la tienda cotiza en EUR para Argentina; no publica precio en USD ni en ARS). Linea Mazzu, acetato bio en vez de TR-90. Puente de 22 mm, el mas ancho del grupo. La ficha no publica frame width ni alto. BARNER (Espana) publica: los lentes bloquean 100% de la luz azul mas danina por debajo de 410 nm y cortan 45% de la luz azul entre 410 y 450 nm, el rango que mas emiten las pantallas. Lente CR-39 practicamente transparente (no amarillea la vision). Envia a Argentina: Argentina figura en el selector de paises/moneda de la tienda, cobrada en EUR; envio gratis a todo el mundo en pedidos de mas de 70 EUR (por debajo, el costo se ve en el checkout); aduana e impuestos de importacion por cuenta del comprador. Garantia 3 anos, devolucion 30 dias."
+  },
+  {
+    "brand": "Barner",
+    "model": "Recoleta",
+    "category": "blue_light",
+    "shape": "round",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Gold Matte",
+        "hex": "#C2A24A"
+      },
+      {
+        "name": "Silver Matte",
+        "hex": "#B8B8BC"
+      }
+    ],
+    "lens_tint": null,
+    "material": "metal",
+    "face_shapes_recommended": [
+      "square",
+      "diamond",
+      "heart"
+    ],
+    "lens_width_mm": 50,
+    "bridge_mm": 21,
+    "temple_mm": 142,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://barnerbrand.com/products/recoleta",
+    "notes": "Precio de lista EUR 63,00 (la tienda cotiza en EUR para Argentina; no publica precio en USD ni en ARS). Linea Metal Glasses. Frame width 132 mm (el mas compacto). OJO: la ficha de producto usa un bloque generico que dice TR-90, pero el tipo de producto y los tags de la propia tienda lo listan como metal; verificar antes de comprar. BARNER (Espana) publica: los lentes bloquean 100% de la luz azul mas danina por debajo de 410 nm y cortan 45% de la luz azul entre 410 y 450 nm, el rango que mas emiten las pantallas. Lente CR-39 practicamente transparente (no amarillea la vision). Envia a Argentina: Argentina figura en el selector de paises/moneda de la tienda, cobrada en EUR; envio gratis a todo el mundo en pedidos de mas de 70 EUR (por debajo, el costo se ve en el checkout); aduana e impuestos de importacion por cuenta del comprador. Garantia 3 anos, devolucion 30 dias."
+  },
+  {
+    "brand": "Felix Gray",
+    "model": "Jemison (Plano)",
+    "category": "blue_light",
+    "shape": "square",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Deep Ocean",
+        "hex": "#1E3A52"
+      },
+      {
+        "name": "Sazerac",
+        "hex": "#8A5A2B"
+      },
+      {
+        "name": "Smoke",
+        "hex": "#55545A"
+      },
+      {
+        "name": "Manhattan",
+        "hex": "#6E6A63"
+      }
+    ],
+    "lens_tint": null,
+    "material": "acetato organico premium (lente CR-39)",
+    "face_shapes_recommended": [
+      "round",
+      "oval",
+      "heart"
+    ],
+    "lens_width_mm": 52,
+    "bridge_mm": 18,
+    "temple_mm": 145,
+    "price_usd": 129.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://felixgray.com/products/jemison-plano",
+    "notes": "Cuadrado inspirado en los 50. Felix Gray lo recomienda para caras grandes o para quien busca un look algo oversized. 'Plano' = sin graduacion. Felix Gray no publica un porcentaje de bloqueo: dice que sus lentes Clear 'filtran hasta 15X mas luz azul de alto impacto que otros lentes blue light' y la version Amber hasta 23X, ademas de 'hasta 3X mas melatonina' al usarlos de noche. Lente CR-39 con antirreflejo de doble cara y tratamiento hidrofobo. Se elige entre lente Clear (transparente) o Amber al comprar, sin cambio de precio. Envio a Argentina: NO envian directo; el policy solo cubre EE.UU., Puerto Rico, Islas Virgenes, Guam y APO/DPO/FPO, y derivan al forwarder MyUS.com para el resto del mundo (o sea, Argentina requiere casillero/courier propio y costo extra no publicado)."
+  },
+  {
+    "brand": "Felix Gray",
+    "model": "Faraday (Plano)",
+    "category": "blue_light",
+    "shape": "square",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Panorama",
+        "hex": "#9C8B6E"
+      },
+      {
+        "name": "Sazerac",
+        "hex": "#8A5A2B"
+      },
+      {
+        "name": "Matte Rose Breeze",
+        "hex": "#C9A0A0"
+      },
+      {
+        "name": "Deep Ocean",
+        "hex": "#1E3A52"
+      }
+    ],
+    "lens_tint": null,
+    "material": "acetato organico premium (lente CR-39)",
+    "face_shapes_recommended": [
+      "round",
+      "oval",
+      "heart"
+    ],
+    "lens_width_mm": 53,
+    "bridge_mm": 17,
+    "temple_mm": 145,
+    "price_usd": 129.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://felixgray.com/products/faraday-plano",
+    "notes": "Cuadrado de lente ancha con cantos suaves. La marca lo sugiere para caras algo mas grandes o para quien prefiere ver mas lente que marco. Felix Gray no publica un porcentaje de bloqueo: dice que sus lentes Clear 'filtran hasta 15X mas luz azul de alto impacto que otros lentes blue light' y la version Amber hasta 23X, ademas de 'hasta 3X mas melatonina' al usarlos de noche. Lente CR-39 con antirreflejo de doble cara y tratamiento hidrofobo. Se elige entre lente Clear (transparente) o Amber al comprar, sin cambio de precio. Envio a Argentina: NO envian directo; el policy solo cubre EE.UU., Puerto Rico, Islas Virgenes, Guam y APO/DPO/FPO, y derivan al forwarder MyUS.com para el resto del mundo (o sea, Argentina requiere casillero/courier propio y costo extra no publicado)."
+  },
+  {
+    "brand": "Felix Gray",
+    "model": "Raven (Plano)",
+    "category": "blue_light",
+    "shape": "cat_eye",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Sazerac",
+        "hex": "#8A5A2B"
+      },
+      {
+        "name": "Blush Cotton",
+        "hex": "#E0C2C2"
+      }
+    ],
+    "lens_tint": null,
+    "material": "acetato organico premium (lente CR-39)",
+    "face_shapes_recommended": [
+      "round",
+      "oval",
+      "heart",
+      "diamond"
+    ],
+    "lens_width_mm": 58,
+    "bridge_mm": 15,
+    "temple_mm": 145,
+    "price_usd": 104.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://felixgray.com/products/raven-plano",
+    "notes": "Cat-eye angular y oversized (ancho total 146 mm), con bisagras de resorte. Es el Felix Gray mas barato de esta seleccion. Felix Gray no publica un porcentaje de bloqueo: dice que sus lentes Clear 'filtran hasta 15X mas luz azul de alto impacto que otros lentes blue light' y la version Amber hasta 23X, ademas de 'hasta 3X mas melatonina' al usarlos de noche. Lente CR-39 con antirreflejo de doble cara y tratamiento hidrofobo. Se elige entre lente Clear (transparente) o Amber al comprar, sin cambio de precio. Envio a Argentina: NO envian directo; el policy solo cubre EE.UU., Puerto Rico, Islas Virgenes, Guam y APO/DPO/FPO, y derivan al forwarder MyUS.com para el resto del mundo (o sea, Argentina requiere casillero/courier propio y costo extra no publicado)."
+  },
+  {
+    "brand": "Felix Gray",
+    "model": "Storm (Plano)",
+    "category": "blue_light",
+    "shape": "aviator",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Gold",
+        "hex": "#C9A227"
+      },
+      {
+        "name": "Silver",
+        "hex": "#B9B9BE"
+      }
+    ],
+    "lens_tint": null,
+    "material": "acetato organico premium (lente CR-39)",
+    "face_shapes_recommended": [
+      "square",
+      "heart",
+      "oval",
+      "diamond"
+    ],
+    "lens_width_mm": 59,
+    "bridge_mm": 13,
+    "temple_mm": 145,
+    "price_usd": 129.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://felixgray.com/products/storm-plano",
+    "notes": "Aviador oversized y muy liviano, con plaquetas ajustables y bisagras de resorte. Lente de 59 mm, el mas grande de la seleccion. Felix Gray no publica un porcentaje de bloqueo: dice que sus lentes Clear 'filtran hasta 15X mas luz azul de alto impacto que otros lentes blue light' y la version Amber hasta 23X, ademas de 'hasta 3X mas melatonina' al usarlos de noche. Lente CR-39 con antirreflejo de doble cara y tratamiento hidrofobo. Se elige entre lente Clear (transparente) o Amber al comprar, sin cambio de precio. Envio a Argentina: NO envian directo; el policy solo cubre EE.UU., Puerto Rico, Islas Virgenes, Guam y APO/DPO/FPO, y derivan al forwarder MyUS.com para el resto del mundo (o sea, Argentina requiere casillero/courier propio y costo extra no publicado)."
+  },
+  {
+    "brand": "Pixel Eyewear",
+    "model": "Buteo",
+    "category": "blue_light",
+    "shape": "square",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Ash Brown",
+        "hex": "#6B5647"
+      }
+    ],
+    "lens_tint": null,
+    "material": null,
+    "face_shapes_recommended": [
+      "round",
+      "oval",
+      "heart"
+    ],
+    "lens_width_mm": 52,
+    "bridge_mm": 16,
+    "temple_mm": 145,
+    "price_usd": 75.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://www.pixeleyewear.com/products/buteo",
+    "notes": "Cuadrado negro marcado, ancho medio-ancho segun la ficha. Precio de lista USD 95, en oferta USD 75 al 11-sep-2026. Version Amber al mismo precio. Pixel Eyewear NO publica porcentaje ni longitud de onda: solo dice que filtra 'las longitudes de onda mas fuertes de luz azul donde es mas danina', con antirreflejo premium y lente 'practicamente transparente'. Ofrece el mismo armazon en version Amber ('proteccion reforzada para uso intensivo y scroll nocturno'), tambien sin porcentaje. Envio a Argentina: el envio gratis es solo dentro de EE.UU., pero el FAQ confirma que aceptan pedidos internacionales ('las ordenes internacionales tardan mas, depende del pais') sin publicar lista de paises ni tarifas: confirmar Argentina en el checkout. Prueba de 30 dias sin riesgo."
+  },
+  {
+    "brand": "Pixel Eyewear",
+    "model": "Capra",
+    "category": "blue_light",
+    "shape": "round",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Whiskey Tortoise",
+        "hex": "#8A5324"
+      },
+      {
+        "name": "Black",
+        "hex": "#121212"
+      }
+    ],
+    "lens_tint": null,
+    "material": null,
+    "face_shapes_recommended": [
+      "square",
+      "diamond",
+      "heart"
+    ],
+    "lens_width_mm": 48,
+    "bridge_mm": 21,
+    "temple_mm": 140,
+    "price_usd": 95.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://www.pixeleyewear.com/products/capra",
+    "notes": "Redondo clasico con puente tipo keyhole, ancho chico-medio (lente de 48 mm, el mas pequeno de la seleccion). Version Amber en oferta a USD 75. Pixel Eyewear NO publica porcentaje ni longitud de onda: solo dice que filtra 'las longitudes de onda mas fuertes de luz azul donde es mas danina', con antirreflejo premium y lente 'practicamente transparente'. Ofrece el mismo armazon en version Amber ('proteccion reforzada para uso intensivo y scroll nocturno'), tambien sin porcentaje. Envio a Argentina: el envio gratis es solo dentro de EE.UU., pero el FAQ confirma que aceptan pedidos internacionales ('las ordenes internacionales tardan mas, depende del pais') sin publicar lista de paises ni tarifas: confirmar Argentina en el checkout. Prueba de 30 dias sin riesgo."
+  },
+  {
+    "brand": "Pixel Eyewear",
+    "model": "Omni",
+    "category": "blue_light",
+    "shape": "browline",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Crystal",
+        "hex": "#DEDEE2"
+      },
+      {
+        "name": "Smolder",
+        "hex": "#3A3A3C"
+      }
+    ],
+    "lens_tint": null,
+    "material": null,
+    "face_shapes_recommended": [
+      "round",
+      "oval",
+      "heart"
+    ],
+    "lens_width_mm": 52,
+    "bridge_mm": 18,
+    "temple_mm": 145,
+    "price_usd": 75.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://www.pixeleyewear.com/products/omni",
+    "notes": "Ceja recta y puente keyhole (browline). Ancho medio-ancho. Lista USD 95, en oferta USD 75 al 11-sep-2026. Pixel Eyewear NO publica porcentaje ni longitud de onda: solo dice que filtra 'las longitudes de onda mas fuertes de luz azul donde es mas danina', con antirreflejo premium y lente 'practicamente transparente'. Ofrece el mismo armazon en version Amber ('proteccion reforzada para uso intensivo y scroll nocturno'), tambien sin porcentaje. Envio a Argentina: el envio gratis es solo dentro de EE.UU., pero el FAQ confirma que aceptan pedidos internacionales ('las ordenes internacionales tardan mas, depende del pais') sin publicar lista de paises ni tarifas: confirmar Argentina en el checkout. Prueba de 30 dias sin riesgo."
+  },
+  {
+    "brand": "Ambr Eyewear",
+    "model": "Zenith Focus",
+    "category": "blue_light",
+    "shape": "square",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Marine Blue",
+        "hex": "#1F3A5F"
+      },
+      {
+        "name": "Tortoise",
+        "hex": "#7A4A21"
+      },
+      {
+        "name": "Pink Prosecco",
+        "hex": "#E3BFC4"
+      }
+    ],
+    "lens_tint": null,
+    "material": "acetato (montura) / policarbonato (lente)",
+    "face_shapes_recommended": [
+      "round",
+      "oval",
+      "heart"
+    ],
+    "lens_width_mm": null,
+    "bridge_mm": null,
+    "temple_mm": null,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://ambreyewear.com/products/zenith",
+    "notes": "Precio de lista EUR 65 (no publica USD ni ARS). Cuadrado de cantos redondeados tamano medio; la marca lo llama su modelo mas vendido. Promo vigente: 50% off en el segundo par. Ambr Eyewear (Paises Bajos) no publica porcentaje de bloqueo: en la ficha declara 'proteccion de luz azul a 440 nm', lente practicamente transparente, antirreflejo de serie y aclara explicitamente que 'no afecta la percepcion del color' (clave si trabajas con diseno). Lente de policarbonato, montura de acetato con bisagras de resorte. Es la linea 'Focus' de dia; tienen aparte una linea 'Sleep' ambar para la noche. Envio a Argentina: Argentina figura en el selector de paises de la tienda (cobra en EUR). La ficha NO publica medidas (lente/puente/patilla) y vende 'one size fits all'."
+  },
+  {
+    "brand": "Ambr Eyewear",
+    "model": "Baily Focus",
+    "category": "blue_light",
+    "shape": "round",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Speckle Eggshell",
+        "hex": "#E6DFD0"
+      },
+      {
+        "name": "Tortoise and Orange",
+        "hex": "#B5622A"
+      },
+      {
+        "name": "Gloss Black",
+        "hex": "#0E0E0E"
+      },
+      {
+        "name": "Tortoise and Turquoise",
+        "hex": "#2E8B8B"
+      },
+      {
+        "name": "Hot Pink",
+        "hex": "#E0457B"
+      }
+    ],
+    "lens_tint": null,
+    "material": "acetato (montura) / policarbonato (lente)",
+    "face_shapes_recommended": [
+      "square",
+      "diamond",
+      "heart"
+    ],
+    "lens_width_mm": null,
+    "bridge_mm": null,
+    "temple_mm": null,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://ambreyewear.com/products/baily",
+    "notes": "Precio de lista EUR 65 (no publica USD ni ARS). Redondo con borde plano marcado; es el modelo con mas variedad de color de la linea. Ambr Eyewear (Paises Bajos) no publica porcentaje de bloqueo: en la ficha declara 'proteccion de luz azul a 440 nm', lente practicamente transparente, antirreflejo de serie y aclara explicitamente que 'no afecta la percepcion del color' (clave si trabajas con diseno). Lente de policarbonato, montura de acetato con bisagras de resorte. Es la linea 'Focus' de dia; tienen aparte una linea 'Sleep' ambar para la noche. Envio a Argentina: Argentina figura en el selector de paises de la tienda (cobra en EUR). La ficha NO publica medidas (lente/puente/patilla) y vende 'one size fits all'."
+  },
+  {
+    "brand": "Ambr Eyewear",
+    "model": "Pallas Focus",
+    "category": "blue_light",
+    "shape": "aviator",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Polished Gold",
+        "hex": "#C9A227"
+      },
+      {
+        "name": "Gloss Black",
+        "hex": "#0E0E0E"
+      },
+      {
+        "name": "Polished Silver",
+        "hex": "#B9B9BE"
+      }
+    ],
+    "lens_tint": null,
+    "material": "acetato (montura) / policarbonato (lente)",
+    "face_shapes_recommended": [
+      "square",
+      "heart",
+      "oval",
+      "diamond"
+    ],
+    "lens_width_mm": null,
+    "bridge_mm": null,
+    "temple_mm": null,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://ambreyewear.com/products/pallas",
+    "notes": "Precio de lista EUR 65 (no publica USD ni ARS). Estilo aviador en metal (a diferencia del resto de la linea, que es acetato). Ambr Eyewear (Paises Bajos) no publica porcentaje de bloqueo: en la ficha declara 'proteccion de luz azul a 440 nm', lente practicamente transparente, antirreflejo de serie y aclara explicitamente que 'no afecta la percepcion del color' (clave si trabajas con diseno). Lente de policarbonato, montura de acetato con bisagras de resorte. Es la linea 'Focus' de dia; tienen aparte una linea 'Sleep' ambar para la noche. Envio a Argentina: Argentina figura en el selector de paises de la tienda (cobra en EUR). La ficha NO publica medidas (lente/puente/patilla) y vende 'one size fits all'."
+  },
+  {
+    "brand": "IZIPIZI",
+    "model": "SCREEN #C",
+    "category": "blue_light",
+    "shape": "square",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Tortoise",
+        "hex": "#7A4A21"
+      },
+      {
+        "name": "Frozen Blue",
+        "hex": "#8FB6CC"
+      },
+      {
+        "name": "Golden Green",
+        "hex": "#8A8B4A"
+      },
+      {
+        "name": "Red",
+        "hex": "#B5232B"
+      },
+      {
+        "name": "Spicy Clove",
+        "hex": "#8A5A3C"
+      },
+      {
+        "name": "Misty Blue",
+        "hex": "#8FA3B5"
+      },
+      {
+        "name": "Light Tortoise",
+        "hex": "#C99A5B"
+      },
+      {
+        "name": "Blue Tortoise",
+        "hex": "#3F5A72"
+      }
+    ],
+    "lens_tint": null,
+    "material": null,
+    "face_shapes_recommended": [
+      "round",
+      "oval",
+      "heart"
+    ],
+    "lens_width_mm": null,
+    "bridge_mm": null,
+    "temple_mm": 151,
+    "price_usd": 60.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://www.izipizi.com/en-us/products/screen-c-black",
+    "notes": "IZIPIZI describe el #C como una forma 'entre cuadrada y pantos', de aire vintage. Ancho de montura 137 mm, alto 45 mm, patilla 151 mm, 139 g con packaging. Incluye funda de fieltro. USD 60 por color. IZIPIZI (Francia) publica que los lentes SCREEN filtran 40% de la luz azul-violeta emitida por pantallas; explica en su propio FAQ que no bloquean el 100% a proposito porque parte de la luz azul es beneficiosa para el ritmo circadiano. Lente practicamente transparente. Modelos conformes a EN ISO 12312-1, ANSI Z80.3 y AS/NZS 1067.1. La ficha NO publica ancho de lente ni puente, solo largo de patilla, ancho y alto de montura. Envio a Argentina: la tienda en-us cotiza en USD y su policy dice que hace envios internacionales con las opciones y costos mostrados en el checkout por pais, pero NO enumera Argentina en ningun lado: hay que confirmarlo en el checkout. Derechos e impuestos por cuenta del comprador. Garantia 2 anos."
+  },
+  {
+    "brand": "IZIPIZI",
+    "model": "SCREEN #OFFICE",
+    "category": "blue_light",
+    "shape": "oversized",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Tortoise",
+        "hex": "#7A4A21"
+      },
+      {
+        "name": "Light Tortoise",
+        "hex": "#C99A5B"
+      },
+      {
+        "name": "Dark Expresso",
+        "hex": "#3E2A20"
+      },
+      {
+        "name": "Frozen Blue",
+        "hex": "#8FB6CC"
+      },
+      {
+        "name": "Golden Green",
+        "hex": "#8A8B4A"
+      },
+      {
+        "name": "Blue Line",
+        "hex": "#2E4A7A"
+      }
+    ],
+    "lens_tint": null,
+    "material": null,
+    "face_shapes_recommended": [
+      "oval",
+      "heart",
+      "diamond"
+    ],
+    "lens_width_mm": null,
+    "bridge_mm": null,
+    "temple_mm": 148,
+    "price_usd": 70.0,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": "import",
+    "buy_url": "https://www.izipizi.com/en-us/products/screen-office-black",
+    "notes": "Modelo oversized de marco fino, cuadrado redondeado, estetica anos 70. Ancho de montura 147 mm, alto 55 mm (el mas grande de la linea SCREEN), patilla 148 mm, 152,9 g con packaging. USD 70. IZIPIZI (Francia) publica que los lentes SCREEN filtran 40% de la luz azul-violeta emitida por pantallas; explica en su propio FAQ que no bloquean el 100% a proposito porque parte de la luz azul es beneficiosa para el ritmo circadiano. Lente practicamente transparente. Modelos conformes a EN ISO 12312-1, ANSI Z80.3 y AS/NZS 1067.1. La ficha NO publica ancho de lente ni puente, solo largo de patilla, ancho y alto de montura. Envio a Argentina: la tienda en-us cotiza en USD y su policy dice que hace envios internacionales con las opciones y costos mostrados en el checkout por pais, pero NO enumera Argentina en ningun lado: hay que confirmarlo en el checkout. Derechos e impuestos por cuenta del comprador. Garantia 2 anos."
+  },
+  {
+    "brand": "Horus X",
+    "model": "Roma",
+    "category": "blue_light",
+    "shape": "rectangle",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Gold Tortoise",
+        "hex": "#B98A3E"
+      },
+      {
+        "name": "Silver Blue",
+        "hex": "#7A90A8"
+      }
+    ],
+    "lens_tint": null,
+    "material": "metal",
+    "face_shapes_recommended": [
+      "oval",
+      "round",
+      "heart"
+    ],
+    "lens_width_mm": null,
+    "bridge_mm": 16,
+    "temple_mm": null,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": false,
+    "buy_url": "https://horus-x.com/products/lunettes-anti-lumiere-bleue-filtre-la-roma",
+    "notes": "Precio de lista EUR 79,90 (no publica USD ni ARS). Rectangular retro-chic, el mas liviano de la marca: 15 g. Largo total de montura 129 mm, alto 36,5 mm, ancho de plaqueta 16 mm (dato que uso como bridge). Horus X (Francia) publica para su lente Ghost Clear: filtra 100% de la luz azul a 400 nm y mas del 60% entre 380 y 450 nm, mas 100% de UV (UV400), con test de laboratorio independiente; la version gaming ambar (Plasma Amber) llega a 86% entre 380 y 450 nm. ATENCION - NO ENVIA A ARGENTINA: la politica de envio de Horus X incluye a la Argentina en su lista explicita de paises a los que 'por el momento no expedimos'. Solo sirve via reenvio/casillero en otro pais. Ademas la ficha no publica ancho de lente ni largo de patilla: solo largo total de montura, alto y ancho de plaqueta."
+  },
+  {
+    "brand": "Horus X",
+    "model": "Ushuaia",
+    "category": "blue_light",
+    "shape": "round",
+    "gender": "unisex",
+    "frame_colors": [
+      {
+        "name": "Gold",
+        "hex": "#C9A227"
+      },
+      {
+        "name": "Silver",
+        "hex": "#B9B9BE"
+      }
+    ],
+    "lens_tint": null,
+    "material": "metal",
+    "face_shapes_recommended": [
+      "square",
+      "diamond",
+      "heart"
+    ],
+    "lens_width_mm": null,
+    "bridge_mm": 18,
+    "temple_mm": null,
+    "price_usd": null,
+    "price_ars": null,
+    "price_date": "2026-09-11",
+    "available_in_argentina": false,
+    "buy_url": "https://horus-x.com/products/lunettes-anti-lumiere-bleue-filtre-la-ushuaia",
+    "notes": "Precio de lista EUR 79,90 (no publica USD ni ARS). Redondo fino y liviano (22 g) con la tecnologia gaming de la marca. Largo total de montura 139 mm, alto 46,5 mm, ancho de plaqueta 18,2 mm (redondeado a 18 como bridge). Horus X (Francia) publica para su lente Ghost Clear: filtra 100% de la luz azul a 400 nm y mas del 60% entre 380 y 450 nm, mas 100% de UV (UV400), con test de laboratorio independiente; la version gaming ambar (Plasma Amber) llega a 86% entre 380 y 450 nm. ATENCION - NO ENVIA A ARGENTINA: la politica de envio de Horus X incluye a la Argentina en su lista explicita de paises a los que 'por el momento no expedimos'. Solo sirve via reenvio/casillero en otro pais. Ademas la ficha no publica ancho de lente ni largo de patilla: solo largo total de montura, alto y ancho de plaqueta."
+  }
+]

@@ -1,0 +1,624 @@
+{
+ "models": [
+  {
+   "brand": "Ray-Ban",
+   "model": "Aviator Classic (RB3025)",
+   "category": "sunglasses",
+   "shape": "aviator",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Polished Arista Gold",
+     "hex": "#d4af37"
+    },
+    {
+     "name": "Polished Gold",
+     "hex": "#d4af37"
+    },
+    {
+     "name": "Polished Silver",
+     "hex": "#c0c4c8"
+    },
+    {
+     "name": "Polished Black",
+     "hex": "#1a1a1a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "G-15 Green",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "G-15 Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Black Polarized",
+     "hex": "#2b2b2b",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Blue",
+     "hex": "#3b5f8a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Blue Polarized",
+     "hex": "#3b5f8a",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": "metal",
+   "lens_width_mm": 58,
+   "bridge_mm": 14,
+   "temple_mm": 135,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart",
+    "oval"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": true,
+   "buy_url": "https://www.ray-ban.com/usa/sunglasses/RB3025%20UNISEX%20aviator%20classic-gold/805289602057",
+   "iconic": true,
+   "notes": "El aviador original de 1937. Talle 58-14-135 (tambien existe en 55 y 62). Ray-Ban US bloquea el scraping de la ficha (HTTP 403): colores y medidas salen de los titulos oficiales de producto de ray-ban.com indexados; el precio no se pudo verificar en la ficha y queda en null. Se consigue en Argentina: Ray-Ban tiene sitio oficial LATAM (ray-ban.com/latam) y opticas/retailers argentinos (Sunstore, Mas Vision, Optica Paesani, SmartBuyGlasses AR).",
+   "sources": [
+    "https://www.ray-ban.com/usa/sunglasses/RB3025aviator%20classic-arista%20gold/805289602057",
+    "https://www.ray-ban.com/row/sunglasses/RB3025aviator%20classic-arista%20gold/805289602057",
+    "https://www.lenscrafters.com/lc-us/ray-ban/805289602057"
+   ]
+  },
+  {
+   "brand": "Ray-Ban",
+   "model": "Original Wayfarer Classic (RB2140)",
+   "category": "sunglasses",
+   "shape": "wayfarer",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Polished Black",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Polished Tortoise",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Matte Black",
+     "hex": "#2a2a2a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "G-15 Green",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 50,
+   "bridge_mm": 22,
+   "temple_mm": null,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "heart",
+    "diamond"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": true,
+   "buy_url": "https://www.ray-ban.com/usa/sunglasses/RB2140original%20wayfarer%20classic-black/805289126577",
+   "iconic": true,
+   "notes": "Wayfarer original de 1952. Talles verificados 50-22 y 54-18 (la variante asian fit RB2140F va 52-22). Largo de varilla no publicado en el titulo. Ray-Ban US bloquea el scraping de la ficha (HTTP 403): colores y medidas salen de los titulos oficiales de producto de ray-ban.com indexados; el precio no se pudo verificar en la ficha y queda en null. Se consigue en Argentina: Ray-Ban tiene sitio oficial LATAM (ray-ban.com/latam) y opticas/retailers argentinos (Sunstore, Mas Vision, Optica Paesani, SmartBuyGlasses AR).",
+   "sources": [
+    "https://www.ray-ban.com/usa/sunglasses/RB2140original%20wayfarer%20classic-black/805289126577",
+    "https://www.ray-ban.com/usa/sunglasses/RB2140%20UNISEX%20original%20wayfarer%20classic-tortoise/805289126638"
+   ]
+  },
+  {
+   "brand": "Ray-Ban",
+   "model": "New Wayfarer Classic (RB2132)",
+   "category": "sunglasses",
+   "shape": "wayfarer",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Polished Black",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Matte Rubber Black",
+     "hex": "#2e2e2e"
+    },
+    {
+     "name": "Matte Black & Green Camuflage",
+     "hex": "#4a5240"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "G-15 Green",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Blue",
+     "hex": "#3b5f8a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Blue Gradient Polarized",
+     "hex": "#5b7fa8",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Dark Grey",
+     "hex": "#3f4245",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 52,
+   "bridge_mm": 18,
+   "temple_mm": null,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": true,
+   "buy_url": "https://www.ray-ban.com/usa/sunglasses/RB2132new%20wayfarer%20classic-black/805289048527",
+   "iconic": true,
+   "notes": "Version mas chica y curva del Wayfarer. Talles verificados 52-18 y 55-18. Ray-Ban US bloquea el scraping de la ficha (HTTP 403): colores y medidas salen de los titulos oficiales de producto de ray-ban.com indexados; el precio no se pudo verificar en la ficha y queda en null. Se consigue en Argentina: Ray-Ban tiene sitio oficial LATAM (ray-ban.com/latam) y opticas/retailers argentinos (Sunstore, Mas Vision, Optica Paesani, SmartBuyGlasses AR).",
+   "sources": [
+    "https://www.ray-ban.com/usa/sunglasses/RB2132new%20wayfarer%20classic-black/805289048527",
+    "https://www.ray-ban.com/usa/sunglasses/RB2132new%20wayfarer%20classic-rubber%20black/8056262052327"
+   ]
+  },
+  {
+   "brand": "Ray-Ban",
+   "model": "Clubmaster Classic (RB3016)",
+   "category": "sunglasses",
+   "shape": "browline",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Polished Black On Gold",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Polished Tortoise On Gold",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Polished Havana",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Polished Grey On Black",
+     "hex": "#5a5f66"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "G-15 Green",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "G-15 Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "B-15 Brown",
+     "hex": "#5c3a21",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Dark Grey",
+     "hex": "#3f4245",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 51,
+   "bridge_mm": 21,
+   "temple_mm": null,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "square"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": true,
+   "buy_url": "https://www.ray-ban.com/usa/sunglasses/RB3016clubmaster%20classic-black%20on%20gold/805289304449",
+   "iconic": true,
+   "notes": "Browline de los 50. Talles verificados 51-21 y 49-21. Ray-Ban US mostraba USD 191 (polarizado USD 244) en los resultados de busqueda de sep-2026, pero NO se pudo confirmar en la ficha por el bloqueo 403, por eso price_usd queda null. Se consigue en Argentina: Ray-Ban tiene sitio oficial LATAM (ray-ban.com/latam) y opticas/retailers argentinos (Sunstore, Mas Vision, Optica Paesani, SmartBuyGlasses AR).",
+   "sources": [
+    "https://www.ray-ban.com/usa/sunglasses/RB3016clubmaster%20classic-black%20on%20gold/805289304449",
+    "https://www.ray-ban.com/usa/sunglasses/RB3016clubmaster%20classic-havana/8056597260299"
+   ]
+  },
+  {
+   "brand": "Ray-Ban",
+   "model": "Round Metal (RB3447)",
+   "category": "sunglasses",
+   "shape": "round",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Polished Arista Gold",
+     "hex": "#d4af37"
+    },
+    {
+     "name": "Polished Gold",
+     "hex": "#d4af37"
+    },
+    {
+     "name": "Matte Gold",
+     "hex": "#bfa14a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "G-15 Green",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "G-15 Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Black Polarized",
+     "hex": "#2b2b2b",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Blue",
+     "hex": "#3b5f8a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Brown",
+     "hex": "#5c3a21",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Grey Gradient",
+     "hex": "#6e747a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Light Blue Gradient",
+     "hex": "#9dc4e0",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "metal",
+   "lens_width_mm": 50,
+   "bridge_mm": 21,
+   "temple_mm": null,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": true,
+   "buy_url": "https://www.ray-ban.com/usa/sunglasses/RB3447%20UNISEX%20round%20metal-gold/805289439899",
+   "iconic": true,
+   "notes": "El redondo de metal tipo Lennon. Talle verificado 50-21. Ray-Ban US bloquea el scraping de la ficha (HTTP 403): colores y medidas salen de los titulos oficiales de producto de ray-ban.com indexados; el precio no se pudo verificar en la ficha y queda en null. Se consigue en Argentina: Ray-Ban tiene sitio oficial LATAM (ray-ban.com/latam) y opticas/retailers argentinos (Sunstore, Mas Vision, Optica Paesani, SmartBuyGlasses AR).",
+   "sources": [
+    "https://www.ray-ban.com/usa/sunglasses/RB3447%20UNISEX%20round%20metal-gold/805289439899",
+    "https://www.ray-ban.com/usa/sunglasses/RB3447round%20metal-arista%20gold/8056597142441"
+   ]
+  },
+  {
+   "brand": "Ray-Ban",
+   "model": "Erika Classic (RB4171)",
+   "category": "sunglasses",
+   "shape": "round",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Polished Black",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Matte Rubber Black",
+     "hex": "#2e2e2e"
+    },
+    {
+     "name": "Polished Light Havana",
+     "hex": "#a9784a"
+    },
+    {
+     "name": "Matte Rubber Havana",
+     "hex": "#7a5230"
+    },
+    {
+     "name": "Matte Dark Sand",
+     "hex": "#9c8b73"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Purple Polarized",
+     "hex": "#6b4a7a",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Grey Gradient",
+     "hex": "#6e747a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Brown",
+     "hex": "#5c3a21",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "G-15 Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Brown/Violet",
+     "hex": "#6b4a5a",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": null,
+   "lens_width_mm": 54,
+   "bridge_mm": 18,
+   "temple_mm": null,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": true,
+   "buy_url": "https://www.ray-ban.com/usa/sunglasses/RB4171%20UNISEX%20erika%20classic-rubber%20black/805289742463",
+   "iconic": true,
+   "notes": "Ray-Ban lo etiqueta UNISEX en la URL pero lo comercializa como modelo femenino; se marca female para el filtro. Talle verificado 54-18. Material del armazon (nylon segun la ficha) no verificado por el bloqueo 403. Ray-Ban US bloquea el scraping de la ficha (HTTP 403): colores y medidas salen de los titulos oficiales de producto de ray-ban.com indexados; el precio no se pudo verificar en la ficha y queda en null. Se consigue en Argentina: Ray-Ban tiene sitio oficial LATAM (ray-ban.com/latam) y opticas/retailers argentinos (Sunstore, Mas Vision, Optica Paesani, SmartBuyGlasses AR).",
+   "sources": [
+    "https://www.ray-ban.com/usa/sunglasses/RB4171%20UNISEX%20erika%20classic-rubber%20black/805289742463",
+    "https://www.ray-ban.com/usa/sunglasses/RB4171erika%20classic-light%20havana/8053672495744"
+   ]
+  },
+  {
+   "brand": "Ray-Ban",
+   "model": "Hexagonal Flat Lenses (RB3548N)",
+   "category": "sunglasses",
+   "shape": "hexagonal",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Polished Black",
+     "hex": "#1a1a1a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "G-15 Green Polarized",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": "metal",
+   "lens_width_mm": 51,
+   "bridge_mm": 21,
+   "temple_mm": null,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "square"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": true,
+   "buy_url": "https://www.ray-ban.com/usa/sunglasses/RB3548Nhexagonal%20flat%20lenses-black/8053672743852",
+   "iconic": true,
+   "notes": "Hexagonal de lente plana. Talle verificado 51-21. Solo se verifico la combinacion negro/G-15 polarizado: hay mas colores no verificados. Ray-Ban US bloquea el scraping de la ficha (HTTP 403): colores y medidas salen de los titulos oficiales de producto de ray-ban.com indexados; el precio no se pudo verificar en la ficha y queda en null. Se consigue en Argentina: Ray-Ban tiene sitio oficial LATAM (ray-ban.com/latam) y opticas/retailers argentinos (Sunstore, Mas Vision, Optica Paesani, SmartBuyGlasses AR).",
+   "sources": [
+    "https://www.ray-ban.com/usa/sunglasses/RB3548Nhexagonal%20flat%20lenses-black/8053672743852"
+   ]
+  },
+  {
+   "brand": "Oakley",
+   "model": "Holbrook (OO9102)",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "male",
+   "frame_colors": [
+    {
+     "name": "Matte Black",
+     "hex": "#2a2a2a"
+    },
+    {
+     "name": "Matte Black Tortoise",
+     "hex": "#4a3728"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Prizm Sapphire Polarized",
+     "hex": "#2f5f9e",
+     "mirrored": true,
+     "polarized": true
+    },
+    {
+     "name": "Prizm Gaming",
+     "hex": "#7a4a8a",
+     "mirrored": true,
+     "polarized": false
+    }
+   ],
+   "material": "inyectado",
+   "lens_width_mm": 55,
+   "bridge_mm": 18,
+   "temple_mm": 137,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "oblong"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": true,
+   "buy_url": "https://www.oakley.com/en-us/product/W0OO9102",
+   "iconic": true,
+   "notes": "NO VERIFICADO EN OAKLEY.COM: medidas 55-18-137 y armazon de nylon (O Matter) salen de fichas de retailers (ezcontacts, eyeglasses.com, eBay), no del sitio oficial. Existe tambien la version 57mm high bridge fit. Precio sin verificar. Oakley tiene tiendas oficiales y opticas en Argentina (Sunstore, Optica Paesani, SmartBuyGlasses AR).",
+   "sources": [
+    "https://www.ezcontacts.com/product/sunglasses/324051-324061/oakley-holbrook-oo9102",
+    "https://www.eyeglasses.com/sunglasses/oakley-holbrook-oo9102",
+    "https://www.sunstore.com.ar/lentes-de-sol/oakley1/"
+   ]
+  },
+  {
+   "brand": "Persol",
+   "model": "714SM Steve McQueen (PO0714SM)",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Light Havana",
+     "hex": "#a9784a"
+    },
+    {
+     "name": "Terra di Siena",
+     "hex": "#8b4a2b"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Crystal Blue",
+     "hex": "#5b7fa8",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Brown",
+     "hex": "#5c3a21",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Green",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 54,
+   "bridge_mm": 21,
+   "temple_mm": 140,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": 511.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://www.persol.com/en-us/products/0po0714sm-96_56",
+   "iconic": true,
+   "notes": "El plegable original de los 60, el de Steve McQueen en The Thomas Crown Affair. Ficha oficial: alto de lente 27mm, hecho a mano en Italia. USD 511 es el precio publicado de la variante Light Havana / Crystal Blue 54mm (figuraba sin stock). Tambien existe en 52mm. Disponibilidad en Argentina no verificada: se consigue via importadores/opticas premium.",
+   "sources": [
+    "https://www.persol.com/en-us/products/0po0714sm-96_56",
+    "https://www.persol.com/en-us/collections/steve-mcqueen-sunglasses"
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.eyeglasses.com/sunglasses/oakley-holbrook-oo9102",
+  "https://www.ezcontacts.com/product/sunglasses/324051-324061/oakley-holbrook-oo9102",
+  "https://www.lenscrafters.com/lc-us/ray-ban/805289602057",
+  "https://www.persol.com/en-us/collections/steve-mcqueen-sunglasses",
+  "https://www.persol.com/en-us/products/0po0714sm-96_56",
+  "https://www.ray-ban.com/row/sunglasses/RB3025aviator%20classic-arista%20gold/805289602057",
+  "https://www.ray-ban.com/usa/sunglasses/RB2132new%20wayfarer%20classic-black/805289048527",
+  "https://www.ray-ban.com/usa/sunglasses/RB2132new%20wayfarer%20classic-rubber%20black/8056262052327",
+  "https://www.ray-ban.com/usa/sunglasses/RB2140%20UNISEX%20original%20wayfarer%20classic-tortoise/805289126638",
+  "https://www.ray-ban.com/usa/sunglasses/RB2140original%20wayfarer%20classic-black/805289126577",
+  "https://www.ray-ban.com/usa/sunglasses/RB3016clubmaster%20classic-black%20on%20gold/805289304449",
+  "https://www.ray-ban.com/usa/sunglasses/RB3016clubmaster%20classic-havana/8056597260299",
+  "https://www.ray-ban.com/usa/sunglasses/RB3025aviator%20classic-arista%20gold/805289602057",
+  "https://www.ray-ban.com/usa/sunglasses/RB3447%20UNISEX%20round%20metal-gold/805289439899",
+  "https://www.ray-ban.com/usa/sunglasses/RB3447round%20metal-arista%20gold/8056597142441",
+  "https://www.ray-ban.com/usa/sunglasses/RB3548Nhexagonal%20flat%20lenses-black/8053672743852",
+  "https://www.ray-ban.com/usa/sunglasses/RB4171%20UNISEX%20erika%20classic-rubber%20black/805289742463",
+  "https://www.ray-ban.com/usa/sunglasses/RB4171erika%20classic-light%20havana/8053672495744",
+  "https://www.sunstore.com.ar/lentes-de-sol/oakley1/"
+ ],
+ "not_verified": [
+  "ray-ban.com, sunglasshut.com, lenscrafters.com y framesdirect.com devuelven HTTP 403 al scraping: de Ray-Ban solo se verificaron nombre de modelo, colores de armazon/lente y medidas lens-bridge desde los titulos oficiales de producto indexados. Ningun precio USD de Ray-Ban quedo verificado.",
+  "Largo de varilla (temple) de Ray-Ban: no aparece en los titulos, queda null salvo el Aviator (135mm).",
+  "Oakley: oakley.com no se pudo leer; las medidas del Holbrook vienen de retailers."
+ ]
+}

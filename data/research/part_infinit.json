@@ -1,0 +1,789 @@
+{
+ "models": [
+  {
+   "brand": "Infinit",
+   "model": "Exclamation",
+   "category": "sunglasses",
+   "shape": "rectangle",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Negro Mate",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Negro Brillo",
+     "hex": "#0d0d0d"
+    },
+    {
+     "name": "Bone Carey",
+     "hex": "#c9b08a"
+    },
+    {
+     "name": "Honey",
+     "hex": "#b8763a"
+    },
+    {
+     "name": "Gris Camouflage",
+     "hex": "#6b6f63"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Gris Polarizado",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Verde Polarizado",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Suave Espejada Dorada Degradé",
+     "hex": "#c9a227",
+     "mirrored": true,
+     "polarized": false
+    }
+   ],
+   "material": "Poliamida INF",
+   "lens_width_mm": 48,
+   "bridge_mm": 23,
+   "temple_mm": 148,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 229900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-infinit-exclamation-negro-mate-lente-gris",
+   "iconic": true,
+   "notes": "Ficha oficial: alto 45mm, ancho total 144mm, lente categoria 3 UV400, policarbonato. Version polarizada $249.900 ARS. Hay version Eco/sustentable y Luxury Series con metal Uroboro ($239.900).",
+   "sources": [
+    "https://infinit.la/products/anteojos-infinit-exclamation-negro-mate-lente-gris",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Lyon",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Negro Brillo",
+     "hex": "#0d0d0d"
+    },
+    {
+     "name": "Negro Mate",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Carey Rubio",
+     "hex": "#b98b53"
+    },
+    {
+     "name": "Metal Chocolate",
+     "hex": "#4a3728"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Gris Degradé",
+     "hex": "#6e747a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Marrón Degradé",
+     "hex": "#6b4a2f",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Naranja",
+     "hex": "#d2691e",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Celeste Degradé",
+     "hex": "#8fb8d8",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Verde Degradé",
+     "hex": "#4a5c3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Gris Polarizado",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": "Poliamida INF",
+   "lens_width_mm": 52,
+   "bridge_mm": 21,
+   "temple_mm": 147,
+   "face_shapes_recommended": [
+    "oval",
+    "square",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 229900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-infinit-lyon-negro-brillo-lente-gris",
+   "iconic": false,
+   "notes": "Infinit lo describe como caravan oversize. Alto 53mm, ancho total 137mm, categoria 3 UV400. Version polarizada $249.900 ARS; version metal chocolate $239.900.",
+   "sources": [
+    "https://infinit.la/products/anteojos-infinit-lyon-negro-brillo-lente-gris",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Bronx (Premium Series)",
+   "category": "sunglasses",
+   "shape": "rectangle",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Negro Mate",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Negro Brillo",
+     "hex": "#0d0d0d"
+    },
+    {
+     "name": "Dark Honey",
+     "hex": "#8b5a2b"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Gris Degradé",
+     "hex": "#6e747a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Gris Polarizado",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": true
+    },
+    {
+     "name": "Azul",
+     "hex": "#2f4f6f",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "Acetato INF",
+   "lens_width_mm": 51,
+   "bridge_mm": 22,
+   "temple_mm": 150,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 229900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-de-sol-bronx-premium-series-negro-mate-lente-gris",
+   "iconic": false,
+   "notes": "Infinit lo llama microgafa. Alto 44mm, ancho total 145mm, lente policarbonato categoria 3 UV400. Version Luxury Series con metal Uroboro $249.900 ARS.",
+   "sources": [
+    "https://infinit.la/products/anteojos-de-sol-bronx-premium-series-negro-mate-lente-gris",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Tulum",
+   "category": "sunglasses",
+   "shape": "panto",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Carey",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Milky Brown",
+     "hex": "#a98467"
+    },
+    {
+     "name": "Negro Mate",
+     "hex": "#1a1a1a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris Degradé",
+     "hex": "#6e747a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "Poliamida INF",
+   "lens_width_mm": 48,
+   "bridge_mm": 22,
+   "temple_mm": 140,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart",
+    "diamond"
+   ],
+   "price_usd": null,
+   "price_ars": 229900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-de-sol-tulum-carey-lente-gris-degrade",
+   "iconic": false,
+   "notes": "Forma panto segun la ficha oficial. Alto 51mm, ancho total 136mm, categoria 3 UV400. Version negro mate $219.900 ARS.",
+   "sources": [
+    "https://infinit.la/products/anteojos-de-sol-tulum-carey-lente-gris-degrade",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Alaska",
+   "category": "sunglasses",
+   "shape": "oval",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Dorado",
+     "hex": "#d4af37"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Tostado",
+     "hex": "#8a6238",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "Metal INF",
+   "lens_width_mm": 52,
+   "bridge_mm": 18,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 229900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-de-sol-alaska-dorado-lente-gris",
+   "iconic": false,
+   "notes": "Ovalado de metal. Alto 42mm, categoria 3 UV400. Listado en la categoria Mujer del sitio.",
+   "sources": [
+    "https://infinit.la/products/anteojos-de-sol-alaska-dorado-lente-gris",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Monaco",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Negro Mate",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Negro Brillo",
+     "hex": "#0d0d0d"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Gris Polarizado",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": "Poliamida",
+   "lens_width_mm": null,
+   "bridge_mm": null,
+   "temple_mm": null,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 229900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/collections/monaco-sunglasses",
+   "iconic": false,
+   "notes": "Forma caravan segun la pagina de coleccion. Medidas no publicadas en la pagina de coleccion. Version polarizada $249.900 ARS.",
+   "sources": [
+    "https://infinit.la/collections/monaco-sunglasses",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Houston",
+   "category": "sunglasses",
+   "shape": "oversized",
+   "gender": "male",
+   "frame_colors": [
+    {
+     "name": "Negro Brillo",
+     "hex": "#0d0d0d"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "Poliamida INF",
+   "lens_width_mm": 54,
+   "bridge_mm": 21,
+   "temple_mm": 146,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "diamond"
+   ],
+   "price_usd": null,
+   "price_ars": 219900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/houston-negro-brillo-lente-gris",
+   "iconic": false,
+   "notes": "Alto 46mm, ancho total 149mm, categoria 3 UV400. Listado en la categoria Hombre del sitio.",
+   "sources": [
+    "https://infinit.la/products/houston-negro-brillo-lente-gris",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "V8",
+   "category": "sunglasses",
+   "shape": "rectangle",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Carey",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Negro Brillo",
+     "hex": "#0d0d0d"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Ámbar",
+     "hex": "#c07a2c",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "Poliamida INF",
+   "lens_width_mm": 49,
+   "bridge_mm": 20,
+   "temple_mm": 136,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 189900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-de-sol-v8-carey-lente-ambar",
+   "iconic": false,
+   "notes": "Microgafa. Alto 40mm, ancho total 145mm, categoria 3 UV400. La variante negro brillo figura en la categoria Hombre.",
+   "sources": [
+    "https://infinit.la/products/anteojos-de-sol-v8-carey-lente-ambar",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Liora",
+   "category": "sunglasses",
+   "shape": "oval",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Negro Brillo",
+     "hex": "#0d0d0d"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Marrón",
+     "hex": "#5c3a21",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "Poliamida INF",
+   "lens_width_mm": 54,
+   "bridge_mm": 20,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 199900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/liora-negro-brillo-lente-marron",
+   "iconic": false,
+   "notes": "Ovalado. Alto 42mm, ancho total 143mm, lente categoria 1 (tinte suave) UV400. Listado en la categoria Mujer.",
+   "sources": [
+    "https://infinit.la/products/liora-negro-brillo-lente-marron",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Triple XXX",
+   "category": "sunglasses",
+   "shape": "oversized",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Negro Brillo",
+     "hex": "#0d0d0d"
+    },
+    {
+     "name": "Negro Mate",
+     "hex": "#1a1a1a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Oliva Degradé",
+     "hex": "#5a6033",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Suave Espejada Dorada Naranja Degradé",
+     "hex": "#d99a3a",
+     "mirrored": true,
+     "polarized": false
+    }
+   ],
+   "material": "Poliamida INF",
+   "lens_width_mm": 56,
+   "bridge_mm": 13,
+   "temple_mm": 138,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "square"
+   ],
+   "price_usd": null,
+   "price_ars": 239900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/triple-xxx-metal-negro-brillo-lente-oliva-degrade",
+   "iconic": false,
+   "notes": "Oversize de puente bajo (13mm). Alto 58mm, ancho total 145mm, lente categoria 1 UV400. Version negro mate espejada $229.900 ARS.",
+   "sources": [
+    "https://infinit.la/products/triple-xxx-metal-negro-brillo-lente-oliva-degrade",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Marsella",
+   "category": "sunglasses",
+   "shape": "oversized",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Marrón",
+     "hex": "#7a5230"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "Policarbonato INF",
+   "lens_width_mm": 55,
+   "bridge_mm": 19,
+   "temple_mm": 140,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 159900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-de-sol-marsella-marron-lente-gris",
+   "iconic": false,
+   "notes": "Oversize. Alto 50mm, categoria 3 UV400. Uno de los modelos mas accesibles del catalogo.",
+   "sources": [
+    "https://infinit.la/products/anteojos-de-sol-marsella-marron-lente-gris",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "New York 3D (Edición Limitada)",
+   "category": "sunglasses",
+   "shape": "rectangle",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Milky Brown Bone",
+     "hex": "#b99b78"
+    },
+    {
+     "name": "Milky Brown Carey",
+     "hex": "#8a6340"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Tostado",
+     "hex": "#8a6238",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Marrón Suave Espejada Rosa Degradé",
+     "hex": "#c98b8b",
+     "mirrored": true,
+     "polarized": false
+    }
+   ],
+   "material": "Poliamida INF",
+   "lens_width_mm": 50,
+   "bridge_mm": 21,
+   "temple_mm": 151,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 229900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-de-sol-new-york-3d-milky-brown-bone-lente-tostado-edicion-limitada",
+   "iconic": false,
+   "notes": "Microgafa de edicion limitada. Alto 40mm, ancho total 145mm, lente categoria 1 UV400.",
+   "sources": [
+    "https://infinit.la/products/anteojos-de-sol-new-york-3d-milky-brown-bone-lente-tostado-edicion-limitada",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Alabama",
+   "category": "sunglasses",
+   "shape": "oval",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Dorado con patilla negro brillo",
+     "hex": "#d4af37"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris Degradé",
+     "hex": "#6e747a",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "Metal INF",
+   "lens_width_mm": 53,
+   "bridge_mm": 20,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 269900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/products/anteojos-de-sol-alabama-dorado-lente-gris-degrade",
+   "iconic": false,
+   "notes": "Ovalado de metal. Alto 42mm, categoria 3 UV400. Es de los mas caros del catalogo Infinit.",
+   "sources": [
+    "https://infinit.la/products/anteojos-de-sol-alabama-dorado-lente-gris-degrade",
+    "https://infinit.la/collections/anteojos-de-sol"
+   ]
+  },
+  {
+   "brand": "Infinit",
+   "model": "Airplane",
+   "category": "sunglasses",
+   "shape": "aviator",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Gris Mate",
+     "hex": "#6e7276"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Naranja Degradé",
+     "hex": "#d2691e",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Habano",
+     "hex": "#8a5a2b",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Rubio",
+     "hex": "#c2a06a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Sky",
+     "hex": "#7fb3d5",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": null,
+   "lens_width_mm": null,
+   "bridge_mm": null,
+   "temple_mm": null,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 179900,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://infinit.la/collections/airplane-sunglasses",
+   "iconic": false,
+   "notes": "NO VERIFICADO: la pagina de coleccion no publica forma, material del armazon ni medidas; el precio $179.900 corresponde a la variante 24/7 Tinted Lenses listada ahi. La forma aviator se infiere del nombre y no esta declarada por Infinit.",
+   "sources": [
+    "https://infinit.la/collections/airplane-sunglasses"
+   ]
+  }
+ ],
+ "sources": [
+  "https://infinit.la/collections/anteojos-de-sol",
+  "https://infinit.la/collections/monaco-sunglasses",
+  "https://infinit.la/collections/airplane-sunglasses",
+  "https://infinit.la/collections/user-sunglasses",
+  "https://infinit.la/products/anteojos-infinit-exclamation-negro-mate-lente-gris",
+  "https://infinit.la/products/anteojos-infinit-lyon-negro-brillo-lente-gris",
+  "https://infinit.la/products/anteojos-de-sol-bronx-premium-series-negro-mate-lente-gris",
+  "https://infinit.la/products/anteojos-de-sol-tulum-carey-lente-gris-degrade",
+  "https://infinit.la/products/anteojos-de-sol-alaska-dorado-lente-gris",
+  "https://infinit.la/collections/monaco-sunglasses",
+  "https://infinit.la/products/houston-negro-brillo-lente-gris",
+  "https://infinit.la/products/anteojos-de-sol-v8-carey-lente-ambar",
+  "https://infinit.la/products/liora-negro-brillo-lente-marron",
+  "https://infinit.la/products/triple-xxx-metal-negro-brillo-lente-oliva-degrade",
+  "https://infinit.la/products/anteojos-de-sol-marsella-marron-lente-gris",
+  "https://infinit.la/products/anteojos-de-sol-new-york-3d-milky-brown-bone-lente-tostado-edicion-limitada",
+  "https://infinit.la/products/anteojos-de-sol-alabama-dorado-lente-gris-degrade",
+  "https://infinit.la/collections/airplane-sunglasses"
+ ],
+ "not_verified": [
+  "Infinit no publica medidas en las paginas de coleccion (Monaco, Airplane, User); el modelo User figuraba agotado ($199.900 ARS) y sin ficha tecnica.",
+  "Infinit no publica recomendacion de tipo de rostro: el campo face_shapes_recommended se derivo de la forma del armazon, no es dato oficial.",
+  "Infinit declara +400 modelos; se cubrieron los 14 mas visibles de la coleccion principal."
+ ]
+}

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Probador de anteojos</title>
+<link rel="icon" href="favicon.svg">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+  <div id="stage">
+    <video id="cam" playsinline muted autoplay></video>
+    <canvas id="canvas" width="1280" height="720"></canvas>
+
+    <div id="hud"></div>
+
+    <div id="camctl" style="display:none">
+      <select id="camSelect" class="sel" title="Elegir cámara"></select>
+      <select id="resSelect" class="sel" title="Calidad de video"></select>
+      <span id="resInfo"></span>
+    </div>
+    <div id="toast"></div>
+
+    <div id="nowplaying" style="display:none">
+      <button class="np-btn" id="prevBtn" title="Anterior (flecha izquierda)">‹</button>
+      <div class="np-txt">
+        <div class="np-brand" id="npBrand"></div>
+        <div class="np-model" id="npModel"></div>
+        <div class="np-meta" id="npMeta"></div>
+      </div>
+      <button class="np-btn" id="nextBtn" title="Siguiente (flecha derecha)">›</button>
+      <button class="np-btn" id="favBtn" title="Guardar en mi lista (F)">☆</button>
+      <button class="np-btn" id="shotBtn" title="Sacar foto (espacio)">◉</button>
+      <button class="np-btn" id="offBtn" title="Sacarme los anteojos (Esc)">✕</button>
+    </div>
+
+    <div id="gate">
+      <h1>Probador de anteojos</h1>
+      <p>Prendé la cámara y probate los modelos reales del catálogo. Mide tu distancia
+         interpupilar y el ancho de tu cara para decirte qué talle te entra de verdad,
+         no solo cómo te queda.</p>
+      <div class="gate-actions">
+        <button class="btn" id="startCam">Usar la cámara</button>
+        <button class="btn ghost" id="startPhoto">Probar sobre una foto</button>
+      </div>
+      <input type="file" id="photoInput" accept="image/*" hidden>
+      <small>El video no sale de tu compu: se procesa entero en el browser y no se sube a ningún lado.</small>
+    </div>
+  </div>
+
+  <div id="panel">
+    <div class="p-head">
+      <div class="p-title">
+        <h2>Catálogo</h2>
+        <span id="countTxt">—</span>
+      </div>
+      <input id="search" type="search" placeholder="Buscar marca o modelo…" autocomplete="off">
+    </div>
+
+    <div class="filters" id="filters"></div>
+
+    <div id="list"></div>
+
+    <div id="detail"></div>
+
+    <div class="p-foot">
+      <button class="btn ghost" id="modeBtn">◉ 3D real</button>
+      <button class="btn ghost" id="galleryBtn">Mis fotos</button>
+      <button class="btn ghost" id="guideBtn">Guía</button>
+      <button class="btn ghost" id="creditsBtn">Créditos</button>
+      <span id="footNote"></span>
+    </div>
+  </div>
+</div>
+<script type="importmap">
+{
+  "imports": {
+    "three": "./vendor/three/build/three.module.js",
+    "three/addons/": "./vendor/three/jsm/"
+  }
+}
+</script>
+<script type="module" src="src/app.js"></script>
+</body>
+</html>

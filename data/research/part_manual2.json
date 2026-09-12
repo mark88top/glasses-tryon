@@ -1,0 +1,411 @@
+{
+ "models": [
+  {
+   "brand": "Persol",
+   "model": "649 Original (PO0649)",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Havana",
+     "hex": "#6b4423"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Green",
+     "hex": "#3a4a3a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Blue",
+     "hex": "#3b5f8a",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Transparent (fotocromatico)",
+     "hex": "#cdd3d8",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 54,
+   "bridge_mm": 20,
+   "temple_mm": 140,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": 363.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://www.persol.com/usa/0PO0649--24-31",
+   "iconic": true,
+   "notes": "Disenado en 1957 para los tranviarios de Turin; es el modelo del que sale el 714 plegable. Ficha oficial: alto de lente 27mm, hecho a mano en Italia, talle 54-20. USD 363 corresponde a Havana / Green. Hay version fotocromatica. Disponibilidad en Argentina no verificada.",
+   "sources": [
+    "https://www.persol.com/usa/0PO0649--24-31",
+    "https://www.persol.com/usa/0PO0649--24-86"
+   ]
+  },
+  {
+   "brand": "Vulk",
+   "model": "Pretend (MBLK S10 Polarizado)",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Negro mate",
+     "hex": "#2a2a2a"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 52,
+   "bridge_mm": 15,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 132000,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://www.masvision.com.ar/collections/sol-vulk/products/anteojos-de-sol-vulk-pretend-mblk-s10-polarizado",
+   "iconic": false,
+   "notes": "Marca argentina (nacida en 2009). Vulk no tiene e-commerce propio: el precio y la ficha son de Mas Vision (retailer argentino), talle M, ficha declara genero mujer.",
+   "sources": [
+    "https://www.masvision.com.ar/collections/sol-vulk/products/anteojos-de-sol-vulk-pretend-mblk-s10-polarizado",
+    "https://www.masvision.com.ar/collections/sol-vulk"
+   ]
+  },
+  {
+   "brand": "Vulk",
+   "model": "Danv (C4)",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Verde",
+     "hex": "#3f5a43"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris degradé",
+     "hex": "#6e747a",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 53,
+   "bridge_mm": 19,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": 120000,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://www.masvision.com.ar/collections/sol-vulk/products/anteojos-de-sol-vulk-danv-c4",
+   "iconic": false,
+   "notes": "Precio y ficha de Mas Vision (retailer argentino), no del sitio de la marca. Talle M, lente degrade.",
+   "sources": [
+    "https://www.masvision.com.ar/collections/sol-vulk/products/anteojos-de-sol-vulk-danv-c4",
+    "https://www.masvision.com.ar/collections/sol-vulk"
+   ]
+  },
+  {
+   "brand": "Vulk",
+   "model": "Rolling Stones Tattoo You (C6)",
+   "category": "sunglasses",
+   "shape": null,
+   "gender": "unisex",
+   "frame_colors": [],
+   "lens_colors": [],
+   "material": null,
+   "lens_width_mm": null,
+   "bridge_mm": null,
+   "temple_mm": null,
+   "face_shapes_recommended": [],
+   "price_usd": null,
+   "price_ars": 145000,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://www.masvision.com.ar/collections/sol-vulk/products/anteojos-de-sol-vulk-tattoo-you-c6",
+   "iconic": false,
+   "notes": "NO VERIFICADO: solo se confirmo nombre y precio ARS en el listado de Mas Vision; forma, material, colores y medidas quedaron sin verificar. Es la capsula de Vulk con los Rolling Stones.",
+   "sources": [
+    "https://www.masvision.com.ar/collections/sol-vulk"
+   ]
+  },
+  {
+   "brand": "Vulk",
+   "model": "Wars Fly (Brown/DRT-02 Polarizado)",
+   "category": "sunglasses",
+   "shape": null,
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Brown",
+     "hex": "#6b4423"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Polarizado",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": null,
+   "lens_width_mm": null,
+   "bridge_mm": null,
+   "temple_mm": null,
+   "face_shapes_recommended": [],
+   "price_usd": null,
+   "price_ars": 132000,
+   "price_date": "2026-09-11",
+   "available_in_argentina": true,
+   "buy_url": "https://www.masvision.com.ar/collections/sol-vulk/products/anteojos-de-sol-vulk-wars-fly-brown-drt-02-polarizado",
+   "iconic": false,
+   "notes": "NO VERIFICADO: nombre, color y precio ARS salen del listado de Mas Vision; forma, material y medidas sin verificar.",
+   "sources": [
+    "https://www.masvision.com.ar/collections/sol-vulk"
+   ]
+  },
+  {
+   "brand": "Le Specs",
+   "model": "Obsession",
+   "category": "sunglasses",
+   "shape": "shield",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Dark Tort",
+     "hex": "#4a3226"
+    },
+    {
+     "name": "Wasabi",
+     "hex": "#7f8b4a"
+    },
+    {
+     "name": "Vintage Tort",
+     "hex": "#8b6f47"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Light Brown Mono",
+     "hex": "#6b5137",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "inyectado",
+   "lens_width_mm": 134,
+   "bridge_mm": 0,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": 75.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://www.lespecs.com/products/obsession-dark-tort",
+   "iconic": false,
+   "notes": "Shield de una sola pieza: por eso lens_width 134mm y bridge 0mm (son las medidas oficiales del sitio). Armazon Ecozen T110 con 10% de biomasa vegetal. Ancho total 148mm, alto 60mm. No se vende en Argentina por canal oficial.",
+   "sources": [
+    "https://www.lespecs.com/products/obsession-dark-tort",
+    "https://www.lespecs.com/collections/sunglasses"
+   ]
+  },
+  {
+   "brand": "Le Specs",
+   "model": "Dream Boat",
+   "category": "sunglasses",
+   "shape": "aviator",
+   "gender": "female",
+   "frame_colors": [
+    {
+     "name": "Tort",
+     "hex": "#6b4423"
+    },
+    {
+     "name": "Tort Moss",
+     "hex": "#5c5a35"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Brown Mono",
+     "hex": "#5c3a21",
+     "mirrored": false,
+     "polarized": false
+    },
+    {
+     "name": "Moss Mono",
+     "hex": "#4a5230",
+     "mirrored": false,
+     "polarized": false
+    }
+   ],
+   "material": "inyectado",
+   "lens_width_mm": 57,
+   "bridge_mm": 15,
+   "temple_mm": 142,
+   "face_shapes_recommended": [
+    "square",
+    "oblong",
+    "heart"
+   ],
+   "price_usd": 85.0,
+   "price_ars": null,
+   "price_date": "2026-09-11",
+   "available_in_argentina": "import",
+   "buy_url": "https://www.lespecs.com/products/dream-boat-tort-brown-mono",
+   "iconic": false,
+   "notes": "Aviador oversize con herraje metalico horizontal del frente a las varillas. Lente policarbonato categoria UV2. Armazon Ecozen T110. Ancho total 146,5mm, alto 57,6mm.",
+   "sources": [
+    "https://www.lespecs.com/products/dream-boat-tort-brown-mono",
+    "https://www.lespecs.com/collections/sunglasses"
+   ]
+  },
+  {
+   "brand": "Hawkers",
+   "model": "One (Polarized Carey Dark)",
+   "category": "sunglasses",
+   "shape": "wayfarer",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Carey",
+     "hex": "#6b4423"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Negro polarizado",
+     "hex": "#2b2b2b",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": "TR90",
+   "lens_width_mm": 54,
+   "bridge_mm": 17,
+   "temple_mm": 140,
+   "face_shapes_recommended": [
+    "round",
+    "oval",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": "import",
+   "buy_url": "https://www.hawkersco.com/gafas-de-sol/one---polarized-carey-dark-HONE22CBTP.html",
+   "iconic": false,
+   "notes": "El modelo insignia de Hawkers. Precio oficial EUR 39,99 (sep-2026): el sitio publica euros, no USD, por eso price_usd queda null. Lente bio TAC polarizada, categoria 3, 100% UV. Alto de montura 50mm, frente 141mm. Forma wayfarer inferida del producto: el sitio no declara la forma.",
+   "sources": [
+    "https://www.hawkersco.com/gafas-de-sol/one---polarized-carey-dark-HONE22CBTP.html",
+    "https://www.hawkersco.com/collections/sunglasses"
+   ]
+  },
+  {
+   "brand": "Hawkers",
+   "model": "One Uptown (Polarized Black)",
+   "category": "sunglasses",
+   "shape": "square",
+   "gender": "unisex",
+   "frame_colors": [
+    {
+     "name": "Negro",
+     "hex": "#1a1a1a"
+    },
+    {
+     "name": "Honey",
+     "hex": "#b8763a"
+    },
+    {
+     "name": "Green Dark",
+     "hex": "#2f3f33"
+    },
+    {
+     "name": "Brown Olive",
+     "hex": "#5a5230"
+    }
+   ],
+   "lens_colors": [
+    {
+     "name": "Gris polarizado",
+     "hex": "#55585c",
+     "mirrored": false,
+     "polarized": true
+    }
+   ],
+   "material": "acetato",
+   "lens_width_mm": 49,
+   "bridge_mm": 24,
+   "temple_mm": 145,
+   "face_shapes_recommended": [
+    "oval",
+    "round",
+    "heart"
+   ],
+   "price_usd": null,
+   "price_ars": null,
+   "price_date": null,
+   "available_in_argentina": "import",
+   "buy_url": "https://www.hawkersco.com/gafas-de-sol/one-uptown---polarized-black-HOUP21BBXP.html",
+   "iconic": false,
+   "notes": "Version chunky del One, en acetato eco. Precio oficial EUR 64,99 (sep-2026), el sitio no publica USD. Alto de montura 48mm, frente 144mm. Forma square inferida: el sitio solo dice chunky.",
+   "sources": [
+    "https://www.hawkersco.com/gafas-de-sol/one-uptown---polarized-black-HOUP21BBXP.html",
+    "https://www.hawkersco.com/collections/sunglasses"
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.hawkersco.com/collections/sunglasses",
+  "https://www.hawkersco.com/gafas-de-sol/one---polarized-carey-dark-HONE22CBTP.html",
+  "https://www.hawkersco.com/gafas-de-sol/one-uptown---polarized-black-HOUP21BBXP.html",
+  "https://www.lespecs.com/collections/sunglasses",
+  "https://www.lespecs.com/products/dream-boat-tort-brown-mono",
+  "https://www.lespecs.com/products/obsession-dark-tort",
+  "https://www.masvision.com.ar/collections/sol-vulk",
+  "https://www.masvision.com.ar/collections/sol-vulk/products/anteojos-de-sol-vulk-danv-c4",
+  "https://www.masvision.com.ar/collections/sol-vulk/products/anteojos-de-sol-vulk-pretend-mblk-s10-polarizado",
+  "https://www.persol.com/usa/0PO0649--24-31",
+  "https://www.persol.com/usa/0PO0649--24-86"
+ ],
+ "not_verified": [
+  "Vulk no tiene tienda online propia (vulk.com.ar rechaza la conexion): todos los datos de Vulk vienen de Mas Vision, retailer argentino.",
+  "Hawkers publica precios en euros; no hay precio USD ni ARS oficial.",
+  "Le Specs y Hawkers no tienen canal oficial en Argentina."
+ ]
+}

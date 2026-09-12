@@ -1,0 +1,1405 @@
+{
+  "models": [
+    {
+      "brand": "Prada",
+      "model": "Prada Symbole PR 17WS (SPR 17W)",
+      "category": "sunglasses",
+      "shape": "geometric",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black (1AB5S0)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Tortoise (2AU8C1)",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Talc (1425S0)",
+          "hex": "#ece5da"
+        },
+        {
+          "name": "Honey Tortoise (VAU2Z1)",
+          "hex": "#8b6f47"
+        },
+        {
+          "name": "Transparent Sage (11R10E)",
+          "hex": "#b7c4ad"
+        },
+        {
+          "name": "Transparent Grey (12R30B)",
+          "hex": "#9ea3a8"
+        },
+        {
+          "name": "Transparent Peach (19Q10D)",
+          "hex": "#e8c3a8"
+        },
+        {
+          "name": "Frosted Tortoise (21H80Q)",
+          "hex": "#a98a63"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Dark Grey",
+          "hex": "#4a4a4a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown",
+          "hex": "#4b3323",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Dark Brown",
+          "hex": "#3d2a1c",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Green Mirror Internal Silver",
+          "hex": "#2f4a3a",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Violet",
+          "hex": "#6b5a9e",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Light Grey",
+          "hex": "#8a8a8f",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 49,
+      "bridge_mm": 20,
+      "temple_mm": 145,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 548,
+      "price_ars": 906200,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/1002648-1002650/prada-pr-17ws",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price shown on EZContacts ($548; retailer sale $381.22). ARS price and in-stock status verified on Optica Galex (Argentina), 2026-09-11, color 1AB5S0. Lens material polyamide; lens height 36mm. EZContacts classifies the shape as 'Rectangle'; Prada and the Argentine retailer describe it as oversized geometric acetate. Official brand page (prada.com) and Sunglass Hut return HTTP 403 to automated fetches. face_shapes_recommended is an optician heuristic derived from the frame geometry, not a brand claim.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/1002648-1002650/prada-pr-17ws",
+        "https://galex.com.ar/producto/prada-17ws/",
+        "https://www.ezcontacts.com/product/sunglasses/1002648-1517293/prada-pr-17ws"
+      ]
+    },
+    {
+      "brand": "Prada",
+      "model": "Prada PR 16WS",
+      "category": "sunglasses",
+      "shape": "oversized",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black (1AB5S0)",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Dark Grey",
+          "hex": "#4a4a4a",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 53,
+      "bridge_mm": 20,
+      "temple_mm": 145,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 548,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/1002635-1619461/prada-pr-16ws",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($548; retailer sale $381.22). Lens material polyamide, lens height 47mm, full rim. EZContacts lists shape as 'Irregular' (not in the allowed enum) - mapped to 'oversized'. Only the black colorway was listed at the verified source; other colorways exist but were NOT verified. Argentine availability for this specific reference was not found on an .com.ar retailer page, so marked 'import'.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/1002635-1619461/prada-pr-16ws"
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "model": "Gucci GG0061S",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Gold (001)",
+          "hex": "#d4af37"
+        },
+        {
+          "name": "Havana (013)",
+          "hex": "#6b4423"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#5a5a5a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown Gradient",
+          "hex": "#7a5a3f",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Metal",
+      "lens_width_mm": 56,
+      "bridge_mm": 22,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "square",
+        "heart",
+        "oblong",
+        "diamond"
+      ],
+      "price_usd": 560,
+      "price_date": "2026-09-11",
+      "price_ars": null,
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/457632-457633/gucci-gg0061s",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($560; retailer sale $408). Lens material CR-39, lens height 54mm - oversized round. The Havana (013) colorway with brown gradient lens was seen on retailer listings (Jomashop/FramesDirect) but NOT on a page fetched directly; treat that colorway as lower confidence. gucci.com and FramesDirect return HTTP 403 to automated fetches.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/457632-457633/gucci-gg0061s",
+        "https://www.ezcontacts.com/product/sunglasses/457632-457636/gucci-gg0061s"
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "model": "Gucci GG1022S",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black (006)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Black (005)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Havana/Ivory (003)",
+          "hex": "#6b4423"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#5a5a5a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown",
+          "hex": "#4b3323",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Injection molded (acetate-look) front",
+      "lens_width_mm": 54,
+      "bridge_mm": 23,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 545,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/1041567-1485825/gucci-gg1022s",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($545; retailer sale $396.80). Lens material nylon, non-polarized. EZContacts describes the frame material only as 'injection molded' - the exact resin is NOT verified.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/1041567-1485825/gucci-gg1022s"
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "model": "Gucci GG0036SN (GG0036S, Web stripe / GG temple)",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black (001)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Havana/Blue (004)",
+          "hex": "#6b4423"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#5a5a5a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown",
+          "hex": "#4b3323",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate front with Optyl temples",
+      "lens_width_mm": 54,
+      "bridge_mm": 22,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 460,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/1490523-1490526/gucci-gg0036sn",
+      "iconic": true,
+      "notes": "GG0036SN is the current production reference of the classic GG0036S rectangle with the GG/Web stripe temples. price_usd = MSRP/list price on EZContacts ($460; retailer sale $285.60). Lens material nylon, non-polarized. The 'Acetate front + Optyl temples' material description came from a search snippet of a retailer page that was NOT fetched directly - lower confidence.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/1490523-1490526/gucci-gg0036sn",
+        "https://www.ezcontacts.com/product/sunglasses/454883/gucci-gg0036s"
+      ]
+    },
+    {
+      "brand": "Tom Ford",
+      "model": "Tom Ford Snowdon FT0237 (TF237)",
+      "category": "sunglasses",
+      "shape": "square",
+      "gender": "male",
+      "frame_colors": [
+        {
+          "name": "Black (05B)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Shiny Black (01D)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Dark Havana (52N)",
+          "hex": "#4a2f1a"
+        },
+        {
+          "name": "Shiny Light Brown (45V)",
+          "hex": "#8b6f47"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Gradient Smoke",
+          "hex": "#6d6d72",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Green",
+          "hex": "#2f4a3a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Blue",
+          "hex": "#2e4d7b",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Smoke Polarized",
+          "hex": "#4e4e52",
+          "mirrored": false,
+          "polarized": true
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 52,
+      "bridge_mm": 20,
+      "temple_mm": 145,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "oblong",
+        "heart"
+      ],
+      "price_usd": 490,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.eyeons.com/tom-ford-ft0237-snowdon",
+      "iconic": true,
+      "notes": "PRICE CONFLICT: authorized dealer EyeOns shows $490.00; DesignerOptics shows a list price of $370.00 (sale $281.91) and flags the reference as discontinued/sold out. $490 taken as the current figure, $370 noted as the conflicting value. Made in Italy; the 'James Bond' Snowdon. EyeOns classifies shape as 'Geometric', DesignerOptics as 'Square'. Argentine availability marked 'import': the FT0237 appeared in Argentine optician search listings (SmartBuyGlasses AR / ShadeStation AR) but no .com.ar product page was fetched and the ARS figure seen in search (~AR$36k) was implausible, so it was rejected.",
+      "sources": [
+        "https://www.eyeons.com/tom-ford-ft0237-snowdon",
+        "https://designeroptics.com/products/tom-ford-0237-sunglasses"
+      ]
+    },
+    {
+      "brand": "Tom Ford",
+      "model": "Tom Ford Whitney FT0009 (TF9)",
+      "category": "sunglasses",
+      "shape": "oversized",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Shiny Black (01D)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Black (199)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Dark Brown (692)",
+          "hex": "#4a2f1a"
+        },
+        {
+          "name": "Shiny Transparent Rose (74F)",
+          "hex": "#e6c3c0"
+        },
+        {
+          "name": "Shiny Dark Grey (0B5)",
+          "hex": "#4a4a4a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Polarized Grey",
+          "hex": "#4a4a4a",
+          "mirrored": false,
+          "polarized": true
+        },
+        {
+          "name": "Gradient Brown",
+          "hex": "#7a5a3f",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Gradient Smoke",
+          "hex": "#6d6d72",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": null,
+      "lens_width_mm": 64,
+      "bridge_mm": 14,
+      "temple_mm": 110,
+      "face_shapes_recommended": [
+        "oval",
+        "square",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 440,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.eurooptica.com/products/tom-ford-ft0009-whitney-sunglasses",
+      "iconic": true,
+      "notes": "Discontinued / sold out at every authorized dealer checked. price_usd = lowest price observed on EuroOptica ($440 for the 199 Black); the page shows $440-$605 depending on colorway and lens (polarized 01D at $605). Frame material NOT stated on any fetched page - left null (the Whitney is commonly an acetate/plastic front, unverified). EZContacts product page renders as 'Not Available' with no specs.",
+      "sources": [
+        "https://www.eurooptica.com/products/tom-ford-ft0009-whitney-sunglasses",
+        "https://www.ezcontacts.com/product/sunglasses/219328-219329/tom-ford-ft0009-whitney"
+      ]
+    },
+    {
+      "brand": "Tom Ford",
+      "model": "Tom Ford Marko FT0144 (TF144)",
+      "category": "sunglasses",
+      "shape": "aviator",
+      "gender": "male",
+      "frame_colors": [
+        {
+          "name": "Shiny Rose Gold (28D)",
+          "hex": "#e8b4a0"
+        },
+        {
+          "name": "Shiny Rhodium (18V)",
+          "hex": "#b8b8bd"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c0c0c0"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Polarized Grey",
+          "hex": "#4a4a4a",
+          "mirrored": false,
+          "polarized": true
+        },
+        {
+          "name": "Blue",
+          "hex": "#2e4d7b",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Metal",
+      "lens_width_mm": 58,
+      "bridge_mm": 13,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "square",
+        "oval",
+        "heart",
+        "oblong"
+      ],
+      "price_usd": null,
+      "price_ars": null,
+      "price_date": null,
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/219355-229618/tom-ford-marko-ft0144",
+      "iconic": true,
+      "notes": "PRICE NOT VERIFIED - left null. Every page carrying a Marko price blocked automated fetching: go-optic.com served a CAPTCHA, coolframes.com HTTP 403, tomfordfashion.com HTTP 404 on the product URL, designeroptics.com and eurooptica.com HTTP 404 on their Marko slugs, ezcontactsusa.com had an invalid TLS certificate. EZContacts's own page renders as 'Not Available'. Dimensions 58-13-140 and colorway codes 28D / 18V were confirmed from the EZContacts product title and multiple retailer titles. Discontinued reference; the 'Quantum of Solace' aviator.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/219355-229618/tom-ford-marko-ft0144",
+        "https://www.amazon.com/Tom-Ford-Silver-Sunglasses-Category/dp/B00372ERM0"
+      ]
+    },
+    {
+      "brand": "Saint Laurent",
+      "model": "Saint Laurent SL 276 MICA",
+      "category": "sunglasses",
+      "shape": "cat_eye",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black (001)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Black (025)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Havana (002)",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Havana (044)",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Havana (037)",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Pink (058)",
+          "hex": "#e8b4b8"
+        },
+        {
+          "name": "Ivory (004)",
+          "hex": "#efe7d7"
+        },
+        {
+          "name": "Red (003)",
+          "hex": "#a41f23"
+        },
+        {
+          "name": "Brown (019)",
+          "hex": "#5a4030"
+        },
+        {
+          "name": "Green (010)",
+          "hex": "#3c5148"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#5a5a5a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown",
+          "hex": "#4b3323",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Brown Gradient",
+          "hex": "#7a5a3f",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Silver Mirrored",
+          "hex": "#c8ccd0",
+          "mirrored": true,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 53,
+      "bridge_mm": 16,
+      "temple_mm": 145,
+      "face_shapes_recommended": [
+        "round",
+        "square",
+        "oval",
+        "heart"
+      ],
+      "price_usd": 495,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/603284-603285/saint-laurent-sl-276-mica",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($495; retailer sale $360). Also produced in a 55mm calibre. Non-polarized. EyeOns lists additional colorways (photochromic 025, mirrored green 010, violet-gradient 036) at higher prices, up to $967.50 for specialty lenses. EyeOns classifies gender as Women.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/603284-603285/saint-laurent-sl-276-mica",
+        "https://www.eyeons.com/saint-laurent-sl-276-mica"
+      ]
+    },
+    {
+      "brand": "Saint Laurent",
+      "model": "Saint Laurent SL 28",
+      "category": "sunglasses",
+      "shape": "wayfarer",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black (002)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Black (044)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Crystal (012)",
+          "hex": "#dfe3e6"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke",
+          "hex": "#4e4e52",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Transparent",
+          "hex": "#d8dcdf",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Silver",
+          "hex": "#c8ccd0",
+          "mirrored": true,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 49,
+      "bridge_mm": 23,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 550,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/451925-1488897/saint-laurent-sl-28",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($550; retailer sale $400). Lens material NXT. EZContacts classifies gender as Men's and shape as 'Rectangle/Square'; the SL 28 is marketed by Saint Laurent as a unisex wayfarer-derived shape - 'unisex' and 'wayfarer' are my mapping, not a verbatim source label. Frame material 'Acetate' comes from the SL 28 family description, not from the fetched EZContacts spec table (which left it blank). SL 28 also exists in METAL (61-17-145) and SLIM sub-references - different products.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/451925-1488897/saint-laurent-sl-28",
+        "https://ezcontacts.com/product/sunglasses/451931/saint-laurent-sl-28"
+      ]
+    },
+    {
+      "brand": "Saint Laurent",
+      "model": "Saint Laurent SL 1",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black (015)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Black (002)",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke",
+          "hex": "#4e4e52",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 59,
+      "bridge_mm": 13,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 520,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/458794-458795/saint-laurent-sl-1",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($520; retailer sale $296.13). Lens material nylon, non-polarized. EZContacts classifies gender as Men's; the SL 1 is sold by Saint Laurent as unisex - 'unisex' is my mapping.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/458794-458795/saint-laurent-sl-1"
+      ]
+    },
+    {
+      "brand": "Miu Miu",
+      "model": "Miu Miu Glimpse MU 09WS",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "White (1425S0)",
+          "hex": "#f5f5f2"
+        },
+        {
+          "name": "Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Honey Havana",
+          "hex": "#8b6f47"
+        },
+        {
+          "name": "Havana Mogano",
+          "hex": "#5a3520"
+        },
+        {
+          "name": "Green",
+          "hex": "#3c5148"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Dark Grey",
+          "hex": "#4a4a4a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Dark Brown",
+          "hex": "#3d2a1c",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Light Purple Brown",
+          "hex": "#7b5f62",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Green",
+          "hex": "#2f4a3a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Grey",
+          "hex": "#5a5a5a",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 53,
+      "bridge_mm": 22,
+      "temple_mm": 135,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 518,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/1498688-1498689/miu-miu-mu-09ws",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($518; retailer sale $356.12). Lens material polyamide, non-polarized. 'Glimpse' is the Miu Miu collection name attached to MU 09WS in retailer catalogues (Visiofactory); it was NOT confirmed on an official Miu Miu page. The green colorway comes from a second EZContacts variant URL.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/1498688-1498689/miu-miu-mu-09ws",
+        "https://www.ezcontacts.com/product/sunglasses/1498688-1498692/miu-miu-mu-09ws"
+      ]
+    },
+    {
+      "brand": "Miu Miu",
+      "model": "Miu Miu MU 53YS",
+      "category": "sunglasses",
+      "shape": "geometric",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Pale Gold (ZVN5D1)",
+          "hex": "#e2ce93"
+        },
+        {
+          "name": "Pale Gold (ZVN03O)",
+          "hex": "#e2ce93"
+        },
+        {
+          "name": "Pink Gold (ZVF1V1)",
+          "hex": "#e8b4a0"
+        },
+        {
+          "name": "Gold Brass (7OE01T)",
+          "hex": "#d4af37"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey Gradient",
+          "hex": "#6d6d72",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Clear Gradient Light Blue",
+          "hex": "#a7c7e0",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Dark Brown",
+          "hex": "#3d2a1c",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Dark Blue",
+          "hex": "#2b4a8b",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Metal (semi-rimless)",
+      "lens_width_mm": 58,
+      "bridge_mm": 20,
+      "temple_mm": 125,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 648,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.eyeons.com/products/miu-miu-mu-53ys",
+      "iconic": true,
+      "notes": "price_usd = price shown on authorized dealer EyeOns for the primary colorway ($648); the same page shows $361.90 for other variants, so treat $648 as colorway-specific rather than a single MSRP. Lenses CR-39 on the ZVN5D1. EyeOns classifies the shape as 'Wayfarer', Otticanet as 'Geometric' - mapped to 'geometric'. The brief called this the 'Glimpse' reference; that is wrong - MU 53YS is the semi-rimless metal logo model, and 'Glimpse' belongs to MU 09WS / MU 01YS / MU 07YS / MU 10YS.",
+      "sources": [
+        "https://www.eyeons.com/products/miu-miu-mu-53ys",
+        "https://www.otticasm.com/en/sunglasses-miu-miu-mu-53ys-zvn5d1.html"
+      ]
+    },
+    {
+      "brand": "Versace",
+      "model": "Versace Medusa Biggie VE4361",
+      "category": "sunglasses",
+      "shape": "square",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Black (GB1/87)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Black (536087)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "White (401/87)",
+          "hex": "#f5f5f2"
+        },
+        {
+          "name": "Havana (521773)",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Red (533087)",
+          "hex": "#a41f23"
+        },
+        {
+          "name": "Transparent Grey (311/6G)",
+          "hex": "#9ea3a8"
+        },
+        {
+          "name": "Crystal (148/80)",
+          "hex": "#dfe3e6"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Dark Grey",
+          "hex": "#4a4a4a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Dark Brown",
+          "hex": "#3d2a1c",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Light Grey Mirror Silver",
+          "hex": "#c8ccd0",
+          "mirrored": true,
+          "polarized": false
+        },
+        {
+          "name": "Dark Blue",
+          "hex": "#2b4a8b",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Yellow",
+          "hex": "#e3c04a",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 53,
+      "bridge_mm": 18,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 384,
+      "price_ars": 753060,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/582466-582470/versace-ve4361",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($384; retailer sale $256). ARS price verified on Mas Vision (masvision.com.ar), colorway GB1/87 black with grey lens, 2026-09-11. Lens material polyamide, lens height 36mm, non-polarized. EZContacts classifies shape as 'Irregular' (not in the enum) - mapped to 'square'. versace.com returns HTTP 403 to automated fetches.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/582466-582470/versace-ve4361",
+        "https://www.masvision.com.ar/products/anteojos-de-sol-versace-solar-ve4361-gb1-87-53"
+      ]
+    },
+    {
+      "brand": "Versace",
+      "model": "Versace VE2150Q (Medusa aviator)",
+      "category": "sunglasses",
+      "shape": "aviator",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Gold (134187)",
+          "hex": "#d4af37"
+        },
+        {
+          "name": "Pale Gold (12526G)",
+          "hex": "#e2ce93"
+        },
+        {
+          "name": "Gold/Black (100287)",
+          "hex": "#d4af37"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Gray",
+          "hex": "#5a5a5a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Grey Mirror",
+          "hex": "#c8ccd0",
+          "mirrored": true,
+          "polarized": false
+        }
+      ],
+      "material": "Metal and plastic",
+      "lens_width_mm": 62,
+      "bridge_mm": 14,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "square",
+        "oval",
+        "heart",
+        "oblong"
+      ],
+      "price_usd": 223.74,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.eyeons.com/products/versace-ve2150q",
+      "iconic": true,
+      "notes": "price_usd = $223.74 as listed by authorized dealer EyeOns, but the item is OUT OF STOCK / discontinued there, so this is a clearance-style retailer price, NOT a Versace MSRP. No current MSRP could be verified: the EZContacts product page renders as 'Not Available' with no specs and versace.com returns HTTP 403. The 12526G Pale Gold with grey-mirror lens and 100287 Gold/Black colorways came from retailer titles, not from a fetched spec table.",
+      "sources": [
+        "https://www.eyeons.com/products/versace-ve2150q",
+        "https://www.ezcontacts.com/product/sunglasses/220912/versace-ve2150q"
+      ]
+    },
+    {
+      "brand": "Dior",
+      "model": "DiorSignature S1U (CD40049U)",
+      "category": "sunglasses",
+      "shape": "square",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black (10A0)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Shiny Dark Havana (20B0)",
+          "hex": "#4a2f1a"
+        },
+        {
+          "name": "Shiny Classic Havana (26A1)",
+          "hex": "#6b4423"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke",
+          "hex": "#4e4e52",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 55,
+      "bridge_mm": 22,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 561,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.eurooptica.com/products/dior-diorsignature-s1u-sunglasses",
+      "iconic": true,
+      "notes": "price_usd = lowest price shown on authorized dealer EuroOptica; the page quotes a $561-$592 range depending on colorway, all variants sold out. Mytheresa lists the same reference at $580 (page could not be fetched directly - Cloudflare/JS shell). Lens category 3, 100% UVA/UVB. dior.com returns HTTP 403 to automated fetches. Material 'acetate' from the Mytheresa/retailer description of the black colorway; EuroOptica's spec table did not state it.",
+      "sources": [
+        "https://www.eurooptica.com/products/dior-diorsignature-s1u-sunglasses",
+        "https://www.jomashop.com/dior-grey-square-ladies-sunglasses-diorsignature-s1u-10a0-55.html"
+      ]
+    },
+    {
+      "brand": "Dior",
+      "model": "Dior 30Montaigne SU (CD40030U)",
+      "category": "sunglasses",
+      "shape": "oversized",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Shiny Black (12A1)",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke Gradient",
+          "hex": "#5f5f66",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Metal and acetate",
+      "lens_width_mm": 58,
+      "bridge_mm": 15,
+      "temple_mm": 130,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 580,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.eurooptica.com/products/dior-30montaigne-su-sunglasses",
+      "iconic": true,
+      "notes": "Dimensions 58-15-130 and the colorway list verified on EuroOptica, which shows 13 colour codes (12A1, 32B2, 95B2, 12P0, 30B0, 60D0, 26L0, 40AL, 22F2, 20A5, 96H5, 55F1, 14A0) WITHOUT colour names - only 12A1 could be resolved to a name ('Shiny Black / Smoke Gradient'), so the other 12 colorways are deliberately omitted. price_usd $580 is the Dior retail figure reported in search results; EuroOptica's own range is $561-$702 by colorway. dior.com and visiofactory.com could not be fetched (403 / HTTP 500).",
+      "sources": [
+        "https://www.eurooptica.com/products/dior-30montaigne-su-sunglasses",
+        "https://www.dior.com/en_us/fashion/products/30MTSUR_12A1-30montaigne-su-oversized-black-square-sunglasses"
+      ]
+    },
+    {
+      "brand": "Dior",
+      "model": "DiorPacific S1U (CD40098U)",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        {
+          "name": "Shiny Black (10A0)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "White (95B0)",
+          "hex": "#f5f5f2"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Smoke",
+          "hex": "#4e4e52",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 53,
+      "bridge_mm": 17,
+      "temple_mm": 140,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart"
+      ],
+      "price_usd": 523.6,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/1595194-1600921/diorpacific-s1u-cd40098u",
+      "iconic": true,
+      "notes": "price_usd = list price on EZContacts ($523.60; retailer sale $404.60). Full rim, non-polarized, unisex, shape labelled 'Geometric' by EZContacts - mapped to 'rectangle'. The White (95B0) colorway comes from the dior.com product URL/title seen in search results, not from a fetched page. Sunglass Hut also lists an XS 53-17 calibre in black with grey lenses. There is no 'DiorPacific B1U' as stated in the brief; the acetate sun reference is S1U (B1U is a different Dior line).",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/1595194-1600921/diorpacific-s1u-cd40098u",
+        "https://www.eurooptica.com/products/dior-diorpacific-s1u-sunglasses"
+      ]
+    },
+    {
+      "brand": "Balenciaga",
+      "model": "Balenciaga BB0095S",
+      "category": "sunglasses",
+      "shape": "cat_eye",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black/Gold (001)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Havana/Gold (010)",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "White/Gold (012)",
+          "hex": "#f5f5f2"
+        },
+        {
+          "name": "Green/Gold (005)",
+          "hex": "#3c5148"
+        },
+        {
+          "name": "Pink/Gold (006)",
+          "hex": "#e8b4b8"
+        },
+        {
+          "name": "Pink/Silver (013)",
+          "hex": "#e8b4b8"
+        },
+        {
+          "name": "Yellow/Silver (007)",
+          "hex": "#e3c04a"
+        },
+        {
+          "name": "Green/Silver (009)",
+          "hex": "#3c5148"
+        },
+        {
+          "name": "Fuchsia/Silver (017)",
+          "hex": "#c2478f"
+        },
+        {
+          "name": "Brown (023)",
+          "hex": "#5a4030"
+        },
+        {
+          "name": "Blue/Silver (026)",
+          "hex": "#2b4a8b"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#5a5a5a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Blue",
+          "hex": "#2e4d7b",
+          "mirrored": false,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 53,
+      "bridge_mm": 19,
+      "temple_mm": 135,
+      "face_shapes_recommended": [
+        "round",
+        "square",
+        "oval",
+        "heart"
+      ],
+      "price_usd": 560,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/977206-991032/balenciaga-bb0095s",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($560; retailer sale $239.25). Lens material CR-39, lens height 37mm, non-polarized. EZContacts's spec table gives 'Full Rim' rather than a shape; the cat-eye classification comes from retailer titles (Amazon: 'Cat Eye Ladies Sunglasses BB0095S'). balenciaga.com was not reachable for automated fetching.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/977206-991032/balenciaga-bb0095s"
+      ]
+    },
+    {
+      "brand": "Balenciaga",
+      "model": "Balenciaga Dynasty BB0096S",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "female",
+      "frame_colors": [
+        {
+          "name": "Black/Gold (001)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Black/Silver (017)",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Havana/Gold (002)",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Havana/Gold (005)",
+          "hex": "#6b4423"
+        },
+        {
+          "name": "Red/Gold (003)",
+          "hex": "#a41f23"
+        },
+        {
+          "name": "Red/Silver (015)",
+          "hex": "#a41f23"
+        },
+        {
+          "name": "Green/Gold (006)",
+          "hex": "#3c5148"
+        },
+        {
+          "name": "Pink/Silver (012)",
+          "hex": "#e8b4b8"
+        },
+        {
+          "name": "Violet/Gold (004)",
+          "hex": "#7a5ba6"
+        },
+        {
+          "name": "White/Gold (011)",
+          "hex": "#f5f5f2"
+        },
+        {
+          "name": "White/Silver (020)",
+          "hex": "#f5f5f2"
+        },
+        {
+          "name": "Yellow/Silver (008)",
+          "hex": "#e3c04a"
+        },
+        {
+          "name": "Brown/Gunmetal (019)",
+          "hex": "#5a4030"
+        },
+        {
+          "name": "Blue (025)",
+          "hex": "#2b4a8b"
+        }
+      ],
+      "lens_colors": [
+        {
+          "name": "Grey",
+          "hex": "#5a5a5a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Red",
+          "hex": "#8f3236",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Green",
+          "hex": "#2f4a3a",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Blue",
+          "hex": "#2e4d7b",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Bronze",
+          "hex": "#8a6a3f",
+          "mirrored": false,
+          "polarized": false
+        },
+        {
+          "name": "Silver",
+          "hex": "#c8ccd0",
+          "mirrored": true,
+          "polarized": false
+        }
+      ],
+      "material": "Acetate",
+      "lens_width_mm": 51,
+      "bridge_mm": 18,
+      "temple_mm": 130,
+      "face_shapes_recommended": [
+        "oval",
+        "round",
+        "heart",
+        "diamond"
+      ],
+      "price_usd": 560,
+      "price_ars": null,
+      "price_date": "2026-09-11",
+      "available_in_argentina": "import",
+      "buy_url": "https://www.ezcontacts.com/product/sunglasses/977209-991034/balenciaga-bb0096s",
+      "iconic": true,
+      "notes": "price_usd = MSRP/list price on EZContacts ($560; retailer sale $236.25). Lens material nylon, lens height 30mm, non-polarized. 'Dynasty' is the Balenciaga collection name for BB0096S, confirmed on Visio-Net and Amazon listings but NOT on an official Balenciaga page. The 'Silver' lens on the 020 colorway is assumed mirrored from the colour name - not explicitly stated as mirrored by the source.",
+      "sources": [
+        "https://www.ezcontacts.com/product/sunglasses/977209-991034/balenciaga-bb0096s",
+        "https://www.ezcontacts.com/product/sunglasses/977209-1488348/balenciaga-bb0096s"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.ezcontacts.com/product/sunglasses/1002648-1002650/prada-pr-17ws",
+    "https://www.ezcontacts.com/product/sunglasses/1002648-1517293/prada-pr-17ws",
+    "https://www.ezcontacts.com/product/sunglasses/1002635-1619461/prada-pr-16ws",
+    "https://galex.com.ar/producto/prada-17ws/",
+    "https://www.ezcontacts.com/product/sunglasses/457632-457633/gucci-gg0061s",
+    "https://www.ezcontacts.com/product/sunglasses/457632-457636/gucci-gg0061s",
+    "https://www.ezcontacts.com/product/sunglasses/1041567-1485825/gucci-gg1022s",
+    "https://www.ezcontacts.com/product/sunglasses/1490523-1490526/gucci-gg0036sn",
+    "https://www.ezcontacts.com/product/sunglasses/454883/gucci-gg0036s",
+    "https://www.eyeons.com/tom-ford-ft0237-snowdon",
+    "https://designeroptics.com/products/tom-ford-0237-sunglasses",
+    "https://www.eurooptica.com/products/tom-ford-ft0009-whitney-sunglasses",
+    "https://www.ezcontacts.com/product/sunglasses/219328-219329/tom-ford-ft0009-whitney",
+    "https://www.ezcontacts.com/product/sunglasses/219355-229618/tom-ford-marko-ft0144",
+    "https://www.amazon.com/Tom-Ford-Silver-Sunglasses-Category/dp/B00372ERM0",
+    "https://www.ezcontacts.com/product/sunglasses/603284-603285/saint-laurent-sl-276-mica",
+    "https://www.eyeons.com/saint-laurent-sl-276-mica",
+    "https://www.ezcontacts.com/product/sunglasses/451925-1488897/saint-laurent-sl-28",
+    "https://ezcontacts.com/product/sunglasses/451931/saint-laurent-sl-28",
+    "https://www.ezcontacts.com/product/sunglasses/458794-458795/saint-laurent-sl-1",
+    "https://www.ezcontacts.com/product/sunglasses/1498688-1498689/miu-miu-mu-09ws",
+    "https://www.ezcontacts.com/product/sunglasses/1498688-1498692/miu-miu-mu-09ws",
+    "https://www.eyeons.com/products/miu-miu-mu-53ys",
+    "https://www.otticasm.com/en/sunglasses-miu-miu-mu-53ys-zvn5d1.html",
+    "https://www.ezcontacts.com/product/sunglasses/582466-582470/versace-ve4361",
+    "https://www.masvision.com.ar/products/anteojos-de-sol-versace-solar-ve4361-gb1-87-53",
+    "https://www.eyeons.com/products/versace-ve2150q",
+    "https://www.ezcontacts.com/product/sunglasses/220912/versace-ve2150q",
+    "https://www.eurooptica.com/products/dior-diorsignature-s1u-sunglasses",
+    "https://www.jomashop.com/dior-grey-square-ladies-sunglasses-diorsignature-s1u-10a0-55.html",
+    "https://www.eurooptica.com/products/dior-30montaigne-su-sunglasses",
+    "https://www.dior.com/en_us/fashion/products/30MTSUR_12A1-30montaigne-su-oversized-black-square-sunglasses",
+    "https://www.ezcontacts.com/product/sunglasses/1595194-1600921/diorpacific-s1u-cd40098u",
+    "https://www.eurooptica.com/products/dior-diorpacific-s1u-sunglasses",
+    "https://www.ezcontacts.com/product/sunglasses/977206-991032/balenciaga-bb0095s",
+    "https://www.ezcontacts.com/product/sunglasses/977209-991034/balenciaga-bb0096s",
+    "https://www.ezcontacts.com/product/sunglasses/977209-1488348/balenciaga-bb0096s"
+  ],
+  "not_verified": [
+    "Official brand sites blocked automated fetching (HTTP 403): prada.com, gucci.com, versace.com, dior.com, balenciaga.com, ysl.com, sunglasshut.com, mytheresa.com, framesdirect.com, coolframes.com. No price or spec in this file comes from a brand-owned page except the Dior 30Montaigne SU retail figure of $580, which came from search-result text and NOT from a fetched dior.com page.",
+    "All price_usd values are list/MSRP figures published by authorized online dealers (EZContacts, EyeOns, EuroOptica, DesignerOptics), not brand-confirmed RRP. Retailer sale prices are recorded in each model's notes.",
+    "Tom Ford Marko FT0144: NO price verified. go-optic.com served a CAPTCHA, coolframes.com 403, tomfordfashion.com 404, designeroptics/eurooptica 404 on their Marko slugs, ezcontactsusa.com had an invalid TLS certificate. price_usd/price_date left null.",
+    "Tom Ford Snowdon FT0237: price conflict left unresolved - EyeOns $490 vs DesignerOptics list $370. Recorded $490.",
+    "Tom Ford Whitney FT0009: frame material never stated on any fetched page - material left null. Price is colorway-dependent ($440-$605 on EuroOptica); recorded the $440 low end.",
+    "Versace VE2150Q: no MSRP found anywhere fetchable. The $223.74 recorded is EyeOns's out-of-stock listing price, not a Versace RRP.",
+    "Dior 30Montaigne SU: EuroOptica publishes 13 colour CODES with no colour NAMES. Only 12A1 ('Shiny Black') could be resolved; the other 12 colorways are intentionally absent from frame_colors.",
+    "Gucci GG0061S Havana (013) / brown gradient colorway and Gucci GG0036SN 'Acetate front + Optyl temples' material came from search snippets of pages that could not be fetched directly.",
+    "DiorPacific S1U White (95B0) colorway came from a dior.com URL/title in search results, not from a fetched page.",
+    "price_ars verified for only 2 of 20 models (Prada PR 17WS on galex.com.ar, Versace VE4361 on masvision.com.ar). All other price_ars are null.",
+    "available_in_argentina: only Prada PR 17WS and Versace VE4361 were confirmed true on Argentine retailer product pages with a local price. Tom Ford FT0237 Snowdon appeared in Argentine optician search listings but no .com.ar product page was fetched, so it stays 'import'. Every other model is marked 'import' as the conservative default; none was disproved, they simply were not checked model-by-model on an .com.ar page.",
+    "face_shapes_recommended is an optician heuristic derived from frame geometry and size for every model. It is NOT sourced from any brand or retailer page.",
+    "All hex values are derived from the source colour NAME for rendering purposes only; they are not measured or brand-published colour values.",
+    "Model-code corrections vs the brief: Tom Ford Marko is FT0144, not FT0335 (FT0335 is 'Eliott'); Tom Ford Whitney FT0009 is 64-14-110 oversized, not 53mm; Miu Miu MU 53YS is the semi-rimless metal logo model, not 'Glimpse' (Glimpse = MU 09WS family); there is no 'Dior DiorSignature S1U' 30Montaigne pairing named '30Montaigne S1U' - the reference is 30Montaigne SU (CD40030U); DiorPacific is S1U, not B1U; Prada 'Symbole SPR 17W' and 'PR 17WS' are the same product (SPR = the optical/EU code, PR = the US sun code), so they were merged into one entry; Gucci GG0036S is now produced as GG0036SN.",
+    "Balenciaga BB0003S (Shield) was NOT researched - dropped to keep the set at 20 models and within the 2-3 per brand cap.",
+    "Versace VE4425U and additional Prada Symbole references (PR 06YS) were NOT researched for the same reason."
+  ]
+}

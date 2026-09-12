@@ -1,0 +1,395 @@
+[
+  {
+    "id": "bensonruan-01",
+    "path": "assets/models/bensonruan-01/scene.gltf",
+    "title": "Sport Glasses B307",
+    "author": "hanchiahui",
+    "license": "CC-BY-4.0",
+    "source_url": "https://sketchfab.com/3d-models/sport-glasses-b307-7630c4ac090c42598de43d47554b4cf4",
+    "attribution_text": "This work is based on \"Sport Glasses B307\" (https://sketchfab.com/3d-models/sport-glasses-b307-7630c4ac090c42598de43d47554b4cf4) by hanchiahui (https://sketchfab.com/hanchiahui) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "bytes": 15243,
+    "format": "gltf-separate",
+    "files": [
+      "assets/models/bensonruan-01/license.txt",
+      "assets/models/bensonruan-01/scene.bin",
+      "assets/models/bensonruan-01/scene.gltf",
+      "assets/models/bensonruan-01/textures/B307_REALlambert3SG_baseColor.png",
+      "assets/models/bensonruan-01/textures/B307_REALphong1SG2_emissive.jpeg",
+      "assets/models/bensonruan-01/textures/B307_REALphong1SG2_metallicRoughness.png",
+      "assets/models/bensonruan-01/textures/B307_REALphong1SG2_transmission.png"
+    ],
+    "total_bytes": 2918430,
+    "mirror_url": "https://cdn.jsdelivr.net/gh/bensonruan/Virtual-Glasses-Try-on@master/3dmodel/glasses-01/",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "bensonruan-02",
+    "path": "assets/models/bensonruan-02/scene.gltf",
+    "title": "Glasses 07",
+    "author": "Dokono Kinokoda",
+    "license": "CC-BY-4.0",
+    "source_url": "https://sketchfab.com/3d-models/glasses-07-06b22104f56a4356aa9ffa825abd8d6b",
+    "attribution_text": "This work is based on \"Glasses 07\" (https://sketchfab.com/3d-models/glasses-07-06b22104f56a4356aa9ffa825abd8d6b) by Dokono Kinokoda (https://sketchfab.com/JunkWren) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "bytes": 19052,
+    "format": "gltf-separate",
+    "files": [
+      "assets/models/bensonruan-02/license.txt",
+      "assets/models/bensonruan-02/scene.bin",
+      "assets/models/bensonruan-02/scene.gltf",
+      "assets/models/bensonruan-02/textures/material_normal.png"
+    ],
+    "total_bytes": 6111724,
+    "mirror_url": "https://cdn.jsdelivr.net/gh/bensonruan/Virtual-Glasses-Try-on@master/3dmodel/glasses-02/",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "bensonruan-03",
+    "path": "assets/models/bensonruan-03/scene.gltf",
+    "title": "Cartoon Glasses",
+    "author": "Lucas_Bartolomeo",
+    "license": "CC-BY-4.0",
+    "source_url": "https://sketchfab.com/3d-models/cartoon-glasses-fddd63a49615405fb17f5c7ff65345c2",
+    "attribution_text": "This work is based on \"Cartoon Glasses\" (https://sketchfab.com/3d-models/cartoon-glasses-fddd63a49615405fb17f5c7ff65345c2) by Lucas_Bartolomeo (https://sketchfab.com/Lucas_Bartolomeo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "bytes": 11126,
+    "format": "gltf-separate",
+    "files": [
+      "assets/models/bensonruan-03/license.txt",
+      "assets/models/bensonruan-03/scene.bin",
+      "assets/models/bensonruan-03/scene.gltf",
+      "assets/models/bensonruan-03/textures/Plastico_baseColor.png",
+      "assets/models/bensonruan-03/textures/Plastico_metallicRoughness.png",
+      "assets/models/bensonruan-03/textures/Plastico_normal.png"
+    ],
+    "total_bytes": 1757434,
+    "mirror_url": "https://cdn.jsdelivr.net/gh/bensonruan/Virtual-Glasses-Try-on@master/3dmodel/glasses-03/",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "bensonruan-04",
+    "path": "assets/models/bensonruan-04/scene.gltf",
+    "title": "Plastic Sunglasses",
+    "author": "Incg5764",
+    "license": "CC-BY-4.0",
+    "source_url": "https://sketchfab.com/3d-models/plastic-sunglasses-d5417dcb97fb41b39f57fc8772a7ecab",
+    "attribution_text": "This work is based on \"Plastic Sunglasses\" (https://sketchfab.com/3d-models/plastic-sunglasses-d5417dcb97fb41b39f57fc8772a7ecab) by Incg5764 (https://sketchfab.com/incg5764) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "bytes": 13860,
+    "format": "gltf-separate",
+    "files": [
+      "assets/models/bensonruan-04/license.txt",
+      "assets/models/bensonruan-04/scene.bin",
+      "assets/models/bensonruan-04/scene.gltf"
+    ],
+    "total_bytes": 877080,
+    "mirror_url": "https://cdn.jsdelivr.net/gh/bensonruan/Virtual-Glasses-Try-on@master/3dmodel/glasses-04/",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "bensonruan-05",
+    "path": "assets/models/bensonruan-05/scene.gltf",
+    "title": "Aviator sunglasses",
+    "author": "Kimppo",
+    "license": "CC-BY-4.0",
+    "source_url": "https://sketchfab.com/3d-models/aviator-sunglasses-00d1cb5aa82745228a3b764c97f867de",
+    "attribution_text": "This work is based on \"Aviator sunglasses\" (https://sketchfab.com/3d-models/aviator-sunglasses-00d1cb5aa82745228a3b764c97f867de) by Kimppo (https://sketchfab.com/Kimppo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "bytes": 11427,
+    "format": "gltf-separate",
+    "files": [
+      "assets/models/bensonruan-05/license.txt",
+      "assets/models/bensonruan-05/scene.bin",
+      "assets/models/bensonruan-05/scene.gltf"
+    ],
+    "total_bytes": 1687311,
+    "mirror_url": "https://cdn.jsdelivr.net/gh/bensonruan/Virtual-Glasses-Try-on@master/3dmodel/glasses-05/",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "bensonruan-06",
+    "path": "assets/models/bensonruan-06/scene.gltf",
+    "title": "EyeGlasses",
+    "author": "thelegendofwolf",
+    "license": "CC-BY-4.0",
+    "source_url": "https://sketchfab.com/3d-models/eyeglasses-8ec54755399a4eca8a1356812e68fe02",
+    "attribution_text": "This work is based on \"EyeGlasses\" (https://sketchfab.com/3d-models/eyeglasses-8ec54755399a4eca8a1356812e68fe02) by thelegendofwolf (https://sketchfab.com/thelegendofwolf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "bytes": 7017,
+    "format": "gltf-separate",
+    "files": [
+      "assets/models/bensonruan-06/license.txt",
+      "assets/models/bensonruan-06/scene.bin",
+      "assets/models/bensonruan-06/scene.gltf",
+      "assets/models/bensonruan-06/textures/Material.001_baseColor.png"
+    ],
+    "total_bytes": 3269364,
+    "mirror_url": "https://cdn.jsdelivr.net/gh/bensonruan/Virtual-Glasses-Try-on@master/3dmodel/glasses-06/",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "bensonruan-07",
+    "path": "assets/models/bensonruan-07/scene.gltf",
+    "title": "3D frames generated in less than 10 seconds",
+    "author": "VReeAI",
+    "license": "CC-BY-4.0",
+    "source_url": "https://sketchfab.com/3d-models/3d-frames-generated-in-less-than-10-seconds-5cc3b37589ba43148352c850a764b2db",
+    "attribution_text": "This work is based on \"3D frames generated in less than 10 seconds\" (https://sketchfab.com/3d-models/3d-frames-generated-in-less-than-10-seconds-5cc3b37589ba43148352c850a764b2db) by VReeAI (https://sketchfab.com/VReeAI) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "bytes": 9969,
+    "format": "gltf-separate",
+    "files": [
+      "assets/models/bensonruan-07/license.txt",
+      "assets/models/bensonruan-07/scene.bin",
+      "assets/models/bensonruan-07/scene.gltf",
+      "assets/models/bensonruan-07/textures/Material_0.002_baseColor.png",
+      "assets/models/bensonruan-07/textures/Material_0_baseColor.png"
+    ],
+    "total_bytes": 732527,
+    "mirror_url": "https://cdn.jsdelivr.net/gh/bensonruan/Virtual-Glasses-Try-on@master/3dmodel/glasses-07/",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-aviator-gold",
+    "path": "assets/models/beear/aviator-gold.glb",
+    "title": "Aviator Gold",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR Studio)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/aviator-gold.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 37412,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/aviator-gold.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 37412,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/aviator-gold.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-wayfarer-black",
+    "path": "assets/models/beear/wayfarer-black.glb",
+    "title": "Wayfarer Black",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR Studio)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/wayfarer-black.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 10944,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/wayfarer-black.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 10944,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/wayfarer-black.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-round-tortoise",
+    "path": "assets/models/beear/round-tortoise.glb",
+    "title": "Round Tortoise",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR Studio)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/round-tortoise.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 35368,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/round-tortoise.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 35368,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/round-tortoise.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-cateye-rose",
+    "path": "assets/models/beear/cateye-rose.glb",
+    "title": "Cat-Eye Rose",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR Studio)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/cateye-rose.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 13148,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/cateye-rose.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 13148,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/cateye-rose.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-sport-blue",
+    "path": "assets/models/beear/sport-blue.glb",
+    "title": "Sport Wrap Blue",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR Active)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/sport-blue.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 10936,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/sport-blue.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 10936,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/sport-blue.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-rectangle-frost",
+    "path": "assets/models/beear/rectangle-frost.glb",
+    "title": "Rectangle Silver",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR Studio)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/rectangle-frost.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 10944,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/rectangle-frost.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 10944,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/rectangle-frost.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-clubmaster-amber",
+    "path": "assets/models/beear/clubmaster-amber.glb",
+    "title": "Clubmaster Amber",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR Heritage)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/clubmaster-amber.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 10948,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/clubmaster-amber.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 10948,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/clubmaster-amber.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-hex-graphite",
+    "path": "assets/models/beear/hex-graphite.glb",
+    "title": "Hex Clear",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR Studio)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/hex-graphite.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 10940,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/hex-graphite.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 10940,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/hex-graphite.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-glasses_meshy_ellipse",
+    "path": "assets/models/beear/glasses_meshy_ellipse.glb",
+    "title": "Meshy Ellipse Frames",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR x Meshy, AI-generated)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/glasses_meshy_ellipse.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 11520060,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/glasses_meshy_ellipse.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 11520060,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/glasses_meshy_ellipse.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-glasses_meshy_square",
+    "path": "assets/models/beear/glasses_meshy_square.glb",
+    "title": "Meshy Square Frames",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR x Meshy, AI-generated)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/glasses_meshy_square.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 11210124,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/glasses_meshy_square.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 11210124,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/glasses_meshy_square.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "beear-glasses_meshy_studio",
+    "path": "assets/models/beear/glasses_meshy_studio.glb",
+    "title": "Meshy Studio Frames",
+    "author": "MergeOS / ThanhTrucSolutions (BeeAR x Meshy, AI-generated)",
+    "license": "MIT",
+    "source_url": "https://github.com/mergeos-bounties/BeeAR/blob/master/packages/catalog/glb/glasses_meshy_studio.glb",
+    "attribution_text": "BeeAR frame assets - Copyright (c) 2026 MergeOS / ThanhTrucSolutions, MIT License. Permission notice in assets/models/beear/LICENSE.txt (https://github.com/mergeos-bounties/BeeAR/blob/master/LICENSE).",
+    "bytes": 11239948,
+    "format": "glb",
+    "files": [
+      "assets/models/beear/glasses_meshy_studio.glb",
+      "assets/models/beear/LICENSE.txt"
+    ],
+    "total_bytes": 11239948,
+    "mirror_url": "https://raw.githubusercontent.com/mergeos-bounties/BeeAR/master/packages/catalog/glb/glasses_meshy_studio.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "polypizza-aviator-google",
+    "path": "assets/models/polypizza/aviator-google.glb",
+    "title": "Aviator sunglasses",
+    "author": "Poly by Google",
+    "license": "CC-BY-3.0",
+    "source_url": "https://poly.pizza/m/0Wsi-ygmiIX",
+    "attribution_text": "\"Aviator sunglasses\" (https://poly.pizza/m/0Wsi-ygmiIX) by Poly by Google, via Poly Pizza, licensed under CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)",
+    "bytes": 140768,
+    "format": "glb",
+    "files": [
+      "assets/models/polypizza/aviator-google.glb"
+    ],
+    "total_bytes": 140768,
+    "mirror_url": "https://static.poly.pizza/f06bb790-a71c-4739-ad2d-f658fc625bc0.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "polypizza-sunglasses-jeremy",
+    "path": "assets/models/polypizza/sunglasses-jeremy.glb",
+    "title": "Sunglasses",
+    "author": "jeremy",
+    "license": "CC-BY-3.0",
+    "source_url": "https://poly.pizza/m/dCm3NXrMtSr",
+    "attribution_text": "\"Sunglasses\" (https://poly.pizza/m/dCm3NXrMtSr) by jeremy, via Poly Pizza, licensed under CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)",
+    "bytes": 28748,
+    "format": "glb",
+    "files": [
+      "assets/models/polypizza/sunglasses-jeremy.glb"
+    ],
+    "total_bytes": 28748,
+    "mirror_url": "https://static.poly.pizza/f7dafd04-8ef5-45f5-a57c-78c7a3d4f0cb.glb",
+    "retrieved": "2026-09-11"
+  },
+  {
+    "id": "polypizza-aviator-timehotel",
+    "path": "assets/models/polypizza/aviator-timehotel.glb",
+    "title": "Time Hotel 5.10 AviatorGlasses",
+    "author": "S. Paul Michael",
+    "license": "CC-BY-3.0",
+    "source_url": "https://poly.pizza/m/dAwE-2WVHIt",
+    "attribution_text": "\"Time Hotel 5.10 AviatorGlasses\" (https://poly.pizza/m/dAwE-2WVHIt) by S. Paul Michael, via Poly Pizza, licensed under CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)",
+    "bytes": 1007628,
+    "format": "glb",
+    "files": [
+      "assets/models/polypizza/aviator-timehotel.glb"
+    ],
+    "total_bytes": 1007628,
+    "mirror_url": "https://static.poly.pizza/d2594fa9-6a59-41b2-b286-45242f6a45cd.glb",
+    "retrieved": "2026-09-11"
+  }
+]

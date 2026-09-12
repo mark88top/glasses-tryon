@@ -1,0 +1,451 @@
+{
+  "models": [
+    {
+      "brand": "Vulk",
+      "model": "Woke SBLK/S10 POL",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Negro", "hex": "#000000" }
+      ],
+      "lens_colors": [
+        { "name": "Gris polarizada", "hex": "#6e6e6e", "mirrored": false, "polarized": true }
+      ],
+      "material": "TR90",
+      "lens_width_mm": 51,
+      "bridge_mm": 24,
+      "temple_mm": 145,
+      "face_shapes_recommended": ["square", "diamond", "oblong"],
+      "price_usd": null,
+      "price_ars": 83600,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.opticaslookout.com.ar/products/vulk-woke-sblk-s10-pol",
+      "iconic": false,
+      "notes": "Precio de RETAILER argentino (Opticas Lookout), no del sitio oficial: vulk.com.ar no respondio (ECONNREFUSED) y vulkeyewear.com no publica precios. Ficha de Lookout: 51-24-145, altura 54mm, TR90, aro completo, unisex. El mismo modelo aparece a $132.000 en masvision.com.ar (Woke Sblk/s10 Polarizado) y a $166.600 en sunstore.com.ar (Woke CRY/SG91 POL) - la dispersion entre opticas es enorme. Tiendadeanteojos.com.ar describe el Woke como 'hexagonal' mientras Lookout lo taggea 'Redondo': hay conflicto de forma entre fuentes.",
+      "sources": [
+        "https://www.opticaslookout.com.ar/products/vulk-woke-sblk-s10-pol",
+        "https://www.opticaslookout.com.ar/collections/sol-vulk",
+        "https://www.masvision.com.ar/collections/sol-vulk",
+        "https://www.tiendadeanteojos.com.ar/productos/anteojo-vulk-woke-black/"
+      ]
+    },
+    {
+      "brand": "Vulk",
+      "model": "Pretend SBLK/G15 POL",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Negro", "hex": "#000000" }
+      ],
+      "lens_colors": [
+        { "name": "G15 polarizada", "hex": "#2f4032", "mirrored": false, "polarized": true }
+      ],
+      "material": "TR90",
+      "lens_width_mm": 51,
+      "bridge_mm": 18,
+      "temple_mm": 145,
+      "face_shapes_recommended": ["round", "oval", "heart"],
+      "price_usd": null,
+      "price_ars": 85300,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.opticaslookout.com.ar/products/vulk-pretend-sblk-g15-pol",
+      "iconic": false,
+      "notes": "Precio de RETAILER argentino (Opticas Lookout). Ficha: 51-18-145, altura 44mm, TR90, aro completo, unisex, patilla sin flex. Variante Pretend MBLK/S10 Polarizado figura a $132.000 en masvision.com.ar y Pretend S.PINK/BG26 POL a $175.500 en sunstore.com.ar.",
+      "sources": [
+        "https://www.opticaslookout.com.ar/products/vulk-pretend-sblk-g15-pol",
+        "https://www.opticaslookout.com.ar/collections/sol-vulk",
+        "https://www.masvision.com.ar/collections/sol-vulk",
+        "https://www.sunstore.com.ar/lentes-de-sol/vulk/"
+      ]
+    },
+    {
+      "brand": "Vulk",
+      "model": "Yester MBLK Revo Rose",
+      "category": "sunglasses",
+      "shape": "aviator",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Negro Mate", "hex": "#1a1a1a" }
+      ],
+      "lens_colors": [
+        { "name": "Espejado Rosa", "hex": "#f2a0b5", "mirrored": true, "polarized": false }
+      ],
+      "material": "TR90",
+      "lens_width_mm": 53,
+      "bridge_mm": 19,
+      "temple_mm": 140,
+      "face_shapes_recommended": ["oval", "square", "heart", "oblong"],
+      "price_usd": null,
+      "price_ars": 120100,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.opticaslookout.com.ar/products/vulk-yester-mblk-revo-rose",
+      "iconic": false,
+      "notes": "Precio de RETAILER argentino (Opticas Lookout). Ficha: 53-19-140, TR90, 28 gramos, patilla flex: No, unisex, aro completo. La forma 'aviator' viene del tag de forma del listado de Lookout (coleccion sol-vulk); la ficha del producto solo dice 'aro completo'. No dice polarizado, solo espejado.",
+      "sources": [
+        "https://www.opticaslookout.com.ar/products/vulk-yester-mblk-revo-rose",
+        "https://www.opticaslookout.com.ar/collections/sol-vulk"
+      ]
+    },
+    {
+      "brand": "Vulk",
+      "model": "Ethereal MBLK R.Blue",
+      "category": "sunglasses",
+      "shape": "cat_eye",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Negro", "hex": "#000000" }
+      ],
+      "lens_colors": [
+        { "name": "Espejado Azul", "hex": "#3a6ea5", "mirrored": true, "polarized": false }
+      ],
+      "material": "Acetato",
+      "lens_width_mm": 54,
+      "bridge_mm": 17,
+      "temple_mm": 145,
+      "face_shapes_recommended": ["round", "square", "diamond", "oval"],
+      "price_usd": null,
+      "price_ars": 106100,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.opticaslookout.com.ar/products/vulk-ethereal-mblk-r-blue",
+      "iconic": false,
+      "notes": "Precio de RETAILER argentino (Opticas Lookout). Ficha: 54-17-145, acetato, unisex, aro completo. La forma 'cat_eye' sale del tag de forma del listado de Lookout. No consta polarizacion, solo espejado.",
+      "sources": [
+        "https://www.opticaslookout.com.ar/products/vulk-ethereal-mblk-r-blue",
+        "https://www.opticaslookout.com.ar/collections/sol-vulk"
+      ]
+    },
+    {
+      "brand": "Rusty",
+      "model": "Malice MBLK Revo Blue",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Negro mate", "hex": "#1a1a1a" }
+      ],
+      "lens_colors": [
+        { "name": "Azul espejada", "hex": "#3a6ea5", "mirrored": true, "polarized": false }
+      ],
+      "material": "TR90",
+      "lens_width_mm": 54,
+      "bridge_mm": 18,
+      "temple_mm": 145,
+      "face_shapes_recommended": ["round", "oval", "heart"],
+      "price_usd": null,
+      "price_ars": 92800,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.opticaslookout.com.ar/products/rusty-malice-mblk-revo-blue",
+      "iconic": false,
+      "notes": "Precio de RETAILER argentino (Opticas Lookout): rusty.com.ar es tienda oficial pero NO vende anteojos (solo indumentaria/calzado/accesorios), el eyewear de Rusty en AR se vende por opticas. Ficha: 54-18-145, altura de lente 49mm, TR90, bisagras flex, unisex, aro completo. Forma declarada 'Rectangular / Cuadrado'. El mismo modelo (Malice Mblk/R.Blue) figura a $175.500 en sunstore.com.ar y Malice Green Pearl a $120.000 en masvision.com.ar.",
+      "sources": [
+        "https://www.opticaslookout.com.ar/products/rusty-malice-mblk-revo-blue",
+        "https://www.opticaslookout.com.ar/collections/sol-rusty",
+        "https://www.sunstore.com.ar/lentes-de-sol/rusty/",
+        "https://www.rusty.com.ar/"
+      ]
+    },
+    {
+      "brand": "Rusty",
+      "model": "Called MBLK S15",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Negro mate", "hex": "#1a1a1a" }
+      ],
+      "lens_colors": [
+        { "name": "Gris", "hex": "#808080", "mirrored": false, "polarized": false }
+      ],
+      "material": "TR90",
+      "lens_width_mm": 54,
+      "bridge_mm": 19,
+      "temple_mm": 145,
+      "face_shapes_recommended": ["round", "oval", "heart"],
+      "price_usd": null,
+      "price_ars": 82500,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.opticaslookout.com.ar/products/rusty-called-mblk-s15",
+      "iconic": false,
+      "notes": "Precio de RETAILER argentino (Opticas Lookout). Ficha: 54-19-145, altura 45mm, TR90, patilla flex: Si, unisex, aro completo, forma Rectangular. La ficha no declara polarizado ni espejado. Variantes del mismo modelo: Called Green Pearl $120.000 (masvision.com.ar) y Called MBLK/R.RED POL $175.500 (sunstore.com.ar).",
+      "sources": [
+        "https://www.opticaslookout.com.ar/products/rusty-called-mblk-s15",
+        "https://www.opticaslookout.com.ar/collections/sol-rusty",
+        "https://www.masvision.com.ar/collections/sol-rusty",
+        "https://www.sunstore.com.ar/lentes-de-sol/rusty/"
+      ]
+    },
+    {
+      "brand": "Rusty",
+      "model": "Jackie SBLK/S10 POL",
+      "category": "sunglasses",
+      "shape": "shield",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Negro Brilloso", "hex": "#000000" }
+      ],
+      "lens_colors": [
+        { "name": "Gris Pleno Polarizadas", "hex": "#6e6e6e", "mirrored": false, "polarized": true }
+      ],
+      "material": "G-FLEX",
+      "lens_width_mm": 64,
+      "bridge_mm": 13,
+      "temple_mm": 135,
+      "face_shapes_recommended": ["oval", "round", "heart"],
+      "price_usd": null,
+      "price_ars": 99500,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.tiendadeanteojos.com.ar/productos/anteojo-rusty-jackie-negro-brilloso/",
+      "iconic": false,
+      "notes": "Precio de RETAILER argentino (Tienda de Anteojos Optica), no del sitio oficial de Rusty. Ficha verbatim: '64 mm diametro de cada lente, A:160mm, B: 55 mm, C: 13 mm ancho del puente, D: 135 mm largo de patilla', marcos de G-FLEX, lentes de policarbonato, 100% UVA/UVB, color SBLK/S10 POL. La forma 'shield' se toma de la descripcion 'Modelo Envolvente y fino' (no hay tag de forma explicito).",
+      "sources": [
+        "https://www.tiendadeanteojos.com.ar/productos/anteojo-rusty-jackie-negro-brilloso/",
+        "https://www.tiendadeanteojos.com.ar/sol/rusty1/"
+      ]
+    },
+    {
+      "brand": "Vans",
+      "model": "Spicoli 4 Shades",
+      "category": "sunglasses",
+      "shape": "round",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Rojo", "hex": "#c8102e" },
+        { "name": "Tortoise", "hex": "#7b4a2d" }
+      ],
+      "lens_colors": [
+        { "name": "Negro", "hex": "#1c1c1c", "mirrored": false, "polarized": false }
+      ],
+      "material": "Plastico (policarbonato)",
+      "lens_width_mm": 52,
+      "bridge_mm": null,
+      "temple_mm": null,
+      "face_shapes_recommended": ["square", "diamond", "oblong"],
+      "price_usd": null,
+      "price_ars": null,
+      "price_date": null,
+      "available_in_argentina": true,
+      "buy_url": "https://www.mercadolibre.com.ar/anteojos-de-sol-vans-spicoli-4-shades-armazon-rojo/p/MLA22907853",
+      "iconic": true,
+      "notes": "SIN PRECIO VERIFICADO. vans.com.ar (tienda oficial AR) NO tiene categoria de anteojos de sol: su seccion Accesorios solo lista gorras, gorros, bolsos, billeteras, mochilas y medias, y /catalogsearch?q=spicoli devuelve 404. Las dos fichas de catalogo de Mercado Libre AR del modelo estan 'Sin stock', asi que no muestran precio. Specs verificadas en la ficha de catalogo ML (armazon rojo): material del armazon plastico, lente de policarbonato, NO polarizada, con proteccion UV, unisex, 'Forma del armazon: Ovalada', lente 5,2 cm de ancho x 4,2 cm de alto (de ahi lens_width_mm=52). La ficha de la variante Tortoise (MLA28928504) declara 'Forma del armazon: Redonda' y tratamiento de lente degrade; su descripcion de vendedor da puente 10 mm y varilla 150 mm, pero como es texto de vendedor y contradice el resto, no se carga en bridge_mm/temple_mm. shape='round' es la conciliacion de 'Ovalada'/'Redonda'.",
+      "sources": [
+        "https://www.mercadolibre.com.ar/anteojos-de-sol-vans-spicoli-4-shades-armazon-rojo/p/MLA22907853",
+        "https://www.mercadolibre.com.ar/lentes-vans-spicoli-4-shades-gafas-tortoise-urban-beach-color-tortiose/p/MLA28928504",
+        "https://www.vans.com.ar/accesorios/anteojos"
+      ]
+    },
+    {
+      "brand": "Vans",
+      "model": "Seek Shades",
+      "category": "sunglasses",
+      "shape": "rectangle",
+      "gender": "unisex",
+      "frame_colors": [
+        { "name": "Rojo", "hex": "#c8102e" }
+      ],
+      "lens_colors": [
+        { "name": "Negro", "hex": "#1c1c1c", "mirrored": false, "polarized": false }
+      ],
+      "material": "Policarbonato",
+      "lens_width_mm": null,
+      "bridge_mm": null,
+      "temple_mm": null,
+      "face_shapes_recommended": ["round", "oval", "heart"],
+      "price_usd": null,
+      "price_ars": 100000,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.mercadolibre.com.ar/lentes-anteojo-de-sol-vans-seek-shades-originales-importadas/up/MLAU4017024332",
+      "iconic": false,
+      "notes": "Precio de RETAILER: publicacion de Mercado Libre Argentina (marca VANS, 'Originales Importadas'), no del sitio oficial - vans.com.ar no vende anteojos de sol. Ficha ML: armazon de policarbonato forma rectangular, varilla de policarbonato color rojo, lente clasica color negro, NO polarizada, con proteccion UV, unisex. La medida que publica ('lentes de 14.5cm de ancho x 5.4cm de alto') es el ancho TOTAL del frente, no el calibre, por eso lens_width_mm queda en null.",
+      "sources": [
+        "https://www.mercadolibre.com.ar/lentes-anteojo-de-sol-vans-seek-shades-originales-importadas/up/MLAU4017024332",
+        "https://listado.mercadolibre.com.ar/anteojos-de-sol-vans-spicoli_NoIndex_True"
+      ]
+    },
+    {
+      "brand": "Quiksilver",
+      "model": "Eliminator (Ktd3)",
+      "category": "sunglasses",
+      "shape": "sport",
+      "gender": "male",
+      "frame_colors": [
+        { "name": "NEGRO", "hex": "#000000" }
+      ],
+      "lens_colors": [],
+      "material": "Montura inyectada a base de botellas de plastico recicladas (50% policarbonato, 50% PET reciclado); lentes de policarbonato",
+      "lens_width_mm": 51,
+      "bridge_mm": 20,
+      "temple_mm": 140,
+      "face_shapes_recommended": ["oval", "round", "square"],
+      "price_usd": null,
+      "price_ars": 199999,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.quiksilver.com.ar/anteojos-eliminator-ktd3-quiksilver",
+      "iconic": false,
+      "notes": "Precio del SITIO OFICIAL argentino (quiksilver.com.ar), SKU 2261122016, codigo de color (Ktd3). Ficha oficial: 'Lente: 51 mm / Puente: 20 mm / Varillas: 140 mm / Altura de la lente: 44,3 mm', escudo de goma de una pieza desmontable, pads de goma para la nariz, lente base 4, 100% UV, Cat.3, fabricado en Italia. Genero declarado: Hombre. El sitio publica el color del armazon (NEGRO) pero NO el color de lente, por eso lens_colors queda vacio. Precio sin impuestos nacionales: $165.288,43. Solo se accede con navegador: WebFetch da 403.",
+      "sources": [
+        "https://www.quiksilver.com.ar/anteojos-eliminator-ktd3-quiksilver",
+        "https://www.quiksilver.com.ar/hombre/accesorios/anteojos-de-sol"
+      ]
+    },
+    {
+      "brand": "Quiksilver",
+      "model": "Ferris Polarized (Kyh0)",
+      "category": "sunglasses",
+      "shape": "wayfarer",
+      "gender": "male",
+      "frame_colors": [
+        { "name": "NEGRO", "hex": "#000000" }
+      ],
+      "lens_colors": [],
+      "material": "Montura inyectada a base de botellas de plastico recicladas (50% policarbonato, 50% PET reciclado); lentes polarizadas de policarbonato",
+      "lens_width_mm": 57,
+      "bridge_mm": 18,
+      "temple_mm": 140,
+      "face_shapes_recommended": ["round", "oval", "heart", "diamond"],
+      "price_usd": null,
+      "price_ars": 199999,
+      "price_date": "2026-09-11",
+      "available_in_argentina": true,
+      "buy_url": "https://www.quiksilver.com.ar/anteojos-ferris-polarized-kyh0-quiksilver",
+      "iconic": false,
+      "notes": "Precio del SITIO OFICIAL argentino (quiksilver.com.ar), SKU 2261122021, codigo de color (Kyh0). Ficha oficial: 'Lente: 57 mm / Puente: 18 mm / Varillas: 140 mm / Altura de la lente: 44 mm', lentes POLARIZADAS de policarbonato, lente base 4, 100% UV, Cat.3, fabricado en Italia. Genero declarado: Hombre. El sitio no publica color de lente (solo color de armazon NEGRO), por eso lens_colors queda vacio. Precio sin impuestos nacionales: $165.288,43. shape='wayfarer' es inferencia visual del modelo Ferris: el sitio NO declara forma. La linea Ferris no polarizada cotiza $179.999 el mismo dia.",
+      "sources": [
+        "https://www.quiksilver.com.ar/anteojos-ferris-polarized-kyh0-quiksilver",
+        "https://www.quiksilver.com.ar/hombre/accesorios/anteojos-de-sol"
+      ]
+    }
+  ],
+  "retailers": [
+    {
+      "name": "Sunglass Hut Argentina",
+      "url": "https://www.sunglasshut.com/",
+      "brands_carried": ["Ray-Ban", "Michael Kors"],
+      "price_ranges_ars": [],
+      "sources": [
+        "https://puntobiz.com.ar/negocios/2019-8-14-5-47-0-cadena-de-opticas-de-capitales-italianos-abre-su-tercer-local-en-el-pais",
+        "https://shoppingscencosud.com.ar/unicenter/tiendas/sunglass-hut",
+        "https://www.sunglasshut.com/us/404"
+      ],
+      "notes": "NO HAY E-COMMERCE ARGENTINO: sunglasshut.com.ar no resuelve DNS (ERR_NAME_NOT_RESOLVED), https://www.sunglasshut.com/ar y https://latam.sunglasshut.com/ar devuelven 404, y no existe tienda oficial en Mercado Libre (mercadolibre.com.ar/tienda/sunglass-hut = 'Parece que esta pagina no existe'). Por eso NO se pudo verificar ningun rango de precios en ARS por marca: price_ranges_ars queda vacio a proposito. Opera solo con locales fisicos (Luxottica): Nordelta Shopping (Tigre, el primero, 2017), Unicenter Shopping (Nivel 2, Paran 3745, Martinez, 10 a 22 h) y Alcorta Shopping / Paseo Alcorta (2do piso, CABA). Las unicas marcas confirmadas por fuente periodistica argentina son Ray-Ban y Michael Kors (Punto Biz, 14-ago-2019); el listado tipico de la cadena (Oakley, Prada, Persol, Gucci) aparece solo en texto SEO de listados de Mercado Libre, no en fuente oficial, y por eso NO se carga."
+    },
+    {
+      "name": "Opticas Lookout",
+      "url": "https://www.opticaslookout.com.ar/",
+      "brands_carried": ["Vulk", "Rusty"],
+      "price_ranges_ars": [
+        { "brand": "Vulk", "min": 83600, "max": 120100, "date": "2026-09-11" },
+        { "brand": "Rusty", "min": 82500, "max": 188000, "date": "2026-09-11" }
+      ],
+      "sources": [
+        "https://www.opticaslookout.com.ar/collections/sol-vulk",
+        "https://www.opticaslookout.com.ar/collections/sol-rusty"
+      ],
+      "notes": "Rangos calculados sobre los productos efectivamente listados en la primera pagina de cada coleccion el 11-sep-2026 (Vulk: 136 productos totales, Rusty: 76 productos totales), no sobre el catalogo completo. Es el retailer AR con fichas tecnicas mas completas (calibre-puente-varilla, material, forma, unisex)."
+    },
+    {
+      "name": "Sunstore Argentina",
+      "url": "https://www.sunstore.com.ar/",
+      "brands_carried": ["Vulk", "Rusty"],
+      "price_ranges_ars": [
+        { "brand": "Vulk", "min": 166600, "max": 175500, "date": "2026-09-11" },
+        { "brand": "Rusty", "min": 166600, "max": 175500, "date": "2026-09-11" }
+      ],
+      "sources": [
+        "https://www.sunstore.com.ar/lentes-de-sol/vulk/",
+        "https://www.sunstore.com.ar/lentes-de-sol/rusty/"
+      ],
+      "notes": "Precios sensiblemente mas altos que Lookout/Tienda de Anteojos para los MISMOS modelos (ej. Vulk Woke: $83.600 en Lookout vs $175.500 aca). Rango sobre los productos listados el 11-sep-2026."
+    },
+    {
+      "name": "Mas Vision Argentina",
+      "url": "https://www.masvision.com.ar/",
+      "brands_carried": ["Vulk", "Rusty"],
+      "price_ranges_ars": [
+        { "brand": "Vulk", "min": 120000, "max": 145000, "date": "2026-09-11" },
+        { "brand": "Rusty", "min": 120000, "max": 132000, "date": "2026-09-11" }
+      ],
+      "sources": [
+        "https://www.masvision.com.ar/collections/sol-vulk",
+        "https://www.masvision.com.ar/collections/sol-rusty"
+      ],
+      "notes": "Rango sobre los productos listados el 11-sep-2026. Incluye la edicion especial Vulk x The Rolling Stones 'Tattoo You C6' a $145.000. Los precios de lista no incluyen las promos que publica el sitio (15% OFF primera compra, 50% en el segundo par)."
+    },
+    {
+      "name": "Tienda de Anteojos Optica",
+      "url": "https://www.tiendadeanteojos.com.ar/",
+      "brands_carried": ["Vulk", "Rusty"],
+      "price_ranges_ars": [
+        { "brand": "Vulk", "min": 92000, "max": 104000, "date": "2026-09-11" },
+        { "brand": "Rusty", "min": 99500, "max": 104000, "date": "2026-09-11" }
+      ],
+      "sources": [
+        "https://www.tiendadeanteojos.com.ar/sol/vulk1/",
+        "https://www.tiendadeanteojos.com.ar/sol/rusty1/"
+      ],
+      "notes": "Rango sobre los productos listados el 11-sep-2026. Publica medidas verbatim tipo 'A/B/C/D' con etiquetas inconsistentes entre fichas (a veces A es ancho total y el calibre va aparte como 'diametro de cada lente'), por eso solo se cargaron las medidas donde la etiqueta estaba escrita explicitamente."
+    }
+  ],
+  "sources": [
+    "https://www.opticaslookout.com.ar/collections/sol-vulk",
+    "https://www.opticaslookout.com.ar/collections/sol-rusty",
+    "https://www.opticaslookout.com.ar/products/vulk-woke-sblk-s10-pol",
+    "https://www.opticaslookout.com.ar/products/vulk-pretend-sblk-g15-pol",
+    "https://www.opticaslookout.com.ar/products/vulk-yester-mblk-revo-rose",
+    "https://www.opticaslookout.com.ar/products/vulk-ethereal-mblk-r-blue",
+    "https://www.opticaslookout.com.ar/products/rusty-malice-mblk-revo-blue",
+    "https://www.opticaslookout.com.ar/products/rusty-called-mblk-s15",
+    "https://www.tiendadeanteojos.com.ar/sol/vulk1/",
+    "https://www.tiendadeanteojos.com.ar/sol/rusty1/",
+    "https://www.tiendadeanteojos.com.ar/productos/anteojo-rusty-jackie-negro-brilloso/",
+    "https://www.tiendadeanteojos.com.ar/productos/anteojo-vulk-register-black/",
+    "https://www.tiendadeanteojos.com.ar/productos/anteojo-vulk-senza-black/",
+    "https://www.tiendadeanteojos.com.ar/productos/anteojo-vulk-kabu-mate/",
+    "https://www.tiendadeanteojos.com.ar/productos/anteojo-vulk-hills-negro-mate/",
+    "https://www.tiendadeanteojos.com.ar/productos/anteojo-vulk-woke-black/",
+    "https://www.tiendadeanteojos.com.ar/productos/anteojo-rusty-blion/",
+    "https://www.tiendadeanteojos.com.ar/productos/anteojo-rusty-marilyn-23-marron/",
+    "https://www.masvision.com.ar/collections/sol-vulk",
+    "https://www.masvision.com.ar/collections/sol-rusty",
+    "https://www.sunstore.com.ar/lentes-de-sol/vulk/",
+    "https://www.sunstore.com.ar/lentes-de-sol/rusty/",
+    "https://vulkeyewear.com/",
+    "https://www.rusty.com.ar/",
+    "https://www.quiksilver.com.ar/hombre/accesorios/anteojos-de-sol",
+    "https://www.quiksilver.com.ar/anteojos-eliminator-ktd3-quiksilver",
+    "https://www.quiksilver.com.ar/anteojos-ferris-polarized-kyh0-quiksilver",
+    "https://www.vans.com.ar/accesorios/anteojos",
+    "https://www.mercadolibre.com.ar/anteojos-de-sol-vans-spicoli-4-shades-armazon-rojo/p/MLA22907853",
+    "https://www.mercadolibre.com.ar/lentes-vans-spicoli-4-shades-gafas-tortoise-urban-beach-color-tortiose/p/MLA28928504",
+    "https://www.mercadolibre.com.ar/lentes-anteojo-de-sol-vans-seek-shades-originales-importadas/up/MLAU4017024332",
+    "https://listado.mercadolibre.com.ar/anteojos-de-sol-vans-spicoli_NoIndex_True",
+    "https://puntobiz.com.ar/negocios/2019-8-14-5-47-0-cadena-de-opticas-de-capitales-italianos-abre-su-tercer-local-en-el-pais",
+    "https://shoppingscencosud.com.ar/unicenter/tiendas/sunglass-hut"
+  ],
+  "not_verified": [
+    "Vans Spicoli 4 Shades: precio en ARS NO verificado. vans.com.ar no tiene categoria de anteojos de sol (Accesorios = gorras, gorros, bolsos, billeteras, mochilas, medias) y /catalogsearch?q=spicoli da 404. Las dos fichas de catalogo de Mercado Libre AR del modelo (MLA22907853 rojo y MLA28928504 tortoise) figuran 'Sin stock' y por eso no muestran precio.",
+    "Vans Spicoli 4 Shades: puente y varilla NO verificados. La unica fuente que los da (10 mm puente / 150 mm varilla) es texto libre del vendedor en la ficha tortoise y contradice las medidas oficiales del modelo; se dejo null.",
+    "Vans: no se encontro ningun retailer deportivo argentino serio (Dexter, Open Sports, Solo Deportes, Falabella AR) con anteojos de sol Vans en stock; la unica oferta viva es Mercado Libre.",
+    "Vans Seek Shades: calibre/puente/varilla NO publicados (la medida de la ficha ML es ancho total del frente, 14,5 cm). Tampoco hay pagina oficial de Vans AR para cruzar.",
+    "Sunglass Hut Argentina: rangos de precio en ARS por marca NO verificables. No existe e-commerce argentino (sunglasshut.com.ar sin DNS, sunglasshut.com/ar y latam.sunglasshut.com/ar en 404, sin tienda oficial en Mercado Libre). Solo locales fisicos.",
+    "Sunglass Hut Argentina: marcas mas alla de Ray-Ban y Michael Kors NO verificadas en fuente oficial. Oakley, Prada, Persol y Gucci aparecen solo en texto SEO de listados de Mercado Libre, no en un sitio de la cadena ni en prensa argentina.",
+    "Vulk: sitio oficial argentino vulk.com.ar NO accesible (connect ECONNREFUSED 209.208.110.86:443) el 11-sep-2026; vulkeyewear.com responde pero no publica precios ni fichas de los modelos consultados. Todos los precios de Vulk son de retailers argentinos.",
+    "Rusty: rusty.com.ar es la tienda oficial argentina pero NO vende eyewear (solo indumentaria, calzado y accesorios). Todos los precios de Rusty son de opticas argentinas.",
+    "Quiksilver: el sitio oficial NO publica color de lente ni forma de armazon en sus fichas, solo color de armazon y medidas. lens_colors quedo vacio y el shape de Ferris Polarized es inferencia, no dato de fuente.",
+    "Quiksilver Ellipse, Slash, Tagger, Warlock, Winch, Wind Wave, Castaway, Beach Bandit, Shipwreck, Fishy: modelos vistos en el listado oficial con precio ($99.999 a $299.999) pero sin ficha abierta, no se cargaron como modelos.",
+    "Vulk Rolling Stones 'Tattoo You C6' ($145.000 en masvision.com.ar): edicion especial iconica, pero sin ficha tecnica (forma, medidas, material) verificada, por eso no se cargo como modelo.",
+    "Dispersion de precios: el mismo modelo/color puede variar mas del 100% entre opticas argentinas (ej. Vulk Woke SBLK/S10 POL: $83.600 en Lookout, $132.000 en Mas Vision, $175.500 en Sunstore). Todos los price_ars son del 2026-09-11 y hay que revalidarlos seguido.",
+    "face_shapes_recommended: es criterio optico estandar por forma de armazon, NO un dato publicado por ninguna de las fuentes.",
+    "hex de colores: derivados del nombre real del color publicado por la fuente (Negro, Negro mate, Gris polarizada, G15, Espejado Rosa, Espejado Azul, Rojo, Tortoise); ninguna fuente publica codigos de color."
+  ]
+}

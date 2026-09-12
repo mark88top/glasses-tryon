@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Calibración de monturas 3D</title>
+<style>
+body{margin:0;background:#11141b;color:#e8ecf2;font:12px -apple-system,system-ui,sans-serif}
+.row{display:flex;align-items:center;gap:10px;padding:6px 10px;border-bottom:1px solid #262c38}
+.row canvas{background:#2b313d;border-radius:6px}
+.name{width:190px;font-weight:600}
+.meta{color:#98a2b3;font-size:11px;line-height:1.5}
+.bad{color:#f87171}
+</style>
+<script type="importmap">
+{"imports":{"three":"../vendor/three/build/three.module.js","three/addons/":"../vendor/three/jsm/"}}
+</script>
+</head><body>
+<div id="out"></div>
+<script type="module">
+import * as THREE from 'three';
+import { loadFrame } from '../src/model3d.js';
+
+const VIEWS = [
+  { name: 'frente', dir: [0, 0, 1] },
+  { name: 'perfil', dir: [1, 0, 0] },
+  { name: '3/4',    dir: [0.75, 0.35, 0.85] },
+];
+const W = 190, H = 120;
+
+// UN SOLO contexto WebGL para todo: Chrome corta cerca de los 16 y a partir de
+// ahi los canvas salen en blanco sin avisar. Se renderiza aca y se copian los
+// pixeles a un canvas 2D por vista.
+const gl = document.createElement('canvas');
+gl.width = W * 2; gl.height = H * 2;
+const renderer = new THREE.WebGLRenderer({ canvas: gl, antialias: true, alpha: false });
+renderer.setClearColor(0x2b313d, 1);
+
+const scene = new THREE.Scene();
+scene.add(new THREE.HemisphereLight(0xffffff, 0x404050, 2.2));
+const key = new THREE.DirectionalLight(0xffffff, 2.0); key.position.set(1, 1.4, 2); scene.add(key);
+const rim = new THREE.DirectionalLight(0xaaccff, 1.0); rim.position.set(-1.5, 0.6, -1); scene.add(rim);
+const holder = new THREE.Group(); scene.add(holder);
+
+function renderViews(obj) {
+  holder.clear(); holder.add(obj);
+  const out = [];
+  const span = 1.45, asp = W / H;
+  for (const v of VIEWS) {
+    const cam = new THREE.OrthographicCamera(-span * asp / 2, span * asp / 2, span / 2, -span / 2, -20, 20);
+    cam.position.set(...v.dir); cam.lookAt(0, 0, 0);
+    renderer.render(scene, cam);
+    const cv = document.createElement('canvas');
+    cv.width = gl.width; cv.height = gl.height;
+    cv.style.width = W + 'px'; cv.style.height = H + 'px';
+    cv.getContext('2d').drawImage(gl, 0, 0);
+    out.push(cv);
+  }
+  holder.clear();
+  return out;
+}
+
+const manifest = await (await fetch('../assets/models/credits.json')).json();
+const entries = Array.isArray(manifest) ? manifest : (manifest.models || manifest.assets || []);
+const out = document.getElementById('out');
+const report = [];
+
+for (const e of entries) {
+  const row = document.createElement('div'); row.className = 'row';
+  const label = document.createElement('div'); label.className = 'name';
+  label.textContent = e.id || e.path;
+  row.appendChild(label);
+  out.appendChild(row);
+  try {
+    const f = await loadFrame('../' + e.path.replace(/^\.?\//, ''));
+    for (const cv of renderViews(f.object)) row.appendChild(cv);
+    const meta = document.createElement('div'); meta.className = 'meta';
+    meta.innerHTML = `ejes X${f.detected.axes.x} Y${f.detected.axes.y} Z${f.detected.axes.z}` +
+      ` · signos y${f.detected.signs.y} z${f.detected.signs.z}<br>` +
+      `simetría ${f.detected.symmetry.join(' / ')} · conf ${f.detected.confidence}<br>` +
+      `alto ${f.stats.aspect.h} · fondo ${f.stats.aspect.d} · ${f.stats.vertices} vértices`;
+    row.appendChild(meta);
+    report.push({ id: e.id, ok: true, detected: f.detected, stats: f.stats });
+  } catch (err) {
+    const meta = document.createElement('div'); meta.className = 'meta bad';
+    meta.textContent = 'ERROR: ' + err.message;
+    row.appendChild(meta);
+    report.push({ id: e.id, ok: false, error: err.message });
+  }
+}
+window.__calib = report;
+window.__calibDone = true;
+</script>
+</body></html>
